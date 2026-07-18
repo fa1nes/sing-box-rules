@@ -1,0 +1,54 @@
+name: Sync upstream rule-sets
+
+on:
+  schedule:
+    # 每天 00:00 北京时间 = 16:00 UTC(前一天)
+    - cron: '0 16 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download upstream rule-sets
+        run: |
+          set -euo pipefail
+          base="https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/singbox/version5"
+          declare -A files=(
+            ["fake-ip-filter.srs"]="srs/fakeip-filter.srs"
+            ["httpdns.srs"]="srs/httpdns-block.srs"
+            ["private.srs"]="srs/private.srs"
+          )
+          mkdir -p srs
+          for src in "${!files[@]}"; do
+            dst="${files[$src]}"
+            tmp="$(mktemp)"
+            curl -fsSL "$base/$src" -o "$tmp"
+            # 只有下载到非空文件才替换,防止上游临时故障把本地文件冲空
+            if [ -s "$tmp" ]; then
+              mv "$tmp" "$dst"
+              echo "updated: $dst ($(stat -c%s "$dst") bytes)"
+            else
+              echo "::warning::下载为空,跳过: $src -> $dst"
+              rm -f "$tmp"
+            fi
+          done
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- srs/fakeip-filter.srs srs/httpdns-block.srs srs/private.srs; then
+            echo "无变化,跳过提交"
+            exit 0
+          fi
+          git add srs/fakeip-filter.srs srs/httpdns-block.srs srs/private.srs
+          git commit -m "sync: update rule-sets from QuixoticHeart/rule-set ($(date -u +%Y-%m-%d))"
+          git push
