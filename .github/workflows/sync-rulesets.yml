@@ -22,10 +22,13 @@ jobs:
           base="https://raw.githubusercontent.com/QuixoticHeart/rule-set/ruleset/singbox/version5"
           declare -A files=(
             ["fake-ip-filter.srs"]="srs/fakeip-filter.srs"
+            ["fake-ip-filter.json"]="json/fakeip-filter.json"
             ["httpdns.srs"]="srs/httpdns-block.srs"
+            ["httpdns.json"]="json/httpdns-block.json"
             ["private.srs"]="srs/private.srs"
+            ["private.json"]="json/private.json"
           )
-          mkdir -p srs
+          mkdir -p srs json
           for src in "${!files[@]}"; do
             dst="${files[$src]}"
             tmp="$(mktemp)"
@@ -45,10 +48,11 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- srs/fakeip-filter.srs srs/httpdns-block.srs srs/private.srs; then
+          targets="srs/fakeip-filter.srs json/fakeip-filter.json srs/httpdns-block.srs json/httpdns-block.json srs/private.srs json/private.json"
+          if git diff --quiet -- $targets; then
             echo "无变化,跳过提交"
             exit 0
           fi
-          git add srs/fakeip-filter.srs srs/httpdns-block.srs srs/private.srs
+          git add $targets
           git commit -m "sync: update rule-sets from QuixoticHeart/rule-set ($(date -u +%Y-%m-%d))"
           git push
