@@ -54,5 +54,5 @@ jobs:
             exit 0
           fi
           git add $targets
-          git commit -m "sync: update rule-sets from QuixoticHeart/rule-set ($(date -u +%Y-%m-%d))"
+          git commit -m "Auto Update Ruleset $(date -u +%Y-%m-%d)"
           git push
