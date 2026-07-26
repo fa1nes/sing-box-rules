@@ -3,6 +3,5 @@ github.com
 google.com
 stackoverflow.com
 twitter.com
-www.google.com
 www.reddit.com
 www.wikipedia.org
