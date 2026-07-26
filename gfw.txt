@@ -3,3 +3,4 @@ github.com
 google.com
 stackoverflow.com
 twitter.com
+www.google.com
