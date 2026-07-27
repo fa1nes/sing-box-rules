@@ -1,4 +1,4 @@
-# generated-at: 1785142600
+# generated-at: 1785145187
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 0-courier.push.apple.com
 0-courier2.push.apple.com
@@ -152,6 +152,7 @@ cdn.jsdelivr.net
 cdn.nodeimage.com
 cdn.sennheiser-hearing.com
 cdn.usefathom.com
+cdn3.ldstatic.com
 cdnjs.cloudflare.com
 cdp-eu.customer.io
 ce812099ba.us.verifysession.uxcam.com
@@ -179,6 +180,7 @@ d79cf31b-ae1c-4410-a493-c78a42918038-netseer-ipaddr-assoc.xy.fbcdn.net
 d79cf31b-ae1c-4410-a493-c78a42918038-netseer-ipaddr-assoc.xz.fbcdn.net
 dap.pat-issuer.cloudflare.com
 deepwiki.com
+deli.pp.ua
 derp-hk.loocc.com
 derp-us.loocc.com
 device-provisioning.googleapis.com
@@ -286,6 +288,7 @@ paydns.wechat.com
 pbs.twimg.com
 people-pa.googleapis.com
 peoplestack-pa.googleapis.com
+ping.loocc.com
 play.googleapis.com
 pokeapi.co
 profile.gc.apple.com
@@ -299,6 +302,7 @@ robinfrontend-pa.googleapis.com
 rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 s.joinhoney.com
 scontent-hkg1-1.xx.fbcdn.net
+scontent-hkg1-2.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.xx.fbcdn.net
 sdkapicdn.applanga.com
@@ -310,6 +314,7 @@ setup.icloud.com
 sg.pool.ntp.org
 sglong.wechat.com
 sgminorshort.wechat.com
+sgreport.wechat.com
 sgshort.wechat.com
 signal.xm.test.sankuai.com
 signaler-pa.googleapis.com
@@ -327,6 +332,7 @@ subscriptionsfirstparty-pa.googleapis.com
 t.me
 tanhuatv.site
 taskassist-pa.googleapis.com
+tc.cpmmm.com
 tcpquality.ibsgss.uk
 tdms.apple.com
 test-gateway.instagram.com
@@ -359,6 +365,7 @@ www.googleapis.com
 www.microsoft.com
 www.netflix.com
 www.nodeseek.com
+www.openbsd.org
 www.paypal.com
 www.reddit.com
 www.surge-activation.com
