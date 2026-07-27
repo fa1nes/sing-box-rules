@@ -1,4 +1,4 @@
-# generated-at: 1785146155
+# generated-at: 1785146740
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 0-courier.push.apple.com
 0-courier2.push.apple.com
@@ -352,6 +352,7 @@ us-courier.push.apple.com
 user-images.githubusercontent.com
 uts-api.itunes.apple.com
 v2.hysteria.network
+video.twimg.com
 weather-edge.apple.com
 white.embymv.link
 wps.apple.com
@@ -363,6 +364,7 @@ www.facebook.com
 www.freebsd.org
 www.githubstatus.com
 www.glb.paypal.com
+www.gnu.org
 www.googleapis.com
 www.kernel.org
 www.microsoft.com
