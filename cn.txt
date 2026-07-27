@@ -1,4 +1,4 @@
-# generated-at: 1785145187
+# generated-at: 1785146155
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 11f6f66e7983f076c9760f0cb3a61e3f.v.smtcdns.com
 1251413404.vod2.myqcloud.com
@@ -885,6 +885,7 @@ qdsdk.jd.com
 qq-ecommerce.cdn-go.cn
 qq.com
 quic.360buyimg.com
+qzonestyle.gtimg.cn
 qzs.gdtimg.com
 rec.xiaohongshu.com
 report.meituan.com
@@ -1056,6 +1057,7 @@ www.gstatic.com
 www.jd.com
 www.maimemo.com
 www.meituan.com
+www.neixin.cn
 www.nmc.cn
 www.qchannel01.cn
 www.xiaohongshu.com

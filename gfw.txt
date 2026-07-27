@@ -1,4 +1,4 @@
-# generated-at: 1785145187
+# generated-at: 1785146155
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 0-courier.push.apple.com
 0-courier2.push.apple.com
@@ -252,6 +252,7 @@ lh3.googleusercontent.com
 lively-triumph-84b60e849d.media.strapiapp.com
 lively-triumph-84b60e849d.strapiapp.com
 logs.netflix.com
+lsky.ry.mk
 m.stripe.com
 m.stripe.network
 mail.cock.li
@@ -359,9 +360,11 @@ www.akamai.com
 www.cloudflare.com
 www.disneyplus.com
 www.facebook.com
+www.freebsd.org
 www.githubstatus.com
 www.glb.paypal.com
 www.googleapis.com
+www.kernel.org
 www.microsoft.com
 www.netflix.com
 www.nodeseek.com
