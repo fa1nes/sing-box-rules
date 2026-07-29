@@ -1,3 +1,6 @@
-# generated-at: 1785320025
+# generated-at: 1785342004
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
+facebook.com
+twitter.com
+youtube.com
