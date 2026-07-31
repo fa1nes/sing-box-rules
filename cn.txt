@@ -1,4 +1,4 @@
-# generated-at: 1785511104
+# generated-at: 1785532863
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -47,6 +47,7 @@ bytefae.com
 bytegecko.com
 bytehwm.com
 byteimg.com
+bytemastatic.com
 bytescm.com
 bytetos.com
 caiyunapp.com
@@ -111,12 +112,14 @@ micu.hk
 myqcloud.com
 ndcpp.com
 neixin.cn
+nfcos.cn
 nmc.cn
 pkoplink.com
 poizon.com
 pstatp.com
 puata.info
 qchannel01.cn
+qcloud.com
 qlivecdn.com
 qlogo.cn
 qpic.cn
