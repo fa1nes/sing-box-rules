@@ -1,4 +1,4 @@
-# generated-at: 1785554615
+# generated-at: 1785576791
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -30,8 +30,10 @@ askdiandian.com
 autonavi.com
 baidu.com
 baike.com
+baomitu.com
 bcebos.com
 bdgp.cc
+bh.sb
 bigc.edu.cn
 biliapi.com
 biliapi.net
@@ -41,6 +43,7 @@ biligame.com
 biliimg.com
 bilistatic.cn
 bilivideo.com
+bjunicom.com.cn
 bookln.cn
 bsgslb.cn
 bytecdn.com
@@ -63,6 +66,7 @@ callmekeji.com
 cdn-go.cn
 cdn1.vip
 cdngslb.com
+chinaunicom.cn
 chinaz.com
 cjjd14.com
 cmecloud.cn
@@ -75,8 +79,10 @@ dailygn.com
 dcloud.net.cn
 dcloudstc.com
 dianping.com
+dnse0.cn
 dnse1.com
 doh.pub
+dolonx.cn
 doupay.com
 douyin.com
 douyincdn.com
@@ -94,6 +100,7 @@ elemecdn.com
 feelgood.cn
 feishu.cn
 fenxianglife.com
+flysleep.cn
 gdtimg.com
 gepush.com
 getui.com
@@ -109,12 +116,16 @@ icloud.com.cn
 idouyinvod.com
 ihuoshanlive.com
 ilife798.com
+imdada.cn
+is404.com
 jd.com
+jdcloud-oss.com
 jdpay.com
 jegotrip.com.cn
 jikeiot.cloud
 jpush.cn
 jpush.io
+ks-cdn.com
 ksyun.com
 ksyuncdn.com
 kuaishouzt.com
@@ -127,18 +138,25 @@ max-c.com
 meituan.com
 meituan.net
 micu.hk
+mmstat.com
+mob.com
 my-imcloud.com
 myqcloud.com
 ndcpp.com
 neixin.cn
+nexitech.cn
 nfcos.cn
 nmc.cn
+picui.cn
 pkoplink.com
+plaso.cn
+plaso.com
 poizon.com
 pstatp.com
 puata.info
 qchannel01.cn
 qcloud.com
+qianxun.com
 qlivecdn.com
 qlogo.cn
 qpic.cn
@@ -159,21 +177,26 @@ sina.com.cn
 sinaimg.cn
 sjxydc.com
 snssdk.com
+solseed.cn
 taobao.com
 tbcache.com
+tbcdn.cn
 tec73.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
 tianwenca.com
+time.edu.cn
 tlivemcdn.com
 tratao.com
 turingfraud.net
 uc.cn
+ucweb.com
 ugsdk.cn
 umeng.com
 umengcloud.com
 umsns.com
+unicompayment.com
 volces.com
 volcvideo.com
 wechat.com
@@ -193,3 +216,4 @@ z1cdn.com
 zhihu.com
 zhizhuma.com
 zijieapi.com
+zztfly.com
