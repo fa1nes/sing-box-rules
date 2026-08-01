@@ -1,4 +1,4 @@
-# generated-at: 1785576791
+# generated-at: 1785599060
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -10,6 +10,7 @@
 300hu.com
 360buyimg.com
 76642464.cfd
+7zz.cn
 acgvideo.com
 aliapp.org
 alibaba.com
@@ -33,6 +34,7 @@ baike.com
 baomitu.com
 bcebos.com
 bdgp.cc
+bdimg.com
 bh.sb
 bigc.edu.cn
 biliapi.com
@@ -102,6 +104,8 @@ feishu.cn
 fenxianglife.com
 flysleep.cn
 gdtimg.com
+geetest.com
+geevisit.com
 gepush.com
 getui.com
 getui.net
@@ -109,6 +113,7 @@ gtimg.cn
 gtimg.com
 hdslb.com
 hicaspian.com
+hitokoto.cn
 huasheng.cn
 ibytedapm.com
 icloud-content.com.cn
@@ -117,7 +122,9 @@ idouyinvod.com
 ihuoshanlive.com
 ilife798.com
 imdada.cn
+ipip.net
 is404.com
+itdog.cn
 jd.com
 jdcloud-oss.com
 jdpay.com
@@ -125,7 +132,10 @@ jegotrip.com.cn
 jikeiot.cloud
 jpush.cn
 jpush.io
+kaco.cc
 ks-cdn.com
+ksord.com
+ksosoft.com
 ksyun.com
 ksyuncdn.com
 kuaishouzt.com
@@ -134,6 +144,7 @@ ldhy.click
 livehwc3.cn
 maimemo.com
 maimemostatus.com
+make-w0rld-static.club
 max-c.com
 meituan.com
 meituan.net
@@ -141,12 +152,14 @@ micu.hk
 mmstat.com
 mob.com
 my-imcloud.com
+myip.la
 myqcloud.com
 ndcpp.com
 neixin.cn
 nexitech.cn
 nfcos.cn
 nmc.cn
+peer.as
 picui.cn
 pkoplink.com
 plaso.cn
@@ -157,6 +170,7 @@ puata.info
 qchannel01.cn
 qcloud.com
 qianxun.com
+qiezibenpao.com
 qlivecdn.com
 qlogo.cn
 qpic.cn
@@ -173,6 +187,7 @@ scdn.io
 searchstatic.com
 servicewechat.com
 shaanxi.gov.cn
+shifen.com
 sina.com.cn
 sinaimg.cn
 sjxydc.com
@@ -185,8 +200,10 @@ tec73.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
+tencentcos.cn
 tianwenca.com
 time.edu.cn
+tliveapp.com
 tlivemcdn.com
 tratao.com
 turingfraud.net
@@ -216,4 +233,5 @@ z1cdn.com
 zhihu.com
 zhizhuma.com
 zijieapi.com
+zjcdn.com
 zztfly.com
