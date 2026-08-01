@@ -1,4 +1,4 @@
-# generated-at: 1785532863
+# generated-at: 1785554615
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 100222.xyz
@@ -28,6 +28,15 @@ avatars.githubusercontent.com
 bangumi.ca
 bgm.tv
 bugsnag.com
+byabcd.com
+byabcde.com
+byapps.net
+bybdc6.com
+bybit.biz
+bybit.com
+bycsi.com
+byd3c3.com
+bynbc.com
 camo.githubusercontent.com
 cdninstagram.com
 cellrebel.com
@@ -35,6 +44,7 @@ chatgpt.com
 cloudflare-dns.com
 cloudflare.com
 cloudflareinsights.com
+cloudinary.com
 cloudsearch.googleapis.com
 cock.li
 cookielaw.org
@@ -68,6 +78,8 @@ facebook.com
 fastly-masque.net
 fbcdn.net
 fc-use1-00-pics-bkt-00.s3.amazonaws.com
+ffbbbdc6d3c353211fe2ba39c9f744cd.com
+ffe390afd658c19dcbf707e0597b846d.de
 firebaseinappmessaging.googleapis.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -124,6 +136,7 @@ mapbox.com
 meetings.googleapis.com
 meta.com
 microsoft.com
+microsoftapp.net
 microsoftonline.com
 misaka.one
 mixpanel.com
@@ -132,6 +145,7 @@ msn.com
 nasa.gov
 netflix.com
 nflxso.net
+ng-dex.com
 nodeimage.com
 nodequality.com
 nodeseek.com
@@ -155,6 +169,7 @@ pokeapi.co
 prezly.com
 quad9.net
 qualtrics.com
+queniubl.com
 raw.githubusercontent.com
 red-3t5nvttg.com
 reddit.com
@@ -169,6 +184,7 @@ rubiconproject.com
 rust-lang.org
 ry.mk
 s-consumer-cloud.com
+s3.ap-southeast-1.amazonaws.com
 sagernet.org
 scorecardresearch.com
 sennheiser-hearing.com
@@ -195,6 +211,7 @@ termius.com
 timon-s3-storage-public.s3.eu-central-1.amazonaws.com
 timon.cards
 tiwubh.com
+triple.app
 twimg.com
 twitter.com
 typicode.com
@@ -203,17 +220,23 @@ upload.cc
 usefathom.com
 user-images.githubusercontent.com
 uxcam.com
+v.ps
 v2ex.co
 v2ex.com
 v2ex.pro
 volcgtm.com
 volcvideos.com
 vox.moe
+vps.hosting
+wawo.wiki
 wikipedia.org
+wsot2022.com
 wuchuyun.com
 wuchuyun.net
 www.googleapis.com
 xmsl.org
+xtom.chat
+xtom.com
 youtube.com
 youtubei.googleapis.com
 ytimg.com

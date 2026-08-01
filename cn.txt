@@ -1,4 +1,4 @@
-# generated-at: 1785532863
+# generated-at: 1785554615
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -14,10 +14,12 @@ acgvideo.com
 aliapp.org
 alibaba.com
 alibabachengdun.com
+alibabadns.com
 alicdn.com
 alidns.com
 alipay.com
 alipay.com.cn
+alipaydns.com
 alipayobjects.com
 aliyuncsslb.com
 amap.com
@@ -39,18 +41,24 @@ biligame.com
 biliimg.com
 bilistatic.cn
 bilivideo.com
+bookln.cn
+bsgslb.cn
 bytecdn.com
+byted-static.com
 bytedance.com
 bytednsdoc.com
 byteeffecttos.com
 bytefae.com
 bytegecko.com
+bytegoofy.com
 bytehwm.com
 byteimg.com
+bytemaimg.com
 bytemastatic.com
 bytescm.com
 bytetos.com
 caiyunapp.com
+caiyuncdn.com
 callmekeji.com
 cdn-go.cn
 cdn1.vip
@@ -59,11 +67,13 @@ chinaz.com
 cjjd14.com
 cmecloud.cn
 cmpassport.com
+colorfulclouds.net
 convection.cn
 ctdns.cn
 cyapi.cn
 dailygn.com
 dcloud.net.cn
+dcloudstc.com
 dianping.com
 dnse1.com
 doh.pub
@@ -77,16 +87,23 @@ douyinvod.com
 dpfile.com
 eastmoney.com
 ecombdapi.com
+ecombdimg.com
 edge-byted.com
 ele.me
+elemecdn.com
 feelgood.cn
 feishu.cn
+fenxianglife.com
 gdtimg.com
+gepush.com
 getui.com
+getui.net
 gtimg.cn
 gtimg.com
 hdslb.com
+hicaspian.com
 huasheng.cn
+ibytedapm.com
 icloud-content.com.cn
 icloud.com.cn
 idouyinvod.com
@@ -97,7 +114,8 @@ jdpay.com
 jegotrip.com.cn
 jikeiot.cloud
 jpush.cn
-ks-cdn.com
+jpush.io
+ksyun.com
 ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
@@ -109,6 +127,7 @@ max-c.com
 meituan.com
 meituan.net
 micu.hk
+my-imcloud.com
 myqcloud.com
 ndcpp.com
 neixin.cn
@@ -128,22 +147,28 @@ qq.com.cn
 qrstuvwxyzab.com
 qtaeixd.com
 quark.cn
+queniukw.com
 queniurc.com
+rauqa.net
 sankuai.com
 scdn.io
 searchstatic.com
+servicewechat.com
 shaanxi.gov.cn
 sina.com.cn
 sinaimg.cn
 sjxydc.com
 snssdk.com
 taobao.com
+tbcache.com
 tec73.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
 tianwenca.com
+tlivemcdn.com
 tratao.com
+turingfraud.net
 uc.cn
 ugsdk.cn
 umeng.com
@@ -155,6 +180,7 @@ wechat.com
 wechatpay.cn
 weibo.cn
 weixinbridge.com
+whxinna.com
 wo.cn
 wosms.cn
 xhscdn.com
@@ -165,4 +191,5 @@ ydycdn.com
 yingt.fun
 z1cdn.com
 zhihu.com
+zhizhuma.com
 zijieapi.com
