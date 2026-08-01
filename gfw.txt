@@ -1,10 +1,11 @@
-# generated-at: 1785599060
+# generated-at: 1785621426
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 100222.xyz
 111666.best
 22112211.xyz
 687511.xyz
+781108.xyz
 86gamestore.com
 aapq.net
 adobedtm.com
@@ -83,6 +84,7 @@ dmit.sh
 dns.google
 doubao-dev.com
 doubaocdn.com
+downdetectorapi.com
 duyaoss.com
 ecombdpage.com
 embymv.link
@@ -92,6 +94,7 @@ facebook.com
 facebook.net
 fastly-masque.net
 fbcdn.net
+fbsbx.com
 fc-use1-00-pics-bkt-00.s3.amazonaws.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
@@ -194,6 +197,7 @@ onvanilla.net
 openbsd.org
 paypal.com
 paypalobjects.com
+performaized.com
 perfprod.com
 plenest.com
 pokeapi.co
@@ -242,6 +246,7 @@ stripecdn.com
 surge-activation.com
 t.me
 tailscale.com
+taipeinet.com.tw
 tanhuatv.site
 telegram.org
 tenor.com
@@ -268,6 +273,7 @@ v2ex.co
 v2ex.com
 v2ex.pro
 vanillicon.com
+vk.com
 vki.im
 volcgtm.com
 volcvideos.com
