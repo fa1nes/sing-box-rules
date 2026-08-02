@@ -1,16 +1,24 @@
-# generated-at: 1785621426
+# generated-at: 1785643405
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 10010.com
 115.com
+122.gov.cn
+16163.com
+163.com
 1rtb.com
 1rtb.net
 3.cn
 300hu.com
+3322.net
 360buyimg.com
+52pojie.cn
+5eplay.com
 76642464.cfd
 7zz.cn
+93book.com
+95516.com
 acgvideo.com
 aliapp.org
 alibaba.com
@@ -18,6 +26,8 @@ alibabachengdun.com
 alibabadns.com
 alicdn.com
 alidns.com
+aligames.com
+alipan.com
 alipay.com
 alipay.com.cn
 alipaydns.com
@@ -27,14 +37,17 @@ amap.com
 amemv.com
 apinode.ltd
 apple-dns.cn
+apple.com.cn
 askdiandian.com
 autonavi.com
 baidu.com
 baike.com
 baomitu.com
+battlenet.com.cn
 bcebos.com
 bdgp.cc
 bdimg.com
+beijing.gov.cn
 bh.sb
 bigc.edu.cn
 biliapi.com
@@ -45,9 +58,11 @@ biligame.com
 biliimg.com
 bilistatic.cn
 bilivideo.com
+bjedu.cn
 bjunicom.com.cn
 bookln.cn
 bsgslb.cn
+bv2008.cn
 bytecdn.com
 byted-static.com
 bytedance.com
@@ -65,6 +80,7 @@ bytetos.com
 caiyunapp.com
 caiyuncdn.com
 callmekeji.com
+cayfpay.cn
 cdn-go.cn
 cdn1.vip
 cdngslb.com
@@ -76,6 +92,7 @@ cmpassport.com
 colorfulclouds.net
 convection.cn
 ctdns.cn
+ctydoh.cn
 cyapi.cn
 dailygn.com
 dcloud.net.cn
@@ -96,6 +113,7 @@ dpfile.com
 eastmoney.com
 ecombdapi.com
 ecombdimg.com
+ecombdstatic.com
 edge-byted.com
 ele.me
 elemecdn.com
@@ -135,11 +153,13 @@ jpush.cn
 jpush.io
 kaco.cc
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
+kxtrl.cn
 ldhy.click
 livehwc3.cn
 maimemo.com
@@ -156,10 +176,10 @@ myip.la
 myqcloud.com
 ndcpp.com
 neixin.cn
+netease.com
 nexitech.cn
 nfcos.cn
 nmc.cn
-peer.as
 picui.cn
 pkoplink.com
 plaso.cn
@@ -182,6 +202,8 @@ quark.cn
 queniukw.com
 queniurc.com
 rauqa.net
+sangfor.com
+sangfor.com.cn
 sankuai.com
 scdn.io
 searchstatic.com
@@ -193,6 +215,7 @@ sinaimg.cn
 sjxydc.com
 snssdk.com
 solseed.cn
+sov2ex.com
 taobao.com
 tbcache.com
 tbcdn.cn

@@ -1,13 +1,18 @@
-# generated-at: 1785621426
+# generated-at: 1785643405
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 100222.xyz
 111666.best
+12o2.com
 22112211.xyz
+2ch0p.com
+4ksj.com
 687511.xyz
 781108.xyz
 86gamestore.com
+8866n.cn
 aapq.net
+acgndog.com
 adobedtm.com
 adroll.com
 airwallex.com
@@ -21,20 +26,27 @@ api.aws
 apnic.net
 app-ads-services.com
 appcenter.ms
+appcloudcdn.com
 applanga.com
 apple-studies.com
 apple.map.fastly.net
+appraven.net
 appsflyer.com
 archive.org
+asinx.io
 astro.build
 bangumi.ca
+battle.net
 bgm.tv
 bgp.tools
+binance.com
 bing.com
 bjmxy.net
 breadcloud.io
 browser-intake-us5-datadoghq.com
+btnull.org
 bugsnag.com
+bugutv.org
 buysellads.com
 buysellads.net
 byabcd.com
@@ -47,9 +59,13 @@ bycsi.com
 byd3c3.com
 bynbc.com
 byspotify.com
+carryz.net
+catpanel.net
+catserver.ca
 cdninstagram.com
 cellrebel.com
 chatgpt.com
+chinesean.com
 claude.ai
 claude.com
 cloudflare-dns.com
@@ -86,12 +102,14 @@ doubao-dev.com
 doubaocdn.com
 downdetectorapi.com
 duyaoss.com
+easytomessage.com
 ecombdpage.com
 embymv.link
 esm.sh
 example.com
 facebook.com
 facebook.net
+fastly-edge.com
 fastly-masque.net
 fbcdn.net
 fbsbx.com
@@ -207,6 +225,7 @@ px-cloud.net
 quad9.net
 qualtrics.com
 queniubl.com
+quotes.com
 recaptcha.net
 red-3t5nvttg.com
 reddit.com
@@ -284,6 +303,7 @@ wawo.wiki
 wdfl.co
 website-files.com
 wikipedia.org
+wisekey.com
 withgoogle.com
 wsot2022.com
 wuchuyun.com
