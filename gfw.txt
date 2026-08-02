@@ -1,4 +1,4 @@
-# generated-at: 1785688202
+# generated-at: 1785710417
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -19,6 +19,7 @@ aapq.net
 acgndog.com
 adobedtm.com
 adroll.com
+agora.io
 airwallex.com
 akamai.com
 alien666.de5.net
@@ -45,6 +46,7 @@ bangumi.ca
 battle.net
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -53,6 +55,8 @@ braze.com
 breadcloud.io
 browser-intake-us3-datadoghq.com
 browser-intake-us5-datadoghq.com
+browserleaks.net
+browserleaks.org
 btnull.org
 bugsnag.com
 bugutv.org
@@ -82,6 +86,8 @@ cline.bot
 cloudflare-dns.com
 cloudflare.com
 cloudflareinsights.com
+cloudflaremirrors.com
+cloudflareperf.com
 cloudfront.net
 cloudinary.com
 clouvider.co.uk
@@ -89,14 +95,17 @@ clouvider.com
 cnima.de
 cock.li
 cococ.eu.org
+coinbase.com
 cookielaw.org
 cpmmm.com
 crashlytics.com
 crisp.chat
+crunchyroll.com
 culturedcode.com
 customer.io
 cxkikun.com
 dahhxxttxs.com
+danmuji.org
 datawave.sh
 debian.org
 deepwiki.com
@@ -105,6 +114,7 @@ devin.ai
 dicebear.com
 digicert.cn
 digicert.com
+discord.gg
 discordapp.com
 disneyplus.com
 dmit.io
@@ -115,6 +125,7 @@ doubao-dev.com
 doubaocdn.com
 downdetectorapi.com
 duyaoss.com
+e-hentai.org
 easytomessage.com
 ecombdpage.com
 eidoso.com
@@ -124,6 +135,7 @@ example.com
 eyeota.net
 facebook.com
 facebook.net
+fastly-analytics.com
 fastly-edge.com
 fastly-masque.net
 fbcdn.net
@@ -138,6 +150,7 @@ freebsd.org
 freshchat.com
 gatewaysentry.com
 gemini.com
+ggpht.com
 giphy.com
 github-cloud.s3.amazonaws.com
 github.com
@@ -146,6 +159,7 @@ githubapp.com
 githubassets.com
 githubstatus.com
 githubusercontent.com
+gitlab.com
 globalsign.com
 gnu.org
 gomami.io
@@ -157,11 +171,15 @@ gosquared.com
 gravatar.com
 grok.com
 gstatic.com
+hanime1.com
+hanime1.me
+hanimeone.me
 hcaptcha.com
 hdhive.org
 hdker.com
 hedbor.org
 hgemby.qzz.io
+hizinitestet.com
 hostbrr.com
 hostvds.com
 hs-analytics.net
@@ -198,12 +216,18 @@ intercom.io
 intercomassets.com
 intercomcdn.com
 internet-measurement.com
+ip-api.com
 ip.sb
 ipify.org
 iplark.com
+ipleak.net
 ipwho.is
+javchu.com
+javdb.com
+jkforum.net
 joinhoney.com
 jsdelivr.net
+kali.download
 kejilion.pro
 kernel.org
 ldstatic.com
@@ -219,42 +243,54 @@ loocc.com
 lowendtalk.com
 mapbox.com
 marketo.net
+medium.com
 meta.com
 microsoft.com
 microsoftapp.net
 microsoftonline.com
 misaka.one
+missav.ai
+missav.live
+missav.ws
 mixpanel.com
 mji.rip
 ml314.com
 mrhost.biz
 msn.com
+mullvad.net
 nasa.gov
 netflix.com
 neuro-id.com
 neuroid.cloud
+nextcloud.com
 nflxso.net
 ng-dex.com
 nodeimage.com
+nodejs.org
 nodequality.com
 nodeseek.com
 nolimitcloud.eu
 nolimithost.cc
+npmjs.org
 ntp.org
 nxtrace.org
 office.com
 office365.com
 ogmua.cn
+okx.com
 one.one
 onetrust.io
 online-metrix.net
 onvanilla.net
+ooklaserver.net
+openai.com
 openbsd.org
 outbrain.com
 paypal.com
 paypalobjects.com
 performaized.com
 perfprod.com
+perplexity.ai
 pexels.com
 pippio.com
 plenest.com
@@ -263,6 +299,7 @@ postimg.cc
 prezly.com
 px-cloud.net
 quad9.net
+qualcomm.cn
 qualtrics.com
 queniubl.com
 quotes.com
@@ -293,6 +330,7 @@ servedby-buysellads.com
 servitro.com
 shutterstock.com
 singular.net
+skk.moe
 skype.com
 smartlook.cloud
 smogflycloud.com
@@ -300,6 +338,7 @@ smokyhosts.com
 smooch.io
 solidvps.com
 songxwn.com
+sora.com
 speedtest.net
 split.io
 stackoverflow.com
@@ -308,6 +347,8 @@ stripe-camo.global.ssl.fastly.net
 stripe.com
 stripe.network
 stripecdn.com
+stunprotocol.org
+surfsharkdns.com
 surge-activation.com
 t.me
 tailscale.com
@@ -327,6 +368,8 @@ tiwubh.com
 tlfhost.com
 tolis.eu.org
 triple.app
+turktelekom.com.tr
+twilio.com
 twimg.com
 twitter.com
 typekit.net
@@ -343,6 +386,7 @@ v2ex.co
 v2ex.com
 v2ex.pro
 vanillicon.com
+visa.com
 vk.com
 vki.im
 volcgtm.com
@@ -359,6 +403,7 @@ withgoogle.com
 wsot2022.com
 wuchuyun.com
 wuchuyun.net
+x.com
 xmsl.org
 xtom.chat
 xtom.com

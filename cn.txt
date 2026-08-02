@@ -1,12 +1,14 @@
-# generated-at: 1785688202
+# generated-at: 1785710417
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 10010.com
 115.com
 122.gov.cn
+127.net
 16163.com
 163.com
+189.cn
 1rtb.com
 1rtb.net
 3.cn
@@ -19,7 +21,7 @@
 7zz.cn
 93book.com
 95516.com
-acgvideo.com
+aichaoxing.com
 aliapp.org
 alibaba-inc.com
 alibaba.com
@@ -68,6 +70,7 @@ bjunicom.com.cn
 bookln.cn
 bsgslb.cn
 bv2008.cn
+byte-test.com
 bytecdn.com
 bytecdntp.com
 byted-static.com
@@ -90,9 +93,11 @@ cayfpay.cn
 cdn-go.cn
 cdn1.vip
 cdngslb.com
+chaoxing.com
 chinaunicom.cn
 chinaz.com
 cjjd14.com
+cldisk.com
 cmecloud.cn
 cmpassport.com
 colorfulclouds.net
@@ -119,7 +124,9 @@ douyinliving.com
 douyinpic.com
 douyinstatic.com
 douyinvod.com
+douyucdn.cn
 dpfile.com
+easemob.com
 eastmoney.com
 ecombdapi.com
 ecombdimg.com
@@ -143,15 +150,19 @@ gz-tencentclb.com
 hdslb.com
 hicaspian.com
 hitokoto.cn
+hitv.com
 huasheng.cn
 ibytedapm.com
 icloud-content.com.cn
 icloud.com.cn
+id6.me
 idouyinvod.com
 ihuoshanlive.com
 ilife798.com
 imdada.cn
 imgs.ovh
+ip.cn
+ip138.com
 ipip.net
 is404.com
 itc.cn
@@ -173,6 +184,7 @@ ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kxtrl.cn
+laiqukankan.com
 ldhy.click
 livehwc3.cn
 maimemo.com
@@ -182,6 +194,7 @@ max-c.com
 meituan.com
 meituan.net
 micu.hk
+miwifi.com
 mmstat.com
 mob.com
 my-imcloud.com
@@ -223,6 +236,7 @@ sankuai.com
 scdn.io
 searchstatic.com
 servicewechat.com
+sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
 sina.com.cn
@@ -242,6 +256,7 @@ tencentclb.com
 tencentcos.cn
 tianwenca.com
 time.edu.cn
+tingyun.com
 tliveapp.com
 tlivemcdn.com
 toutiao.com
@@ -250,6 +265,7 @@ turingfraud.net
 uc.cn
 ucweb.com
 ugsdk.cn
+ugurl.cn
 umeng.com
 umengcloud.com
 umsns.com
@@ -264,15 +280,18 @@ whxinna.com
 wnluo.com
 wo.cn
 wosms.cn
+wostore.cn
 xhscdn.com
 xiaohongshu.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
+yingt.fun
 youku.com
 z1cdn.com
 zhihu.com
 zhizhuma.com
+zhuanzfx.com
 zijieapi.com
 zjcdn.com
 zstatic.net
