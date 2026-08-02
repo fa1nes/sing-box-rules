@@ -1,4 +1,4 @@
-# generated-at: 1785681996
+# generated-at: 1785685297
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -35,6 +35,7 @@ alipay.com.cn
 alipaydns.com
 alipayobjects.com
 aliyuncsslb.com
+alyasset.com
 amap.com
 amemv.com
 apinode.ltd
@@ -61,6 +62,7 @@ biligame.com
 biliimg.com
 bilistatic.cn
 bilivideo.com
+biyingniao.com
 bjedu.cn
 bjunicom.com.cn
 bookln.cn
@@ -95,6 +97,8 @@ cmecloud.cn
 cmpassport.com
 colorfulclouds.net
 convection.cn
+csdn.net
+csdnimg.cn
 ctdns.cn
 ctydoh.cn
 cup.com.cn
@@ -147,6 +151,7 @@ idouyinvod.com
 ihuoshanlive.com
 ilife798.com
 imdada.cn
+imgs.ovh
 ipip.net
 is404.com
 itc.cn
@@ -239,6 +244,7 @@ tianwenca.com
 time.edu.cn
 tliveapp.com
 tlivemcdn.com
+toutiao.com
 tratao.com
 turingfraud.net
 uc.cn
@@ -255,6 +261,7 @@ wechatpay.cn
 weibo.cn
 weixinbridge.com
 whxinna.com
+wnluo.com
 wo.cn
 wosms.cn
 xhscdn.com
@@ -262,7 +269,6 @@ xiaohongshu.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
-yingt.fun
 youku.com
 z1cdn.com
 zhihu.com
