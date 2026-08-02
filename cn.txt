@@ -1,4 +1,4 @@
-# generated-at: 1785643405
+# generated-at: 1785681996
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -21,9 +21,11 @@
 95516.com
 acgvideo.com
 aliapp.org
+alibaba-inc.com
 alibaba.com
 alibabachengdun.com
 alibabadns.com
+alibabausercontent.com
 alicdn.com
 alidns.com
 aligames.com
@@ -47,6 +49,7 @@ battlenet.com.cn
 bcebos.com
 bdgp.cc
 bdimg.com
+bdstatic.com
 beijing.gov.cn
 bh.sb
 bigc.edu.cn
@@ -64,6 +67,7 @@ bookln.cn
 bsgslb.cn
 bv2008.cn
 bytecdn.com
+bytecdntp.com
 byted-static.com
 bytedance.com
 bytednsdoc.com
@@ -93,11 +97,13 @@ colorfulclouds.net
 convection.cn
 ctdns.cn
 ctydoh.cn
+cup.com.cn
 cyapi.cn
 dailygn.com
 dcloud.net.cn
 dcloudstc.com
 dianping.com
+dingtalk.com
 dnse0.cn
 dnse1.com
 doh.pub
@@ -143,7 +149,9 @@ ilife798.com
 imdada.cn
 ipip.net
 is404.com
+itc.cn
 itdog.cn
+ithome.com
 jd.com
 jdcloud-oss.com
 jdpay.com
@@ -180,6 +188,7 @@ netease.com
 nexitech.cn
 nfcos.cn
 nmc.cn
+peer.as
 picui.cn
 pkoplink.com
 plaso.cn
@@ -202,6 +211,7 @@ quark.cn
 queniukw.com
 queniurc.com
 rauqa.net
+ruanmei.com
 sangfor.com
 sangfor.com.cn
 sankuai.com
@@ -216,6 +226,7 @@ sjxydc.com
 snssdk.com
 solseed.cn
 sov2ex.com
+tanx.com
 taobao.com
 tbcache.com
 tbcdn.cn
@@ -252,9 +263,11 @@ xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
 yingt.fun
+youku.com
 z1cdn.com
 zhihu.com
 zhizhuma.com
 zijieapi.com
 zjcdn.com
+zstatic.net
 zztfly.com

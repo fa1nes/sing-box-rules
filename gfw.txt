@@ -1,4 +1,4 @@
-# generated-at: 1785643405
+# generated-at: 1785681996
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 100222.xyz
@@ -38,6 +38,7 @@ astro.build
 bangumi.ca
 battle.net
 bgm.tv
+bgp.gd
 bgp.tools
 binance.com
 bing.com
@@ -84,6 +85,7 @@ crashlytics.com
 crisp.chat
 culturedcode.com
 customer.io
+cxkikun.com
 dahhxxttxs.com
 datawave.sh
 debian.org
@@ -98,12 +100,14 @@ disneyplus.com
 dmit.io
 dmit.sh
 dns.google
+dnse5.com
 doubao-dev.com
 doubaocdn.com
 downdetectorapi.com
 duyaoss.com
 easytomessage.com
 ecombdpage.com
+eidoso.com
 embymv.link
 esm.sh
 example.com
@@ -116,6 +120,7 @@ fbsbx.com
 fc-use1-00-pics-bkt-00.s3.amazonaws.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
+fkli.cc
 flagcdn.com
 freebsd.org
 freshchat.com
@@ -146,6 +151,7 @@ hgemby.qzz.io
 hostbrr.com
 hostvds.com
 hysteria.network
+hytron.io
 ibb.co
 ibsgss.uk
 icanhazip.com
@@ -245,6 +251,7 @@ s-consumer-cloud.com
 s3.ap-southeast-1.amazonaws.com
 sagernet.org
 scorecardresearch.com
+seeusercontent.com
 sennheiser-hearing.com
 servedby-buysellads.com
 servitro.com
@@ -252,6 +259,7 @@ shutterstock.com
 singular.net
 skype.com
 smartlook.cloud
+smogflycloud.com
 smokyhosts.com
 smooch.io
 speedtest.net
@@ -268,6 +276,7 @@ tailscale.com
 taipeinet.com.tw
 tanhuatv.site
 telegram.org
+telesco.pe
 tenor.com
 termius-session-logs.s3.amazonaws.com
 termius.com
