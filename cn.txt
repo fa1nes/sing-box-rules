@@ -1,4 +1,4 @@
-# generated-at: 1785732413
+# generated-at: 1785754444
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -48,6 +48,7 @@ askdiandian.com
 autonavi.com
 baidu.com
 baike.com
+baikevod.com
 baomitu.com
 battlenet.com.cn
 bcebos.com
@@ -81,12 +82,14 @@ bytednsdoc.com
 byteeffecttos.com
 bytefae.com
 bytegecko.com
+bytegeckoext.com
 bytegoofy.com
 bytehwm.com
 byteimg.com
 bytemaimg.com
 bytemastatic.com
 bytescm.com
+bytetcc.com
 bytetos.com
 caiyunapp.com
 caiyuncdn.com
@@ -95,7 +98,9 @@ cayfpay.cn
 cdn-go.cn
 cdn1.vip
 cdngslb.com
+cdntips.net
 chaoxing.com
+chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
 cjjd14.com
@@ -154,6 +159,7 @@ hicaspian.com
 hitokoto.cn
 hitv.com
 huasheng.cn
+huatongcloud.com
 ibytedapm.com
 icloud-content.com.cn
 icloud.com.cn
@@ -162,6 +168,7 @@ idouyinvod.com
 ihuoshanlive.com
 ilife798.com
 imdada.cn
+imgdd.cc
 imgs.ovh
 ip.cn
 ip138.com
@@ -175,6 +182,7 @@ jdcloud-oss.com
 jdpay.com
 jegotrip.com.cn
 jikeiot.cloud
+jomoxc.com
 jpush.cn
 jpush.io
 kaco.cc
@@ -185,6 +193,7 @@ ksyun.com
 ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
+kunlunno.com
 kxtrl.cn
 laiqukankan.com
 ldhy.click
@@ -219,6 +228,7 @@ pstatp.com
 puata.info
 qchannel01.cn
 qcloud.com
+qianwen.com
 qianxun.com
 qiezibenpao.com
 qlivecdn.com
@@ -238,7 +248,9 @@ sangfor.com
 sangfor.com.cn
 sankuai.com
 scdn.io
+searchpstatp.com
 searchstatic.com
+sectigochina.com
 servicewechat.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
@@ -292,6 +304,8 @@ xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
+yingt.fun
+yirujs.com
 youku.com
 z1cdn.com
 zhihu.com
