@@ -1,13 +1,15 @@
-# generated-at: 1785754444
+# generated-at: 1785776435
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 10010.com
 115.com
 122.gov.cn
+126.net
 127.net
 16163.com
 163.com
+163yun.com
 189.cn
 1rtb.com
 1rtb.net
@@ -62,6 +64,7 @@ biliapi.com
 biliapi.net
 bilibili.cn
 bilibili.com
+bilicdn1.com
 bilicdn2.com
 biligame.com
 biliimg.com
@@ -109,6 +112,7 @@ cmecloud.cn
 cmpassport.com
 colorfulclouds.net
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 ctdns.cn
@@ -187,7 +191,6 @@ jpush.cn
 jpush.io
 kaco.cc
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -210,11 +213,13 @@ miwifi.com
 mmstat.com
 mob.com
 my-imcloud.com
+myapp.com
 myip.la
 myqcloud.com
 ndcpp.com
 neixin.cn
 netease.com
+netease.im
 nexitech.cn
 nfcos.cn
 nmc.cn
@@ -265,12 +270,14 @@ tanx.com
 taobao.com
 tbcache.com
 tbcdn.cn
+tdnsvod1.cn
 tec73.com
 tencent-cloud.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
 tencentcos.cn
+tencentmusic.com
 tianwenca.com
 time.edu.cn
 tingyun.com
@@ -293,11 +300,13 @@ wechat.com
 wechatpay.cn
 weibo.cn
 weixinbridge.com
+weiyun.com
 whxinna.com
 wnluo.com
 wo.cn
 wosms.cn
 wostore.cn
+wxgateway.com
 xhscdn.com
 xiaohongshu.com
 xinhuaxmt.com

@@ -1,4 +1,4 @@
-# generated-at: 1785754444
+# generated-at: 1785776435
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -205,6 +205,7 @@ ikuuu.org
 im.ge
 imetyou.top
 img.pub
+imgdd.com
 imgflip.com
 imgur.com
 immersivetranslate.cn
@@ -329,6 +330,7 @@ s3.ap-southeast-1.amazonaws.com
 sagernet.org
 sardine.ai
 scorecardresearch.com
+sectigo.com
 seeusercontent.com
 sennheiser-hearing.com
 servedby-buysellads.com
