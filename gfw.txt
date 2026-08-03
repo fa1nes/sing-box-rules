@@ -1,4 +1,4 @@
-# generated-at: 1785710417
+# generated-at: 1785732413
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -379,6 +379,7 @@ unpkg.com
 upload.cc
 us-central1.run.app
 usefathom.com
+usertrust.com
 uxcam.com
 v-cdn.net
 v.ps

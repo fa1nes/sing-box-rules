@@ -1,4 +1,4 @@
-# generated-at: 1785710417
+# generated-at: 1785732413
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -21,6 +21,7 @@
 7zz.cn
 93book.com
 95516.com
+acgvideo.com
 aichaoxing.com
 aliapp.org
 alibaba-inc.com
@@ -60,6 +61,7 @@ biliapi.com
 biliapi.net
 bilibili.cn
 bilibili.com
+bilicdn2.com
 biligame.com
 biliimg.com
 bilistatic.cn
@@ -193,6 +195,7 @@ make-w0rld-static.club
 max-c.com
 meituan.com
 meituan.net
+miaozhen.com
 micu.hk
 miwifi.com
 mmstat.com
@@ -228,6 +231,7 @@ qtaeixd.com
 quark.cn
 queniukw.com
 queniurc.com
+rauqa.cn
 rauqa.net
 ruanmei.com
 sangfor.com
@@ -250,6 +254,7 @@ taobao.com
 tbcache.com
 tbcdn.cn
 tec73.com
+tencent-cloud.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
@@ -283,10 +288,10 @@ wosms.cn
 wostore.cn
 xhscdn.com
 xiaohongshu.com
+xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
-yingt.fun
 youku.com
 z1cdn.com
 zhihu.com
