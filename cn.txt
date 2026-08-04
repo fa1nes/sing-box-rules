@@ -1,4 +1,4 @@
-# generated-at: 1785843179
+# generated-at: 1785865395
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -214,6 +214,7 @@ meituan.com
 meituan.net
 miaozhen.com
 micu.hk
+mihoyo.com
 miwifi.com
 mmstat.com
 mob.com
@@ -324,6 +325,7 @@ ydycdn.com
 yingt.fun
 yirujs.com
 youku.com
+yuanshen.com
 z1cdn.com
 zhihu.com
 zhizhuma.com

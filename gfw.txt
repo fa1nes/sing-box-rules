@@ -1,4 +1,4 @@
-# generated-at: 1785843179
+# generated-at: 1785865395
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -6,6 +6,7 @@
 111666.best
 12o2.com
 187187.xyz
+1e100cdn.net
 22112211.xyz
 2ch0p.com
 3lift.com
@@ -16,6 +17,7 @@
 86gamestore.com
 8866n.cn
 990599.xyz
+99brands.com
 aapq.net
 acgndog.com
 adobedtm.com
@@ -23,6 +25,7 @@ adroll.com
 agora.io
 airwallex.com
 akamai.com
+akamaized.net
 alien666.de5.net
 aliyun.com
 aliyuncs.com
@@ -43,6 +46,7 @@ archive.org
 arena.ai
 asinx.io
 astro.build
+b-cdn.net
 bangumi.ca
 battle.net
 bdcgslb.com
@@ -79,6 +83,7 @@ catpanel.net
 catserver.ca
 cdninstagram.com
 cellrebel.com
+cfapi.net
 chatgpt.com
 check.place
 chinesean.com
@@ -87,6 +92,7 @@ claude.com
 cline.bot
 cloudflare-dns.com
 cloudflare.com
+cloudflare.pay
 cloudflareinsights.com
 cloudflaremirrors.com
 cloudflareperf.com
@@ -98,6 +104,7 @@ cnima.de
 cock.li
 cococ.eu.org
 coinbase.com
+compute-pipe.com
 cookielaw.org
 cpmmm.com
 crashlytics.com
@@ -119,6 +126,7 @@ digicert.com
 discord.gg
 discordapp.com
 disneyplus.com
+dmit.com
 dmit.io
 dmit.sh
 dns.google
@@ -180,6 +188,7 @@ hanimeone.me
 hcaptcha.com
 hdhive.org
 hdker.com
+he.net
 hedbor.org
 hgemby.qzz.io
 hizinitestet.com
@@ -235,21 +244,25 @@ jsdelivr.net
 kali.download
 kejilion.pro
 kernel.org
+kuaichedao.xyz
 ldstatic.com
 lencr.org
 lfeeder.com
+licdn.cn
 licdn.com
 link.com
 linkedin.com
 lion123.eu.org
 live.com
 livechatinc.com
+loli.net
 loocc.com
 lowendtalk.com
 mapbox.com
 marketo.net
 medium.com
 meta.com
+metacubex.one
 microsoft.com
 microsoftapp.net
 microsoftonline.com
@@ -277,6 +290,8 @@ nodeseek.com
 nolimitcloud.eu
 nolimithost.cc
 npmjs.org
+ns1p-aws-backed.global.ssl.fastly.net
+ns1pcdn.net
 ntp.org
 nxtrace.org
 office.com
@@ -284,6 +299,7 @@ office365.com
 ogmua.cn
 okx.com
 one.one
+onetrust.com
 onetrust.io
 online-metrix.net
 onvanilla.net
@@ -302,6 +318,7 @@ plenest.com
 pokeapi.co
 postimg.cc
 prezly.com
+protechts.net
 px-cloud.net
 qtlcdn.com
 quad9.net
@@ -332,7 +349,9 @@ sagernet.org
 sardine.ai
 scorecardresearch.com
 sectigo.com
+securitytools.net
 seeusercontent.com
+sekai.icu
 sennheiser-hearing.com
 servedby-buysellads.com
 servitro.com
@@ -398,6 +417,7 @@ vanillicon.com
 visa.com
 vk.com
 vki.im
+vnc.dog
 volcgtm.com
 volcvideos.com
 vox.moe
@@ -424,3 +444,4 @@ youtube.com
 ytimg.com
 yuanlu.qzz.io
 zendesk.com
+zeroclover.io
