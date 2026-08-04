@@ -1,4 +1,4 @@
-# generated-at: 1785820804
+# generated-at: 1785843179
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -48,6 +48,7 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -198,6 +199,7 @@ ibb.co
 ibsgss.uk
 icanhazip.com
 iconify.design
+idcflare.com
 iframely.net
 iimg.pp.ua
 ikuuu.org
@@ -409,6 +411,7 @@ wikipedia.org
 wisekey.com
 withgoogle.com
 wsot2022.com
+wuchucloud.net
 wuchuyun.com
 wuchuyun.net
 x.com

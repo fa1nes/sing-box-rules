@@ -1,4 +1,4 @@
-# generated-at: 1785820804
+# generated-at: 1785843179
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -44,6 +44,7 @@ alyasset.com
 amap.com
 amemv.com
 apinode.ltd
+apitd.net
 apple-dns.cn
 apple.com.cn
 askdiandian.com
@@ -57,6 +58,7 @@ bcebos.com
 bdgp.cc
 bdimg.com
 bdstatic.com
+bdydns.com
 beijing.gov.cn
 bh.sb
 bigc.edu.cn
@@ -113,6 +115,7 @@ cmecloud.cn
 cmpassport.com
 colorfulclouds.net
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 ctdns.cn
@@ -185,13 +188,14 @@ jd.com
 jdcloud-oss.com
 jdpay.com
 jegotrip.com.cn
+jiguang.cn
 jikeiot.cloud
 jomoxc.com
 jpush.cn
 jpush.io
 kaco.cc
+kimi.com
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -213,6 +217,7 @@ micu.hk
 miwifi.com
 mmstat.com
 mob.com
+moonshot.cn
 my-imcloud.com
 myapp.com
 myip.la
@@ -286,6 +291,7 @@ tliveapp.com
 tlivemcdn.com
 toutiao.com
 tratao.com
+trustdecision.com
 turingfraud.net
 uc.cn
 ucweb.com
@@ -296,6 +302,7 @@ umengcloud.com
 umsns.com
 unicompayment.com
 volces.com
+volcfcdndvs.com
 volcvideo.com
 wechat.com
 wechatpay.cn
