@@ -1,4 +1,4 @@
-# generated-at: 1785909740
+# generated-at: 1785937170
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -35,6 +35,8 @@ anthropic.com
 api.aws
 apnic.net
 app-ads-services.com
+app-analytics-services.com
+app-measurement.com
 appcenter.ms
 appcloudcdn.com
 applanga.com
@@ -52,6 +54,7 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -134,12 +137,14 @@ dnse5.com
 doubao-dev.com
 doubaocdn.com
 downdetectorapi.com
+drand.sh
 duyaoss.com
 e-hentai.org
 easytomessage.com
 ecombdpage.com
 eidoso.com
 embymv.link
+er-api.com
 esm.sh
 example.com
 eyeota.net
@@ -156,6 +161,7 @@ ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
 fkli.cc
 flagcdn.com
+fontshare.com
 fpjs.io
 freebsd.org
 freshchat.com
@@ -173,10 +179,13 @@ githubusercontent.com
 gitlab.com
 globalsign.com
 gnu.org
+godaddy.com
 gomami.io
 google.com
 google.com.hk
+googleadservices.com
 googleapis.com
+googletagmanager.com
 googleusercontent.com
 gosquared.com
 gravatar.com
@@ -201,6 +210,7 @@ hs-scripts.com
 hsadspixel.net
 hscollectedforms.net
 hsforms.com
+huawei.dog
 hubapi.com
 hubspot.com
 hysteria.network
@@ -268,6 +278,7 @@ metacubex.one
 microsoft.com
 microsoftapp.net
 microsoftonline.com
+miji.bid
 misaka.one
 missav.ai
 missav.live
@@ -318,6 +329,7 @@ perplexity.ai
 pexels.com
 pippio.com
 plenest.com
+po0.com
 pokeapi.co
 postimg.cc
 prezly.com
@@ -337,6 +349,8 @@ redeemgpt.com
 redotpay.com
 redotpay.net
 revenuecat.com
+rfchost.com
+rfchost.net
 ripe.net
 rlcdn.com
 romanrm.net
@@ -352,10 +366,12 @@ sagernet.org
 sardine.ai
 scorecardresearch.com
 sectigo.com
+secureserver.net
 securitytools.net
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
+sentry.io
 servedby-buysellads.com
 servitro.com
 shutterstock.com
@@ -433,6 +449,7 @@ website-files.com
 wikipedia.org
 wisekey.com
 withgoogle.com
+wsimg.com
 wsot2022.com
 wuchucloud.net
 wuchuyun.com

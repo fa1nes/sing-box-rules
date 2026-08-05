@@ -1,4 +1,4 @@
-# generated-at: 1785909740
+# generated-at: 1785937170
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -59,6 +59,7 @@ bcebos.com
 bdgp.cc
 bdimg.com
 bdstatic.com
+bdurl.net
 bdydns.com
 beijing.gov.cn
 bh.sb
@@ -106,6 +107,7 @@ cayfpay.cn
 cdn-go.cn
 cdn1.vip
 cdngslb.com
+cdnhwc2.com
 cdntips.net
 chaoxing.com
 chengzijianzhan.com
@@ -120,6 +122,7 @@ convection.cn
 crlocsp.cn
 csdn.net
 csdnimg.cn
+css.sd
 ctdns.cn
 ctydoh.cn
 cup.com.cn
@@ -164,6 +167,7 @@ gtimg.cn
 gtimg.com
 gz-tencentclb.com
 hdslb.com
+helloimg.com
 hicaspian.com
 hitokoto.cn
 hitv.com
@@ -181,8 +185,10 @@ imdada.cn
 imgdd.cc
 imgs.ovh
 infi.cn
+inkuai.com
 ip.cn
 ip138.com
+ipchk.cn
 ipip.net
 is404.com
 itc.cn
@@ -200,6 +206,7 @@ jpush.io
 kaco.cc
 kimi.com
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -234,6 +241,7 @@ netease.im
 nexitech.cn
 nfcos.cn
 nmc.cn
+pddpic.com
 peer.as
 picui.cn
 pkoplink.com
@@ -255,6 +263,7 @@ qq.com.cn
 qrstuvwxyzab.com
 qtaeixd.com
 quark.cn
+queniubg.com
 queniukw.com
 queniurc.com
 rauqa.cn
@@ -271,10 +280,12 @@ servicewechat.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
+shuzilm.cn
 sina.com.cn
 sinaimg.cn
 sjxydc.com
 snssdk.com
+sohu.com
 solseed.cn
 sov2ex.com
 talkingdata.com
@@ -307,9 +318,12 @@ umeng.com
 umengcloud.com
 umsns.com
 unicompayment.com
+uyunad.com
 volces.com
 volcfcdndvs.com
 volcvideo.com
+vzuu.com
+wasu.tv
 wechat.com
 wechatpay.cn
 weibo.cn
@@ -333,6 +347,7 @@ youku.com
 yuanshen.com
 z1cdn.com
 zhihu.com
+zhimg.com
 zhizhuma.com
 zhuanzfx.com
 zijieapi.com
