@@ -1,4 +1,4 @@
-# generated-at: 1785937170
+# generated-at: 1785959210
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -30,6 +30,7 @@ alien666.de5.net
 aliyun.com
 aliyuncs.com
 alphavps.com
+amazontrust.com
 ampproject.org
 anthropic.com
 api.aws
@@ -61,6 +62,7 @@ bing.com
 bjmxy.net
 braze.com
 breadcloud.io
+browser-intake-datadoghq.com
 browser-intake-us3-datadoghq.com
 browser-intake-us5-datadoghq.com
 browserleaks.net
@@ -110,14 +112,18 @@ coinbase.com
 compute-pipe.com
 cookielaw.org
 cpmmm.com
+craft.do
+craft.me
 crashlytics.com
 crisp.chat
 crunchyroll.com
+ctfassets.net
 culturedcode.com
 customer.io
 cxkikun.com
 dahhxxttxs.com
 danmuji.org
+datatables.net
 datawave.sh
 debian.org
 deepwiki.com
@@ -134,8 +140,10 @@ dmit.io
 dmit.sh
 dns.google
 dnse5.com
+dooo.ng
 doubao-dev.com
 doubaocdn.com
+doubleclick.net
 downdetectorapi.com
 drand.sh
 duyaoss.com
@@ -163,6 +171,7 @@ fkli.cc
 flagcdn.com
 fontshare.com
 fpjs.io
+fraudlabspro.com
 freebsd.org
 freshchat.com
 gatewaysentry.com
@@ -181,10 +190,12 @@ globalsign.com
 gnu.org
 godaddy.com
 gomami.io
+google-analytics.com
 google.com
 google.com.hk
 googleadservices.com
 googleapis.com
+googlesyndication.com
 googletagmanager.com
 googleusercontent.com
 gosquared.com
@@ -272,6 +283,7 @@ loocc.com
 lowendtalk.com
 mapbox.com
 marketo.net
+media-amazon.com
 medium.com
 meta.com
 metacubex.one
@@ -289,6 +301,7 @@ ml314.com
 mrhost.biz
 msn.com
 mullvad.net
+namecrane.com
 nasa.gov
 netflix.com
 neuro-id.com
@@ -361,6 +374,7 @@ rubiconproject.com
 rust-lang.org
 ry.mk
 s-consumer-cloud.com
+s-ul.eu
 s3.ap-southeast-1.amazonaws.com
 sagernet.org
 sardine.ai
@@ -374,6 +388,7 @@ sennheiser-hearing.com
 sentry.io
 servedby-buysellads.com
 servitro.com
+shields.io
 shutterstock.com
 singular.net
 skk.moe
@@ -387,6 +402,7 @@ songxwn.com
 sora.com
 speedtest.net
 split.io
+ss2.us
 stackoverflow.com
 strapiapp.com
 stripe-camo.global.ssl.fastly.net
@@ -394,6 +410,7 @@ stripe.com
 stripe.network
 stripecdn.com
 stunprotocol.org
+substackcdn.com
 surfsharkdns.com
 surge-activation.com
 t.me
@@ -446,9 +463,12 @@ warpstorm.space
 wawo.wiki
 wdfl.co
 website-files.com
+who.is
+whois.com
 wikipedia.org
 wisekey.com
 withgoogle.com
+workspace.org
 wsimg.com
 wsot2022.com
 wuchucloud.net
@@ -458,6 +478,7 @@ x.com
 xmsl.org
 xtom.chat
 xtom.com
+xwyue.com
 yandex.net
 yandex.ru
 youtube.com

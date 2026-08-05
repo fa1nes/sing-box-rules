@@ -1,8 +1,9 @@
-# generated-at: 1785937170
+# generated-at: 1785959210
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 10010.com
+11222.cn
 115.com
 122.gov.cn
 126.net
@@ -163,6 +164,7 @@ geevisit.com
 gepush.com
 getui.com
 getui.net
+goofish.com
 gtimg.cn
 gtimg.com
 gz-tencentclb.com
@@ -171,6 +173,7 @@ helloimg.com
 hicaspian.com
 hitokoto.cn
 hitv.com
+hnkzy.com
 huasheng.cn
 huatongcloud.com
 huoshanimg.com
@@ -206,7 +209,6 @@ jpush.io
 kaco.cc
 kimi.com
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -234,6 +236,7 @@ my-imcloud.com
 myapp.com
 myip.la
 myqcloud.com
+myquark.cn
 ndcpp.com
 neixin.cn
 netease.com
@@ -280,10 +283,12 @@ servicewechat.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
+shuqireader.com
 shuzilm.cn
 sina.com.cn
 sinaimg.cn
 sjxydc.com
+sm.cn
 snssdk.com
 sohu.com
 solseed.cn
@@ -293,6 +298,7 @@ tanx.com
 taobao.com
 tbcache.com
 tbcdn.cn
+tdnsv6.com
 tdnsvod1.cn
 tec73.com
 tencent-cloud.com
@@ -341,7 +347,6 @@ xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
-yingt.fun
 yirujs.com
 youku.com
 yuanshen.com
