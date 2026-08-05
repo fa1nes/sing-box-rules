@@ -1,4 +1,4 @@
-# generated-at: 1785887667
+# generated-at: 1785909740
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -17,6 +17,7 @@
 300hu.com
 3322.net
 360buyimg.com
+3edc.cn
 52pojie.cn
 5eplay.com
 76642464.cfd
@@ -75,6 +76,7 @@ bilivideo.com
 biyingniao.com
 bjedu.cn
 bjunicom.com.cn
+bmac.com.cn
 bookln.cn
 bsgslb.cn
 bv2008.cn
@@ -167,6 +169,7 @@ hitokoto.cn
 hitv.com
 huasheng.cn
 huatongcloud.com
+huoshanimg.com
 ibytedapm.com
 icloud-content.com.cn
 icloud.com.cn
@@ -177,6 +180,7 @@ ilife798.com
 imdada.cn
 imgdd.cc
 imgs.ovh
+infi.cn
 ip.cn
 ip138.com
 ipip.net
@@ -196,7 +200,6 @@ jpush.io
 kaco.cc
 kimi.com
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -274,6 +277,7 @@ sjxydc.com
 snssdk.com
 solseed.cn
 sov2ex.com
+talkingdata.com
 tanx.com
 taobao.com
 tbcache.com

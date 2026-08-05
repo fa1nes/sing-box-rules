@@ -1,4 +1,4 @@
-# generated-at: 1785887667
+# generated-at: 1785909740
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -52,7 +52,6 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
-bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -182,6 +181,7 @@ googleusercontent.com
 gosquared.com
 gravatar.com
 grok.com
+grouphelp.me
 gstatic.com
 hanime1.com
 hanime1.me
@@ -237,6 +237,7 @@ ipify.org
 iplark.com
 ipleak.net
 ipwho.is
+iubenda.com
 javchu.com
 javdb.com
 jkforum.net
@@ -307,6 +308,7 @@ onvanilla.net
 ooklaserver.net
 openai.com
 openbsd.org
+openstreetmap.org
 outbrain.com
 paypal.com
 paypalobjects.com
