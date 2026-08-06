@@ -1,4 +1,4 @@
-# generated-at: 1785981087
+# generated-at: 1786003865
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -120,7 +120,6 @@ cmecloud.cn
 cmpassport.com
 colorfulclouds.net
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -129,6 +128,7 @@ ctydoh.cn
 cup.com.cn
 cyapi.cn
 dailygn.com
+dbankcdn.com
 dcloud.net.cn
 dcloudstc.com
 dianping.com
@@ -152,6 +152,7 @@ ecombdapi.com
 ecombdimg.com
 ecombdstatic.com
 edge-byted.com
+effirst.com
 ele.me
 elemecdn.com
 feelgood.cn
@@ -168,20 +169,27 @@ goofish.com
 gtimg.cn
 gtimg.com
 gz-tencentclb.com
+hc-cdn.cn
+hc-cdn.com
 hdslb.com
 helloimg.com
 hicaspian.com
+hicloud.com
 hitokoto.cn
 hitv.com
 hnkzy.com
 huasheng.cn
 huatongcloud.com
+huawei.com
+huaweicloud.com
 huoshanimg.com
+ibruce.info
 ibytedapm.com
 icloud-content.com.cn
 icloud.com.cn
 id6.me
 idouyinvod.com
+idqqimg.com
 ihuoshanlive.com
 ilife798.com
 imdada.cn
@@ -206,8 +214,11 @@ jikeiot.cloud
 jomoxc.com
 jpush.cn
 jpush.io
+jsdmirror.com
 kaco.cc
+kc2.top
 kimi.com
+ks-cdn.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -233,6 +244,7 @@ mob.com
 moonshot.cn
 my-imcloud.com
 myapp.com
+myhuaweicloud.com
 myip.la
 myqcloud.com
 myquark.cn
@@ -317,6 +329,7 @@ trustdecision.com
 turingfraud.net
 uc.cn
 ucweb.com
+uczzd.cn
 ugsdk.cn
 ugurl.cn
 umeng.com
@@ -346,8 +359,10 @@ xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
 ydycdn.com
+yingt.fun
 yirujs.com
 youku.com
+yuansfer.com
 yuanshen.com
 z1cdn.com
 zhihu.com

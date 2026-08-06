@@ -1,4 +1,4 @@
-# generated-at: 1785981087
+# generated-at: 1786003865
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -9,6 +9,7 @@
 1e100cdn.net
 22112211.xyz
 2ch0p.com
+333375.xyz
 3lift.com
 4ksj.com
 64clouds.com
@@ -27,10 +28,12 @@ airwallex.com
 akamai.com
 akamaized.net
 alien666.de5.net
+alikunlun.com
 aliyun.com
 aliyuncs.com
 alphavps.com
 amazontrust.com
+amd.com
 ampproject.org
 anthropic.com
 api.aws
@@ -103,6 +106,7 @@ cloudflaremirrors.com
 cloudflareperf.com
 cloudfront.net
 cloudinary.com
+cloudns.org
 clouvider.co.uk
 clouvider.com
 cnima.de
@@ -111,6 +115,7 @@ cococ.eu.org
 coinbase.com
 compute-pipe.com
 cookielaw.org
+coveo.com
 cpmmm.com
 craft.do
 craft.me
@@ -139,6 +144,7 @@ dmit.com
 dmit.io
 dmit.sh
 dns.google
+dnse3.com
 dnse5.com
 dooo.ng
 doubao-dev.com
@@ -156,6 +162,7 @@ er-api.com
 esm.sh
 example.com
 eyeota.net
+f1shyu.com
 facebook.com
 facebook.net
 fastly-analytics.com
@@ -202,6 +209,7 @@ gosquared.com
 gravatar.com
 grok.com
 grouphelp.me
+gstatic.cn
 gstatic.com
 hanime1.com
 hanime1.me
@@ -264,6 +272,7 @@ javdb.com
 jkforum.net
 joinhoney.com
 jsdelivr.net
+jspm.io
 kali.download
 kejilion.pro
 kernel.org
@@ -278,6 +287,7 @@ linkedin.com
 lion123.eu.org
 live.com
 livechatinc.com
+loli.f5.si
 loli.net
 loocc.com
 lowendtalk.com
@@ -484,5 +494,6 @@ yandex.ru
 youtube.com
 ytimg.com
 yuanlu.qzz.io
+zareken.com
 zendesk.com
 zeroclover.io
