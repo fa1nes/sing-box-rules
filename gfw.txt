@@ -1,4 +1,4 @@
-# generated-at: 1786003865
+# generated-at: 1786025568
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -330,6 +330,7 @@ ns1p-aws-backed.global.ssl.fastly.net
 ns1pcdn.net
 ntp.org
 nxtrace.org
+oaistatic.com
 office.com
 office365.com
 ogmua.cn
@@ -400,6 +401,7 @@ servedby-buysellads.com
 servitro.com
 shields.io
 shutterstock.com
+sing-box.app
 singular.net
 skk.moe
 skype.com
