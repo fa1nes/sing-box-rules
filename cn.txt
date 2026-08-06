@@ -1,4 +1,4 @@
-# generated-at: 1786025568
+# generated-at: 1786048284
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -117,6 +117,7 @@ cjjd14.com
 cldisk.com
 cmecloud.cn
 cmpassport.com
+cnzz.com
 colorfulclouds.net
 convection.cn
 crlocsp.cn
@@ -155,6 +156,7 @@ edge-byted.com
 effirst.com
 ele.me
 elemecdn.com
+fancy.cc
 feelgood.cn
 feishu.cn
 fenxianglife.com
@@ -290,6 +292,7 @@ scdn.io
 searchpstatp.com
 searchstatic.com
 sectigochina.com
+senmuse.com
 servicewechat.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
@@ -304,6 +307,7 @@ snssdk.com
 sohu.com
 solseed.cn
 sov2ex.com
+staticfile.org
 talkingdata.com
 tanx.com
 taobao.com
@@ -312,6 +316,7 @@ tbcdn.cn
 tdnsv6.com
 tdnsvod1.cn
 tec73.com
+tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent.com
@@ -359,6 +364,7 @@ xiaohongshu.com
 xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
+yangshipin.cn
 ydycdn.com
 yirujs.com
 youku.com

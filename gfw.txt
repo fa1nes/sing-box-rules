@@ -1,4 +1,4 @@
-# generated-at: 1786025568
+# generated-at: 1786048284
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -14,6 +14,7 @@
 4ksj.com
 64clouds.com
 687511.xyz
+76642464.cfd
 781108.xyz
 86gamestore.com
 8866n.cn
@@ -49,6 +50,7 @@ apple.map.fastly.net
 appraven.net
 appsflyer.com
 archive.org
+archlinux.org
 arena.ai
 asinx.io
 astro.build
@@ -89,6 +91,7 @@ caneis.com.tw
 carryz.net
 catpanel.net
 catserver.ca
+cdnboostcache.com
 cdninstagram.com
 cellrebel.com
 cfapi.net
@@ -190,6 +193,7 @@ github.com
 github.io
 githubapp.com
 githubassets.com
+githubcopilot.com
 githubstatus.com
 githubusercontent.com
 gitlab.com
@@ -234,6 +238,7 @@ hubapi.com
 hubspot.com
 hysteria.network
 hytron.io
+i-meto.com
 ibb.co
 ibsgss.uk
 icanhazip.com
@@ -276,6 +281,7 @@ jspm.io
 kali.download
 kejilion.pro
 kernel.org
+komari.vip
 kuaichedao.xyz
 ldstatic.com
 lencr.org
@@ -319,6 +325,8 @@ neuroid.cloud
 nextcloud.com
 nflxso.net
 ng-dex.com
+nodeget.li
+nodeget.vip
 nodeimage.com
 nodejs.org
 nodequality.com
@@ -416,6 +424,7 @@ speedtest.net
 split.io
 ss2.us
 stackoverflow.com
+starchart.cc
 strapiapp.com
 stripe-camo.global.ssl.fastly.net
 stripe.com
@@ -455,6 +464,7 @@ upload.cc
 us-central1.run.app
 usefathom.com
 usertrust.com
+userway.org
 uxcam.com
 v-cdn.net
 v.ps
@@ -483,19 +493,24 @@ withgoogle.com
 workspace.org
 wsimg.com
 wsot2022.com
+wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net
 x.com
+x3puair.de
 xmsl.org
 xtom.chat
 xtom.com
 xwyue.com
+xykt.de
 yandex.net
 yandex.ru
+yimg.com
 youtube.com
 ytimg.com
 yuanlu.qzz.io
 zareken.com
 zendesk.com
 zeroclover.io
+zhexin.org
