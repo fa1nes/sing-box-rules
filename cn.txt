@@ -1,4 +1,4 @@
-# generated-at: 1786070537
+# generated-at: 1786093203
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -30,6 +30,7 @@ aliapp.org
 alibaba-inc.com
 alibaba.com
 alibabachengdun.com
+alibabachengdun.net
 alibabadns.com
 alibabausercontent.com
 alicdn.com
@@ -62,6 +63,7 @@ bdstatic.com
 bdurl.net
 bdydns.com
 beijing.gov.cn
+beizi.biz
 bh.sb
 bigc.edu.cn
 biliapi.com
@@ -109,6 +111,7 @@ cdn1.vip
 cdngslb.com
 cdnhwc2.com
 cdntips.net
+changyanedu.cn
 chaoxing.com
 chengzijianzhan.com
 chinaunicom.cn
@@ -125,6 +128,7 @@ csdn.net
 csdnimg.cn
 css.sd
 ctdns.cn
+ctobsnssdk.com
 ctydoh.cn
 cup.com.cn
 cyapi.cn
@@ -184,6 +188,7 @@ huasheng.cn
 huatongcloud.com
 huawei.com
 huaweicloud.com
+hubcloud.com.cn
 huoshanimg.com
 ibruce.info
 ibytedapm.com
@@ -220,7 +225,6 @@ jsdmirror.com
 kaco.cc
 kc2.top
 kimi.com
-ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
@@ -231,6 +235,7 @@ kunlunno.com
 kxtrl.cn
 laiqukankan.com
 ldhy.click
+lepudding.com
 livehwc3.cn
 maimemo.com
 maimemostatus.com
@@ -258,8 +263,11 @@ netease.im
 nexitech.cn
 nfcos.cn
 nmc.cn
+pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao1.com
 pddpic.com
 peer.as
+pglstatp-toutiao.com
 picui.cn
 pkoplink.com
 plaso.cn
@@ -337,6 +345,7 @@ turingfraud.net
 uc.cn
 ucweb.com
 uczzd.cn
+ugcimg.cn
 ugsdk.cn
 ugurl.cn
 umeng.com
@@ -344,6 +353,7 @@ umengcloud.com
 umsns.com
 unicompayment.com
 uyunad.com
+volccdn.com
 volces.com
 volcfcdndvs.com
 volcvideo.com
@@ -359,6 +369,7 @@ wnluo.com
 wo.cn
 wosms.cn
 wostore.cn
+wxamedia.com
 wxgateway.com
 xhscdn.com
 xiaohongshu.com
