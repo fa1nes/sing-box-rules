@@ -1,4 +1,4 @@
-# generated-at: 1786114875
+# generated-at: 1786136663
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -51,6 +51,7 @@ apple-dns.cn
 apple.com.cn
 askdiandian.com
 autonavi.com
+b23.tv
 baidu.com
 baike.com
 baikevod.com
@@ -116,6 +117,7 @@ chaoxing.com
 chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
+ciweiyunyin.com
 cjjd14.com
 cldisk.com
 cmecloud.cn
@@ -209,6 +211,7 @@ ip138.com
 ipchk.cn
 ipip.net
 is404.com
+ishangtong.com
 itc.cn
 itdog.cn
 ithome.com
@@ -226,9 +229,9 @@ kaco.cc
 kc2.top
 kimi.com
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunlunno.com
@@ -266,9 +269,11 @@ nmc.cn
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
 pddpic.com
+pddugc.com
 peer.as
 pglstatp-toutiao.com
 picui.cn
+pinduoduo.com
 pkoplink.com
 plaso.cn
 plaso.com
@@ -295,9 +300,11 @@ qweather.com
 rauqa.cn
 rauqa.net
 ruanmei.com
+rumt-zh.com
 sangfor.com
 sangfor.com.cn
 sankuai.com
+scdn.io
 searchpstatp.com
 searchstatic.com
 sectigochina.com
@@ -337,7 +344,9 @@ tianwenca.com
 time.edu.cn
 tingyun.com
 tliveapp.com
+tlivedns.com
 tlivemcdn.com
+tlivesource.com
 toutiao.com
 tratao.com
 trustdecision.com
@@ -371,11 +380,13 @@ wosms.cn
 wostore.cn
 wxamedia.com
 wxgateway.com
+wxlivecdn.com
 xhscdn.com
 xiaohongshu.com
 xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
+yangkeduo.com
 yangshipin.cn
 ydycdn.com
 yirujs.com
