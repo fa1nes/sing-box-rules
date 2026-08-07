@@ -1,4 +1,4 @@
-# generated-at: 1786093203
+# generated-at: 1786114875
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -14,7 +14,6 @@
 4ksj.com
 64clouds.com
 687511.xyz
-76642464.cfd
 781108.xyz
 86gamestore.com
 8866n.cn
@@ -24,6 +23,7 @@ aapq.net
 acgndog.com
 adobedtm.com
 adroll.com
+adtrafficquality.google
 agora.io
 airwallex.com
 akamai.com

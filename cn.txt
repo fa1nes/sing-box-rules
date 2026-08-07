@@ -1,4 +1,4 @@
-# generated-at: 1786093203
+# generated-at: 1786114875
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -225,10 +225,10 @@ jsdmirror.com
 kaco.cc
 kc2.top
 kimi.com
+ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
-ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunlunno.com
@@ -291,13 +291,13 @@ quark.cn
 queniubg.com
 queniukw.com
 queniurc.com
+qweather.com
 rauqa.cn
 rauqa.net
 ruanmei.com
 sangfor.com
 sangfor.com.cn
 sankuai.com
-scdn.io
 searchpstatp.com
 searchstatic.com
 sectigochina.com
