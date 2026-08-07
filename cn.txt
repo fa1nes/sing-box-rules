@@ -1,4 +1,4 @@
-# generated-at: 1786048284
+# generated-at: 1786070537
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -221,6 +221,7 @@ kaco.cc
 kc2.top
 kimi.com
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
