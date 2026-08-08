@@ -1,4 +1,4 @@
-# generated-at: 1786181368
+# generated-at: 1786203508
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -24,6 +24,7 @@
 7zz.cn
 93book.com
 95516.com
+acgvideo.com
 adkwai.com
 aichaoxing.com
 aliapp.org
@@ -49,6 +50,7 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
+apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -125,6 +127,7 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -138,6 +141,9 @@ dbankcdn.com
 dcloud.net.cn
 dcloudstc.com
 dianping.com
+didi.cn
+didistatic.com
+diditaxi.com.cn
 dingtalk.com
 dnse0.cn
 dnse1.com
@@ -329,6 +335,7 @@ tanx.com
 taobao.com
 tbcache.com
 tbcdn.cn
+tdnsstic1.cn
 tdnsv6.com
 tdnsvod1.cn
 tec73.com
@@ -354,6 +361,7 @@ turingfraud.net
 uc.cn
 ucweb.com
 uczzd.cn
+udache.com
 ugcimg.cn
 ugsdk.cn
 ugurl.cn
@@ -383,6 +391,7 @@ wxgateway.com
 wxlivecdn.com
 xhscdn.com
 xiaohongshu.com
+xiaojukeji.com
 xinhuaxmt.com
 xinqiucc.com
 xzxpay.com.cn
@@ -390,7 +399,6 @@ yangkeduo.com
 yangshipin.cn
 ydycdn.com
 yebinnet.com
-yingt.fun
 yirujs.com
 yisou.com
 youku.com

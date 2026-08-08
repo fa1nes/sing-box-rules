@@ -1,4 +1,4 @@
-# generated-at: 1786181368
+# generated-at: 1786203508
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -64,6 +64,7 @@ bgp.tools
 bidswitch.net
 binance.com
 bing.com
+bitsflow.cloud
 bjmxy.net
 braze.com
 breadcloud.io
@@ -441,6 +442,7 @@ surfsharkdns.com
 surge-activation.com
 t.me
 tailscale.com
+tailwindcss.com
 taipeinet.com.tw
 tanhuatv.site
 tapad.com
