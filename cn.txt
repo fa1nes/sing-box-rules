@@ -1,4 +1,4 @@
-# generated-at: 1786203508
+# generated-at: 1786225315
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -122,6 +122,8 @@ chinaz.com
 ciweiyunyin.com
 cjjd14.com
 cldisk.com
+cmbimg.cn
+cmbimg.com
 cmecloud.cn
 cmpassport.com
 cnzz.com
@@ -237,7 +239,6 @@ ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
-ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunlunno.com
@@ -272,6 +273,7 @@ netease.im
 nexitech.cn
 nfcos.cn
 nmc.cn
+npmmirror.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
 pddpic.com
@@ -381,6 +383,7 @@ wechatpay.cn
 weibo.cn
 weixinbridge.com
 weiyun.com
+whecb.com
 whxinna.com
 wnluo.com
 wo.cn
@@ -398,7 +401,6 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
-yebinnet.com
 yirujs.com
 yisou.com
 youku.com
