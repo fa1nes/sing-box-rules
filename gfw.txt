@@ -1,4 +1,4 @@
-# generated-at: 1786158695
+# generated-at: 1786181368
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -51,6 +51,7 @@ appraven.net
 appsflyer.com
 archive.org
 archlinux.org
+arena.ai
 asinx.io
 astro.build
 b-cdn.net
@@ -219,6 +220,7 @@ gstatic.com
 hanime1.com
 hanime1.me
 hanimeone.me
+happyfoxchat.com
 hcaptcha.com
 hdhive.org
 hdker.com
@@ -275,6 +277,7 @@ ipwho.is
 iubenda.com
 javchu.com
 javdb.com
+jivosite.com
 jkforum.net
 joinhoney.com
 jsdelivr.net
@@ -407,6 +410,7 @@ sekai.icu
 sennheiser-hearing.com
 sentry.io
 servedby-buysellads.com
+serverspace.us
 servitro.com
 shields.io
 shutterstock.com
@@ -475,9 +479,11 @@ v2ex.pro
 vanillicon.com
 vegslb.com
 visa.com
+visualwebsiteoptimizer.com
 vk.com
 vki.im
 vnc.dog
+voipstunt.com
 volcgtm.com
 volcvideos.com
 vox.moe
