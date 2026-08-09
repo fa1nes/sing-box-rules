@@ -1,4 +1,4 @@
-# generated-at: 1786270534
+# generated-at: 1786292913
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -49,6 +49,7 @@ apple-studies.com
 apple.map.fastly.net
 appraven.net
 appsflyer.com
+appsflyersdk.com
 archive.org
 archlinux.org
 arena.ai
@@ -144,6 +145,7 @@ digicert.cn
 digicert.com
 discord.gg
 discordapp.com
+discordapp.net
 disneyplus.com
 dmit.com
 dmit.io

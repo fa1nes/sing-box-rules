@@ -1,4 +1,4 @@
-# generated-at: 1786270534
+# generated-at: 1786292913
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -21,12 +21,14 @@
 3edc.cn
 52pojie.cn
 5eplay.com
+66mobi.com
 7zz.cn
 93book.com
 95516.com
 acgvideo.com
 adkwai.com
 advlion.com
+adwangmai.com
 aichaoxing.com
 aliapp.org
 alibaba-inc.com
@@ -47,14 +49,17 @@ aliyuncsslb.com
 alyasset.com
 amap.com
 amemv.com
+antpcdn.com
 apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
+apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
 baidu.com
+baidupcs.com
 baijiayun.com
 baike.com
 baikevod.com
@@ -124,6 +129,7 @@ chinaz.com
 ciweiyunyin.com
 cjjd14.com
 cldisk.com
+cloudpnr.com
 cmbimg.cn
 cmbimg.com
 cmecloud.cn
@@ -131,6 +137,7 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -231,14 +238,15 @@ jdpay.com
 jegotrip.com.cn
 jiguang.cn
 jikeiot.cloud
+jomodns.com
 jomoxc.com
 jpush.cn
 jpush.io
 jsdmirror.com
 kaco.cc
 kc2.top
+kdocs.cn
 kimi.com
-ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
@@ -279,7 +287,10 @@ netease.im
 nexitech.cn
 nfcos.cn
 nmc.cn
+nocode.com
 npmmirror.com
+nuomi.com
+pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
 paperol.cn
@@ -312,6 +323,7 @@ queniubg.com
 queniukw.com
 queniurc.com
 qweather.com
+qwps.cn
 rauqa.cn
 rauqa.net
 ruanmei.com
@@ -368,11 +380,13 @@ toutiao.com
 tratao.com
 trustdecision.com
 turingfraud.net
+ubixioe.com
 uc.cn
 ucweb.com
 uczzd.cn
 udache.com
 ugcimg.cn
+ugdtimg.com
 ugsdk.cn
 ugurl.cn
 umeng.com
@@ -381,6 +395,7 @@ umsns.com
 unicompayment.com
 uyunad.com
 vkbrother.com
+vlion.cn
 volccdn.com
 volces.com
 volcfcdndvs.com
@@ -400,6 +415,8 @@ wnluo.com
 wo.cn
 wosms.cn
 wostore.cn
+wps.cn
+wpscdn.cn
 wxamedia.com
 wxgateway.com
 wxlivecdn.com
@@ -421,6 +438,7 @@ yuansfer.com
 yuanshen.com
 yunxish.com
 z1cdn.com
+zhangyuyidong.cn
 zhihu.com
 zhimg.com
 zhizhuma.com
