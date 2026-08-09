@@ -1,4 +1,4 @@
-# generated-at: 1786247909
+# generated-at: 1786270534
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -51,11 +51,11 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
 baidu.com
+baijiayun.com
 baike.com
 baikevod.com
 baomitu.com
@@ -82,6 +82,7 @@ bilistatic.cn
 bilivideo.com
 biyingniao.com
 bjedu.cn
+bjmantis.net
 bjunicom.com.cn
 bmac.com.cn
 bookln.cn
@@ -130,7 +131,6 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -245,6 +245,7 @@ ksyun.com
 ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
+kunluncan.com
 kunlunno.com
 kxtrl.cn
 laiqukankan.com
@@ -281,6 +282,7 @@ nmc.cn
 npmmirror.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
+paperol.cn
 pddpic.com
 pddugc.com
 peer.as
@@ -326,6 +328,7 @@ servicewechat.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
+shujupie.com
 shuqireader.com
 shuzilm.cn
 sina.com.cn
@@ -377,6 +380,7 @@ umengcloud.com
 umsns.com
 unicompayment.com
 uyunad.com
+vkbrother.com
 volccdn.com
 volces.com
 volcfcdndvs.com
@@ -390,6 +394,8 @@ weixinbridge.com
 weiyun.com
 whecb.com
 whxinna.com
+wjx.cn
+wjx.com
 wnluo.com
 wo.cn
 wosms.cn

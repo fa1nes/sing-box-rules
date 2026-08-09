@@ -1,4 +1,4 @@
-# generated-at: 1786247909
+# generated-at: 1786270534
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -228,6 +228,8 @@ hdker.com
 he.net
 hedbor.org
 hgemby.qzz.io
+highendnetwork.com
+hinet.net
 hizinitestet.com
 hostbrr.com
 hostvds.com
@@ -420,6 +422,7 @@ sing-box.app
 singular.net
 skk.moe
 skype.com
+small-point.com
 smartlook.cloud
 smogflycloud.com
 smokyhosts.com
@@ -492,12 +495,14 @@ volcvideos.com
 vox.moe
 vps.hosting
 vpshostingservice.co
+wanteasy.com.tw
 warpstorm.space
 wawo.wiki
 wdfl.co
 website-files.com
 who.is
 whois.com
+why3s.com.tw
 wikipedia.org
 wisekey.com
 withgoogle.com
