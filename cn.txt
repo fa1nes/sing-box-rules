@@ -1,4 +1,4 @@
-# generated-at: 1786225315
+# generated-at: 1786247909
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -26,6 +26,7 @@
 95516.com
 acgvideo.com
 adkwai.com
+advlion.com
 aichaoxing.com
 aliapp.org
 alibaba-inc.com
@@ -193,6 +194,7 @@ hicloud.com
 hitokoto.cn
 hitv.com
 hnkzy.com
+hpplay.cn
 huasheng.cn
 huatongcloud.com
 huawei.com
@@ -206,6 +208,7 @@ icloud.com.cn
 id6.me
 idouyinvod.com
 idqqimg.com
+iggrowth.cn
 ihuoshanlive.com
 ilife798.com
 imdada.cn
@@ -239,6 +242,7 @@ ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunlunno.com
@@ -253,6 +257,7 @@ make-w0rld-static.club
 max-c.com
 meituan.com
 meituan.net
+mentamob.com
 miaozhen.com
 micu.hk
 mihoyo.com
@@ -401,11 +406,14 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
+yingt.fun
 yirujs.com
 yisou.com
 youku.com
 yuansfer.com
 yuanshen.com
+yunxish.com
 z1cdn.com
 zhihu.com
 zhimg.com
