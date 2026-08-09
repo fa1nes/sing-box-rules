@@ -1,4 +1,4 @@
-# generated-at: 1786292913
+# generated-at: 1786315128
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz

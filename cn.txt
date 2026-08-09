@@ -1,4 +1,4 @@
-# generated-at: 1786292913
+# generated-at: 1786315128
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -54,7 +54,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -157,6 +156,7 @@ diditaxi.com.cn
 dingtalk.com
 dnse0.cn
 dnse1.com
+dnsv1.com
 doh.pub
 dolonx.cn
 doupay.com
@@ -247,10 +247,9 @@ kaco.cc
 kc2.top
 kdocs.cn
 kimi.com
-ksord.com
+ks-cdn.com
 ksosoft.com
 ksyun.com
-ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunluncan.com
@@ -373,6 +372,7 @@ tianwenca.com
 time.edu.cn
 tingyun.com
 tliveapp.com
+tlivecdn.com
 tlivedns.com
 tlivemcdn.com
 tlivesource.com
@@ -429,8 +429,7 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
-yebinnet.com
-yingt.fun
+yingt.asia
 yirujs.com
 yisou.com
 youku.com
