@@ -1,4 +1,4 @@
-# generated-at: 1786381560
+# generated-at: 1786403700
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -23,6 +23,7 @@ aapq.net
 acgndog.com
 adobedtm.com
 adroll.com
+adtidy.org
 adtrafficquality.google
 agora.io
 airwallex.com
@@ -208,6 +209,7 @@ gnu.org
 godaddy.com
 gomami.io
 google-analytics.com
+google.cn
 google.com
 google.com.hk
 googleadservices.com
@@ -461,6 +463,7 @@ tenor.com
 termius-session-logs.s3.amazonaws.com
 termius.com
 tgyes.com
+tiktokcdn.com
 timon-s3-storage-public.s3.eu-central-1.amazonaws.com
 timon.cards
 tiwubh.com
