@@ -1,4 +1,4 @@
-# generated-at: 1786359528
+# generated-at: 1786381560
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -153,6 +153,7 @@ dmit.sh
 dns.google
 dnse3.com
 dnse5.com
+dolonx.cn
 dooo.ng
 doubao-dev.com
 doubaocdn.com

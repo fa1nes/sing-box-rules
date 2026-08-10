@@ -1,4 +1,4 @@
-# generated-at: 1786359528
+# generated-at: 1786381560
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -23,6 +23,7 @@
 52pojie.cn
 5eplay.com
 66mobi.com
+76642464.cfd
 7zz.cn
 93book.com
 95516.com
@@ -55,6 +56,7 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
+apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -137,7 +139,6 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -159,7 +160,6 @@ dnse0.cn
 dnse1.com
 dnsv1.com
 doh.pub
-dolonx.cn
 doupay.com
 douyin.com
 douyincdn.com
@@ -250,10 +250,9 @@ kaco.cc
 kc2.top
 kdocs.cn
 kimi.com
-ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunluncan.com
@@ -438,6 +437,7 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 youku.com
