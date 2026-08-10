@@ -1,4 +1,4 @@
-# generated-at: 1786337086
+# generated-at: 1786359528
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -12,6 +12,7 @@
 163.com
 163yun.com
 189.cn
+1b1tech.com
 1rtb.com
 1rtb.net
 3.cn
@@ -54,7 +55,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -137,6 +137,7 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -227,6 +228,7 @@ ip.cn
 ip138.com
 ipchk.cn
 ipip.net
+iqiyipic.com
 is404.com
 ishangtong.com
 itc.cn
@@ -243,6 +245,7 @@ jomoxc.com
 jpush.cn
 jpush.io
 jsdmirror.com
+jspcdn.cn
 kaco.cc
 kc2.top
 kdocs.cn
@@ -251,7 +254,6 @@ ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
-ksyuncdn.com
 kuaishouzt.com
 kuiniuca.com
 kunluncan.com
@@ -411,6 +413,7 @@ weibo.cn
 weixinbridge.com
 weiyun.com
 whecb.com
+whongtec.com
 whxinna.com
 wjx.cn
 wjx.com
@@ -423,6 +426,7 @@ wpscdn.cn
 wxamedia.com
 wxgateway.com
 wxlivecdn.com
+wyjianzhan.com
 xhscdn.com
 xiaohongshu.com
 xiaojukeji.com
@@ -434,7 +438,6 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yingt.asia
-yingt.fun
 yirujs.com
 yisou.com
 youku.com
