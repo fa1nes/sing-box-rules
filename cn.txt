@@ -1,4 +1,4 @@
-# generated-at: 1786425585
+# generated-at: 1786447648
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -28,7 +28,9 @@
 93book.com
 95516.com
 acgvideo.com
+ad-scope.com.cn
 adkwai.com
+adn-plus.com.cn
 advlion.com
 adwangmai.com
 aichaoxing.com
@@ -140,7 +142,6 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -150,7 +151,7 @@ ctydoh.cn
 cup.com.cn
 cyapi.cn
 dailygn.com
-dbankcdn.com
+dbankcdn.cn
 dcloud.net.cn
 dcloudstc.com
 dianping.com
@@ -254,6 +255,7 @@ kc2.top
 kdocs.cn
 kimi.com
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -441,8 +443,10 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
 yijielinli.com.cn
 yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 youku.com
