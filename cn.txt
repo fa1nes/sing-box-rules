@@ -1,4 +1,4 @@
-# generated-at: 1786447648
+# generated-at: 1786469251
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -126,6 +126,7 @@ cdn1.vip
 cdngslb.com
 cdnhwc2.com
 cdntips.net
+cfogc.com
 changyanedu.cn
 chaoxing.com
 chengzijianzhan.com
@@ -152,6 +153,7 @@ cup.com.cn
 cyapi.cn
 dailygn.com
 dbankcdn.cn
+dbankcdn.com
 dcloud.net.cn
 dcloudstc.com
 dianping.com
@@ -161,6 +163,7 @@ diditaxi.com.cn
 dingtalk.com
 dnse0.cn
 dnse1.com
+dnspod.net
 dnsv1.com
 doh.pub
 doupay.com
@@ -194,6 +197,7 @@ gepush.com
 getui.com
 getui.net
 goofish.com
+gpowersoft.com
 gtimg.cn
 gtimg.com
 gz-tencentclb.com
@@ -320,6 +324,7 @@ qcloud.com
 qianwen.com
 qianxun.com
 qiezibenpao.com
+qimiaoyuanfen.com
 qlivecdn.com
 qlogo.cn
 qpic.cn

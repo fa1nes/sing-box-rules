@@ -1,4 +1,4 @@
-# generated-at: 1786447648
+# generated-at: 1786469251
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -62,6 +62,7 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -101,6 +102,7 @@ cfapi.net
 chatgpt.com
 check.place
 chinesean.com
+clarity.ms
 claude.ai
 claude.com
 cline.bot
@@ -136,7 +138,6 @@ dahhxxttxs.com
 danmuji.org
 datatables.net
 datawave.sh
-dbankcdn.com
 debian.org
 deepwiki.com
 deli.pp.ua
@@ -293,6 +294,8 @@ jspm.io
 kali.download
 kejilion.pro
 kernel.org
+ketchcdn.com
+ketchjs.com
 komari.vip
 kuaichedao.xyz
 ldstatic.com
@@ -326,6 +329,7 @@ missav.ws
 mixpanel.com
 mji.rip
 ml314.com
+mozilla1.com
 mrhost.biz
 msn.com
 mullvad.net
@@ -404,12 +408,14 @@ router-for.me
 rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 rtcxyz.com
 rubiconproject.com
+rudderlabs.com
 rust-lang.org
 ry.mk
 s-consumer-cloud.com
 s-ul.eu
 s3.ap-southeast-1.amazonaws.com
 sagernet.org
+sanity.io
 sardine.ai
 scorecardresearch.com
 sectigo.com
