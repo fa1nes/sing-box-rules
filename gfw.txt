@@ -1,4 +1,4 @@
-# generated-at: 1786469251
+# generated-at: 1786492005
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -543,3 +543,4 @@ zareken.com
 zendesk.com
 zeroclover.io
 zhexin.org
+zhz.moe
