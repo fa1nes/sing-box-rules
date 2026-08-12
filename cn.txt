@@ -1,4 +1,4 @@
-# generated-at: 1786536421
+# generated-at: 1786547415
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -122,6 +122,8 @@ caiyunapp.com
 caiyuncdn.com
 callmekeji.com
 cayfpay.cn
+cdky.vip
+cdkyvip360.cn
 cdn-go.cn
 cdn1.vip
 cdngslb.com
@@ -133,6 +135,7 @@ chaoxing.com
 chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
+chitus.com
 ciweiyunyin.com
 cjjd14.com
 cldisk.com
@@ -144,7 +147,6 @@ cmpassport.com
 cnzz.com
 colorfulclouds.net
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -257,6 +259,7 @@ jpush.io
 jsdmirror.com
 jspcdn.cn
 kaco.cc
+kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
@@ -268,6 +271,7 @@ kuaishouzt.com
 kuiniuca.com
 kunluncan.com
 kunlunno.com
+kunlunpi.com
 kxtrl.cn
 laiqukankan.com
 ldhy.click
@@ -383,6 +387,7 @@ tencent-cloud.com
 tencent-cloud.net
 tencent.com
 tencentclb.com
+tencentcloudapi.com
 tencentcos.cn
 tencentmusic.com
 tenpay.com
@@ -452,7 +457,6 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
-yingt.asia
 yingt.fun
 yirujs.com
 yisou.com
@@ -460,6 +464,7 @@ youku.com
 yuansfer.com
 yuanshen.com
 yunxish.com
+yzcdn.cn
 z1cdn.com
 zhangyuyidong.cn
 zhihu.com
