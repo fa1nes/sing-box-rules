@@ -1,4 +1,4 @@
-# generated-at: 1786641628
+# generated-at: 1786663404
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -409,6 +409,8 @@ red-3t5nvttg.com
 reddit.com
 redditstatic.com
 redeemgpt.com
+redhat.com
+redhatstatic.com
 redotpay.com
 redotpay.net
 revenuecat.com
@@ -461,6 +463,7 @@ split.io
 ss2.us
 stackoverflow.com
 starchart.cc
+statuspage.io
 strapiapp.com
 stripe-camo.global.ssl.fastly.net
 stripe.com
@@ -490,6 +493,7 @@ tiwubh.com
 tlfhost.com
 tolis.eu.org
 triple.app
+trustarc.com
 turktelekom.com.tr
 twilio.com
 twimg.com
