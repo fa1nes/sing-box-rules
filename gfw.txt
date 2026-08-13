@@ -1,4 +1,4 @@
-# generated-at: 1786596122
+# generated-at: 1786618930
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -54,7 +54,6 @@ appsflyer.com
 appsflyersdk.com
 archive.org
 archlinux.org
-arena.ai
 asinx.io
 astro.build
 b-cdn.net

@@ -1,4 +1,4 @@
-# generated-at: 1786596122
+# generated-at: 1786618930
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -45,6 +45,7 @@ alibabausercontent.com
 alicdn.com
 alidns.com
 aligames.com
+alimebot.com
 alipan.com
 alipay-eco.com
 alipay.com
@@ -266,7 +267,7 @@ kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
-ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -460,7 +461,6 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
-yingt.asia
 yingt.fun
 yirujs.com
 yisou.com
