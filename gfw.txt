@@ -1,4 +1,4 @@
-# generated-at: 1786618930
+# generated-at: 1786641628
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -54,6 +54,7 @@ appsflyer.com
 appsflyersdk.com
 archive.org
 archlinux.org
+arena.ai
 asinx.io
 astro.build
 b-cdn.net
@@ -68,6 +69,7 @@ binance.com
 bing.com
 bitsflow.cloud
 bjmxy.net
+brandfetch.io
 braze.com
 breadcloud.io
 browser-intake-datadoghq.com
@@ -80,6 +82,8 @@ bugsnag.com
 bugutv.org
 buysellads.com
 buysellads.net
+bwh81.net
+bwhstats.com
 byabcd.com
 byabcde.com
 byapps.net
@@ -126,6 +130,7 @@ compute-pipe.com
 cookielaw.org
 coveo.com
 cpmmm.com
+cr-relay.com
 craft.do
 craft.me
 crashlytics.com
@@ -240,6 +245,8 @@ hinet.net
 hizinitestet.com
 hostbrr.com
 hostvds.com
+hotjar.com
+hotjar.io
 hs-analytics.net
 hs-banner.com
 hs-scripts.com
@@ -293,10 +300,12 @@ joinhoney.com
 jsdelivr.net
 jspm.io
 kali.download
+kapa.ai
 kejilion.pro
 kernel.org
 ketchcdn.com
 ketchjs.com
+keyplay.io
 komari.vip
 kuaichedao.xyz
 ldstatic.com
@@ -398,6 +407,7 @@ rc-backup.com
 recaptcha.net
 red-3t5nvttg.com
 reddit.com
+redditstatic.com
 redeemgpt.com
 redotpay.com
 redotpay.net
@@ -500,6 +510,7 @@ v2ex.co
 v2ex.com
 v2ex.pro
 vanillicon.com
+vector.co
 vegslb.com
 visa.com
 visualwebsiteoptimizer.com
@@ -532,6 +543,7 @@ wuchuyun.com
 wuchuyun.net
 x.com
 x3puair.de
+xjj.sh
 xmsl.org
 xtom.chat
 xtom.com
