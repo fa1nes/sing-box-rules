@@ -1,4 +1,4 @@
-# generated-at: 1786685025
+# generated-at: 1786707163
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -20,19 +20,23 @@
 3322.net
 360buyimg.com
 3edc.cn
+51.la
 52pojie.cn
 5eplay.com
 66mobi.com
 6711img.com
 68.gd.cn
+6hub.cn
 76642464.cfd
 7zz.cn
+91kami.com
 93book.com
 95516.com
 acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
+adqtt.net
 advlion.com
 adwangmai.com
 aichaoxing.com
@@ -153,16 +157,15 @@ cnzz.com
 colorfulclouds.net
 conac.cn
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
-ctdns.cn
 ctobsnssdk.com
 ctydoh.cn
 cup.com.cn
 cyapi.cn
 dailygn.com
+damai.cn
 dbankcdn.cn
 dbankcdn.com
 dcloud.net.cn
@@ -231,6 +234,7 @@ huawei.com
 huaweicloud.com
 hubcloud.com.cn
 huoshanimg.com
+hzshudian.com
 ibruce.info
 ibytedapm.com
 icloud-content.com.cn
@@ -274,6 +278,7 @@ kc2.top
 kdocs.cn
 kimi.com
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 kuaishouzt.com
@@ -351,6 +356,9 @@ quark.cn
 queniubg.com
 queniukw.com
 queniurc.com
+queniusz.com
+queniuuf.com
+queniuyk.com
 qweather.com
 qwps.cn
 rantron.cn
@@ -385,6 +393,7 @@ staticfile.org
 talkingdata.com
 tanx.com
 taobao.com
+taopiaopiao.com
 tbcache.com
 tbcdn.cn
 tctjzs.cn
@@ -466,10 +475,8 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
-yebinnet.com
 yijielinli.com.cn
 yingt.asia
-yingt.fun
 yirujs.com
 yisou.com
 youku.com
