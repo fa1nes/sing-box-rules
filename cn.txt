@@ -1,4 +1,4 @@
-# generated-at: 1786707163
+# generated-at: 1786729184
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -145,6 +145,7 @@ chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
 chitus.com
+cibntv.net
 ciweiyunyin.com
 cjjd14.com
 cldisk.com
@@ -160,6 +161,7 @@ convection.cn
 csdn.net
 csdnimg.cn
 css.sd
+ctdns.cn
 ctobsnssdk.com
 ctydoh.cn
 cup.com.cn
@@ -178,6 +180,7 @@ dingtalk.com
 dizgslb.com
 dnse0.cn
 dnse1.com
+dnse2.com
 dnspod.net
 dnsv1.com
 doh.pub
@@ -191,6 +194,7 @@ douyinvod.com
 douyucdn.cn
 dpfile.com
 dusays.com
+dutils.com
 easemob.com
 eastmoney.com
 ecombdapi.com
@@ -204,9 +208,11 @@ fancy.cc
 feelgood.cn
 feichong.net
 feishu.cn
+fengkongcloud.com
 fenxianglife.com
 flysleep.cn
 fofa.info
+free2walk.cn
 gdtimg.com
 geetest.com
 geevisit.com
@@ -222,6 +228,7 @@ hc-cdn.cn
 hc-cdn.com
 hdslb.com
 helloimg.com
+hiaiabc.com
 hicaspian.com
 hicloud.com
 hitokoto.cn
@@ -281,6 +288,8 @@ ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
+ktvme.cn
+ktvme.com
 kuaishouzt.com
 kuiniuca.com
 kunluncan.com
@@ -322,6 +331,7 @@ nmc.cn
 nocode.com
 npmmirror.com
 nuomi.com
+oceanengine.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
@@ -332,6 +342,7 @@ peer.as
 pglstatp-toutiao.com
 picui.cn
 pinduoduo.com
+pipi.cn
 pkoplink.com
 plaso.cn
 plaso.com
@@ -467,6 +478,7 @@ wxgateway.com
 wxlivecdn.com
 wyjianzhan.com
 xhscdn.com
+xiaoheihe.cn
 xiaohongshu.com
 xiaojukeji.com
 xinhuaxmt.com
@@ -475,10 +487,12 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
 yijielinli.com.cn
-yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
+yksdks.com
 youku.com
 yuansfer.com
 yuanshen.com
