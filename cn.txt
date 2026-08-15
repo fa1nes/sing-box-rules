@@ -1,4 +1,4 @@
-# generated-at: 1786772438
+# generated-at: 1786789997
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -11,7 +11,6 @@
 16163.com
 163.com
 163yun.com
-189.cn
 1b1tech.com
 1rtb.com
 1rtb.net
@@ -32,6 +31,7 @@
 91kami.com
 93book.com
 95516.com
+95526.mobi
 acgvideo.com
 ad-scope.com.cn
 adkwai.com
@@ -76,6 +76,7 @@ baidupcs.com
 baijiayun.com
 baike.com
 baikevod.com
+bankofbeijing.com.cn
 baomitu.com
 battlenet.com.cn
 bcebos.com
@@ -106,6 +107,7 @@ bjunicom.com.cn
 bjut.edu.cn
 bmac.com.cn
 bookln.cn
+bsfit.com.cn
 bsgslb.cn
 bv2008.cn
 bvmlt.top
@@ -138,6 +140,7 @@ cdn1.vip
 cdngslb.com
 cdnhwc2.com
 cdntips.net
+cfca.com.cn
 cfogc.com
 changyanedu.cn
 chaoxing.com
@@ -287,7 +290,6 @@ kdocs.cn
 kimi.com
 ks-cdn.com
 ksord.com
-ksosoft.com
 ksyun.com
 ksyuncdn.com
 ktvme.cn
@@ -398,6 +400,7 @@ sina.com.cn
 sinaimg.cn
 sjxydc.com
 sm.cn
+smartont.net
 snssdk.com
 sohu.com
 solseed.cn
@@ -475,6 +478,7 @@ wosms.cn
 wostore.cn
 wps.cn
 wpscdn.cn
+wshoho.cn
 wxamedia.com
 wxgateway.com
 wxlivecdn.com
@@ -491,7 +495,6 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
-yingt.asia
 yirujs.com
 yisou.com
 yksdks.com
