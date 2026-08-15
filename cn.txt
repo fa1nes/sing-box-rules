@@ -1,16 +1,18 @@
-# generated-at: 1786789997
+# generated-at: 1786812578
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 10010.com
 11222.cn
 115.com
+115cdn.net
 122.gov.cn
 126.net
 127.net
 16163.com
 163.com
 163yun.com
+189.cn
 1b1tech.com
 1rtb.com
 1rtb.net
@@ -288,13 +290,14 @@ kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
-ks-cdn.com
 ksord.com
+ksosoft.com
 ksyun.com
 ksyuncdn.com
 ktvme.cn
 ktvme.com
 kuaishouzt.com
+kugou.com
 kuiniuca.com
 kunluncan.com
 kunlunno.com
@@ -318,6 +321,7 @@ mihoyo.com
 miwifi.com
 mmstat.com
 mob.com
+mobileservice.cn
 moonshot.cn
 my-imcloud.com
 myapp.com
@@ -495,6 +499,8 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
+yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 yksdks.com

@@ -1,8 +1,9 @@
-# generated-at: 1786789997
+# generated-at: 1786812578
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
 100222.xyz
+1008.site
 111666.best
 12o2.com
 187187.xyz
@@ -23,8 +24,10 @@
 99brands.com
 aapq.net
 acgndog.com
+adjust.com
 adobedtm.com
 adroll.com
+adsmoloco.com
 adtidy.org
 adtrafficquality.google
 agora.io
@@ -50,6 +53,7 @@ appcloudcdn.com
 applanga.com
 apple-studies.com
 apple.map.fastly.net
+applovin.com
 appraven.net
 appsflyer.com
 appsflyersdk.com
@@ -58,6 +62,7 @@ archlinux.org
 arena.ai
 asinx.io
 astro.build
+axon.ai
 b-cdn.net
 bangumi.ca
 battle.net
@@ -161,6 +166,7 @@ disneyplus.com
 dmit.com
 dmit.io
 dmit.sh
+dmm.co.jp
 dns.google
 dnse3.com
 dnse5.com
@@ -175,6 +181,7 @@ e-hentai.org
 easytomessage.com
 ecombdpage.com
 eidoso.com
+eightcha.com
 embymv.link
 er-api.com
 esm.sh
@@ -193,6 +200,7 @@ fc-use1-00-pics-bkt-00.s3.amazonaws.com
 feria.eu.org
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
+fivecdm.com
 fkli.cc
 flagcdn.com
 fontshare.com
@@ -226,6 +234,7 @@ googleadservices.com
 googleapis.com
 googlesyndication.com
 googletagmanager.com
+googletagservices.com
 googleusercontent.com
 gosquared.com
 gravatar.com
@@ -280,6 +289,7 @@ immersivetranslate.cn
 immersivetranslate.com
 indream.app
 informaten.com
+inmobi.com
 instagram.com
 intellectmoney.ru
 intercom.com
@@ -295,6 +305,10 @@ iplark.com
 ipleak.net
 ipwho.is
 iubenda.com
+jable.tv
+jads.co
+javbus.com
+javbus22.com
 javchu.com
 javdb.com
 jivosite.com
@@ -339,11 +353,13 @@ microsoftonline.com
 miji.bid
 misaka.one
 missav.ai
+missav.com
 missav.live
 missav.ws
 mixpanel.com
 mji.rip
 ml314.com
+moloco.com
 mozilla1.com
 mrhost.biz
 msn.com
@@ -354,6 +370,7 @@ netflix.com
 neuro-id.com
 neuroid.cloud
 nextcloud.com
+nflximg.net
 nflxso.net
 ng-dex.com
 nodeget.li
@@ -418,6 +435,7 @@ redhat.com
 redhatstatic.com
 redotpay.com
 redotpay.net
+remerge.io
 revenuecat.com
 rfchost.com
 rfchost.net
@@ -441,6 +459,7 @@ sardine.ai
 scorecardresearch.com
 sectigo.com
 secureserver.net
+securitytools.net
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
@@ -492,6 +511,9 @@ termius-session-logs.s3.amazonaws.com
 termius.com
 tgyes.com
 tiktokcdn.com
+tiktokpangle-b.us
+tiktokpangle-cdn-us.com
+tiktokpangle.us
 timon-s3-storage-public.s3.eu-central-1.amazonaws.com
 timon.cards
 tiwubh.com
@@ -523,6 +545,7 @@ vector.co
 vegslb.com
 visa.com
 visualwebsiteoptimizer.com
+vk.com
 vki.im
 vnc.dog
 voipstunt.com
@@ -531,6 +554,7 @@ volcvideos.com
 vox.moe
 vps.hosting
 vpshostingservice.co
+vungle.com
 wanteasy.com.tw
 warpstorm.space
 wawo.wiki
@@ -553,6 +577,7 @@ x.com
 x3puair.de
 xjj.sh
 xmsl.org
+xteko.com
 xtom.chat
 xtom.com
 xwyue.com
