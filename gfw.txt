@@ -1,4 +1,4 @@
-# generated-at: 1786857404
+# generated-at: 1786886677
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -19,7 +19,6 @@
 687511.xyz
 781108.xyz
 86gamestore.com
-8866n.cn
 990599.xyz
 99brands.com
 aapq.net
@@ -28,6 +27,7 @@ adjust.com
 adobedtm.com
 adroll.com
 adsmoloco.com
+adsrvr.org
 adtidy.org
 adtrafficquality.google
 agora.io
@@ -85,6 +85,7 @@ browser-intake-us3-datadoghq.com
 browser-intake-us5-datadoghq.com
 browserleaks.net
 browserleaks.org
+bt.sb
 btnull.org
 bugsnag.com
 bugutv.org
@@ -135,6 +136,7 @@ cnima.de
 cock.li
 cococ.eu.org
 coinbase.com
+company-target.com
 compute-pipe.com
 cookielaw.org
 coveo.com
@@ -156,10 +158,12 @@ datawave.sh
 debian.org
 deepwiki.com
 deli.pp.ua
+demandbase.com
 devin.ai
 dicebear.com
 digicert.cn
 digicert.com
+digvps.com
 discord.gg
 discordapp.com
 discordapp.net
@@ -206,6 +210,7 @@ fkli.cc
 flagcdn.com
 fontshare.com
 fpjs.io
+frankfurter.dev
 fraudlabspro.com
 freebsd.org
 freshchat.com
@@ -305,6 +310,7 @@ ipify.org
 iplark.com
 ipleak.net
 ipwho.is
+isif.net
 iubenda.com
 jable.tv
 jads.co
@@ -352,6 +358,7 @@ metacubex.one
 microsoft.com
 microsoftapp.net
 microsoftonline.com
+mij.rip
 miji.bid
 misaka.one
 missav.ai
@@ -360,6 +367,8 @@ missav.live
 missav.ws
 mixpanel.com
 mji.rip
+mktoresp.com
+mktoutil.com
 ml314.com
 moloco.com
 mozilla1.com
