@@ -1,9 +1,10 @@
-# generated-at: 1786886677
+# generated-at: 1786908486
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
 100222.xyz
 1008.site
+105888.xyz
 111666.best
 12o2.com
 187187.xyz
@@ -12,6 +13,7 @@
 22112211.xyz
 2ch0p.com
 333375.xyz
+37ke.com
 3gppnetwork.org
 3lift.com
 4ksj.com
@@ -19,6 +21,7 @@
 687511.xyz
 781108.xyz
 86gamestore.com
+89kb.com
 990599.xyz
 99brands.com
 aapq.net
@@ -34,6 +37,7 @@ agora.io
 airwallex.com
 akamai.com
 akamaized.net
+akkocloud.com
 alien666.de5.net
 alikunlun.com
 aliyun.com
@@ -70,7 +74,6 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
-bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -118,6 +121,7 @@ chatgpt.com
 check.place
 chinesean.com
 clarity.ms
+claude-code-best.win
 claude.ai
 claude.com
 cline.bot
@@ -132,6 +136,7 @@ cloudinary.com
 cloudns.org
 clouvider.co.uk
 clouvider.com
+cncdn.cc
 cnima.de
 cock.li
 cococ.eu.org
@@ -277,6 +282,7 @@ hubspot.com
 hysteria.network
 hytron.io
 i-meto.com
+iaclouds.com
 ibb.co
 ibsgss.uk
 icanhazip.com
@@ -286,6 +292,7 @@ iframely.net
 iimg.pp.ua
 ikuuu.org
 im.ge
+imagekit.io
 imetyou.top
 img.pub
 imgdd.com
@@ -353,6 +360,7 @@ mapbox.com
 marketo.net
 media-amazon.com
 medium.com
+meowimg.com
 meta.com
 metacubex.one
 microsoft.com
@@ -371,12 +379,14 @@ mktoresp.com
 mktoutil.com
 ml314.com
 moloco.com
+mozilla.com
 mozilla1.com
 mrhost.biz
 msn.com
 mullvad.net
 namecrane.com
 nasa.gov
+net.coffee
 netflix.com
 neuro-id.com
 neuroid.cloud
@@ -572,9 +582,11 @@ warpstorm.space
 wawo.wiki
 wdfl.co
 website-files.com
+whitechun.xyz
 who.is
 whois.com
 why3s.com.tw
+wikimedia.org
 wikipedia.org
 wisekey.com
 withgoogle.com

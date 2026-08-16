@@ -1,4 +1,4 @@
-# generated-at: 1786886677
+# generated-at: 1786908486
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -70,7 +70,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -218,6 +217,7 @@ feichong.net
 feishu.cn
 fengkongcloud.com
 fenxianglife.com
+fit2cloud.com
 flysleep.cn
 fofa.info
 free2walk.cn
@@ -229,6 +229,7 @@ getui.com
 getui.net
 goofish.com
 gpowersoft.com
+gravity-engine.com
 gtimg.cn
 gtimg.com
 gz-tencentclb.com
@@ -263,6 +264,7 @@ ilife798.com
 imdada.cn
 imgdd.cc
 imgs.ovh
+imtmp.net
 infi.cn
 inkuai.com
 ip.cn
@@ -292,7 +294,7 @@ kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
-ksord.com
+ks-cdn.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -313,6 +315,7 @@ maimemo.com
 maimemostatus.com
 make-w0rld-static.club
 max-c.com
+maxkb.cn
 meishesdk.com
 meituan.com
 meituan.net
@@ -320,6 +323,7 @@ mentamob.com
 miaozhen.com
 micu.hk
 mihoyo.com
+mikus.ink
 miwifi.com
 mmstat.com
 mob.com
@@ -467,6 +471,7 @@ volcfcdndvs.com
 volcvideo.com
 vzuu.com
 wasu.tv
+weavatar.com
 websaas.cn
 wechat.com
 wechatpay.cn
@@ -496,6 +501,7 @@ xiaohongshu.com
 xiaojukeji.com
 xinhuaxmt.com
 xinqiucc.com
+xrbk.cn
 xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
