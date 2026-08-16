@@ -1,4 +1,4 @@
-# generated-at: 1786835167
+# generated-at: 1786857404
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -60,6 +60,7 @@ appsflyersdk.com
 archive.org
 archlinux.org
 arena.ai
+arin.net
 asinx.io
 astro.build
 axon.ai
@@ -326,6 +327,7 @@ ketchjs.com
 keyplay.io
 komari.vip
 kuaichedao.xyz
+lacnic.net
 ldstatic.com
 lencr.org
 lfeeder.com
@@ -528,6 +530,7 @@ twitter.com
 typekit.net
 typicode.com
 unifyintent.com
+unisvg.com
 unpkg.com
 upload.cc
 us-central1.run.app
