@@ -1,4 +1,4 @@
-# generated-at: 1786952597
+# generated-at: 1786974630
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -74,6 +74,7 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -440,7 +441,6 @@ postimg.cc
 prezly.com
 protechts.net
 px-cloud.net
-qtlcdn.com
 quad9.net
 qualcomm.cn
 qualtrics.com
