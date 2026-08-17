@@ -1,4 +1,4 @@
-# generated-at: 1786908486
+# generated-at: 1786930635
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -74,6 +74,7 @@ battle.net
 bdcgslb.com
 bgm.tv
 bgp.gd
+bgp.tools
 bidswitch.net
 binance.com
 bing.com
@@ -505,6 +506,7 @@ songxwn.com
 sora.com
 speedtest.net
 split.io
+split.map.fastly.net
 ss2.us
 stackoverflow.com
 starchart.cc
