@@ -1,4 +1,4 @@
-# generated-at: 1786996401
+# generated-at: 1787018513
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -70,7 +70,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -166,6 +165,7 @@ cnzz.com
 colorfulclouds.net
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -296,9 +296,11 @@ kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
+ks-cdn.com
 ksord.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 ktvme.cn
 ktvme.com
 kuaishouzt.com
