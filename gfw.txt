@@ -1,4 +1,4 @@
-# generated-at: 1787217672
+# generated-at: 1787234316
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -113,12 +113,14 @@ caneis.com.tw
 carryz.net
 catpanel.net
 catserver.ca
+cdn-api-weglot.com
 cdnboostcache.com
 cdnbuild.net
 cdninstagram.com
 cellrebel.com
 cfapi.net
 chatgpt.com
+chatlingual.s3.amazonaws.com
 check.place
 chinesean.com
 clarity.ms
@@ -340,6 +342,7 @@ kernel.org
 ketchcdn.com
 ketchjs.com
 keyplay.io
+klaviyo.com
 komari.vip
 kuaichedao.xyz
 lacnic.net
@@ -366,6 +369,7 @@ medium.com
 meowimg.com
 meta.com
 metacubex.one
+metorik.com
 microsoft.com
 microsoftapp.net
 microsoftonline.com
@@ -483,7 +487,6 @@ sardine.ai
 scorecardresearch.com
 sectigo.com
 secureserver.net
-securitytools.net
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
@@ -493,6 +496,9 @@ serverspace.us
 servitro.com
 shazam.com
 shields.io
+shopify.com
+shopifycdn.com
+shopifysvc.com
 shutterstock.com
 sing-box.app
 singular.net
@@ -558,6 +564,7 @@ unpkg.com
 upload.cc
 us-central1.run.app
 usefathom.com
+usemessages.com
 usertrust.com
 userway.org
 uxcam.com
@@ -586,6 +593,7 @@ warpstorm.space
 wawo.wiki
 wdfl.co
 website-files.com
+weglot.com
 whitechun.xyz
 who.is
 whois.com
