@@ -1,10 +1,9 @@
-# generated-at: 1787173227
+# generated-at: 1787195628
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 03k.org
 10010.com
-11222.cn
 115.com
 115cdn.net
 122.gov.cn
@@ -70,7 +69,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -166,6 +164,7 @@ cnzz.com
 colorfulclouds.net
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -518,8 +517,8 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
 yijielinli.com.cn
-yingt.fun
 yirujs.com
 yisou.com
 yksdks.com
