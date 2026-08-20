@@ -1,4 +1,4 @@
-# generated-at: 1787234316
+# generated-at: 1787256066
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -110,6 +110,8 @@ bjmantis.net
 bjtu.edu.cn
 bjunicom.com.cn
 bjut.edu.cn
+blibee.com
+blibee.net
 bmac.com.cn
 bookln.cn
 bsfit.com.cn
@@ -168,7 +170,6 @@ cnzz.com
 colorfulclouds.net
 conac.cn
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -186,6 +187,7 @@ dcloudlive.com
 dcloudstc.com
 dianping.com
 didi.cn
+didialift.com
 didistatic.com
 diditaxi.com.cn
 dingtalk.com
@@ -303,7 +305,6 @@ kc2.top
 kdocs.cn
 kimi.com
 ks-cdn.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -531,7 +532,7 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
-yingt.fun
+yingt.asia
 yirujs.com
 yisou.com
 yksdks.com
