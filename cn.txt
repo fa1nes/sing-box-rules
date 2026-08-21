@@ -1,4 +1,4 @@
-# generated-at: 1787288884
+# generated-at: 1787311535
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -54,6 +54,7 @@ alibabausercontent.com
 alicdn.com
 alidns.com
 aligames.com
+alikunlun.net
 alimebot.com
 alipan.com
 alipay-eco.com
@@ -84,6 +85,7 @@ bankofbeijing.com.cn
 baomitu.com
 battlenet.com.cn
 bcebos.com
+bcelive.com
 bdgp.cc
 bdimg.com
 bdstatic.com
@@ -114,9 +116,11 @@ blibee.com
 blibee.net
 bmac.com.cn
 bookln.cn
+bscdnweb.com
 bsfit.com.cn
 bsgslb.cn
 bv2008.cn
+bvfcdn.com
 bvmlt.top
 byte-test.com
 bytecdn.com
@@ -148,6 +152,8 @@ cdn1.vip
 cdngslb.com
 cdnhwc2.com
 cdnhwc3.com
+cdnhwcjog12.com
+cdnhwczba04.com
 cdntips.net
 cfca.com.cn
 cfogc.com
@@ -157,7 +163,6 @@ chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
 chitus.com
-cibntv.net
 ciweiyunyin.com
 cjjd14.com
 cldisk.com
@@ -175,6 +180,7 @@ csdn.net
 csdnimg.cn
 css.sd
 ctdns.cn
+ctecdn.cn
 ctobsnssdk.com
 ctydoh.cn
 cup.com.cn
@@ -305,7 +311,7 @@ kaoyan365.vip
 kc2.top
 kdocs.cn
 kimi.com
-ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -336,6 +342,7 @@ miaozhen.com
 micu.hk
 mihoyo.com
 mikus.ink
+mioffice.cn
 miwifi.com
 mmstat.com
 mob.com
@@ -380,6 +387,7 @@ pstatp.com
 puata.info
 qchannel01.cn
 qcloud.com
+qcloudcdn.com
 qianwen.com
 qianxun.com
 qiezibenpao.com
@@ -396,6 +404,8 @@ qrstuvwxyzab.com
 qtaeixd.com
 quark.cn
 queniubg.com
+queniucf.com
+queniuiq.com
 queniukw.com
 queniurc.com
 queniusz.com
@@ -444,6 +454,7 @@ taopiaopiao.com
 tbcache.com
 tbcdn.cn
 tctjzs.cn
+tdnslive1.cn
 tdnsstic1.cn
 tdnsv5.com
 tdnsv6.com
@@ -533,6 +544,8 @@ yangshipin.cn
 ydycdn.com
 yebinnet.com
 yijielinli.com.cn
+yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 yksdks.com
@@ -548,6 +561,7 @@ zhihu.com
 zhimg.com
 zhizhuma.com
 zhuanzfx.com
+zhuanzhuan.com
 zijieapi.com
 zimgs.cn
 zjcdn.com

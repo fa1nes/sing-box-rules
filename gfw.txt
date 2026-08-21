@@ -1,4 +1,4 @@
-# generated-at: 1787288884
+# generated-at: 1787311535
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -18,12 +18,14 @@
 3lift.com
 4ksj.com
 64clouds.com
+67696769.xyz
 687511.xyz
 781108.xyz
 86gamestore.com
 89kb.com
 990599.xyz
 99brands.com
+aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 aapq.net
 acgndog.com
 adjust.com
@@ -51,6 +53,7 @@ anthropic.com
 api.aws
 apnic.net
 app-ads-services.com
+app-analytics-services-att.com
 app-analytics-services.com
 app-measurement.com
 appcenter.ms
@@ -78,9 +81,12 @@ bgp.gd
 bgp.tools
 bidswitch.net
 binance.com
+binance.info
 bing.com
 bitsflow.cloud
 bjmxy.net
+bnbstatic.com
+bntrace.com
 bootstrapcdn.com
 brandfetch.io
 braze.com
@@ -219,12 +225,14 @@ fivecdm.com
 fkli.cc
 flagcdn.com
 fontshare.com
+forter.com
 fpjs.io
 frankfurter.dev
 fraudlabspro.com
 freebsd.org
 freshchat.com
 gatewaysentry.com
+gccdn.net
 gemini.com
 ggpht.com
 giphy.com
@@ -482,9 +490,11 @@ ry.mk
 s-consumer-cloud.com
 s-ul.eu
 s3.ap-southeast-1.amazonaws.com
+saasexch.com
 sagernet.org
 sanity.io
 sardine.ai
+sb.sb
 scorecardresearch.com
 sectigo.com
 secureserver.net
@@ -504,6 +514,7 @@ shopifysvc.com
 shutterstock.com
 sing-box.app
 singular.net
+sintral.me
 skk.moe
 skype.com
 small-point.com
@@ -584,6 +595,7 @@ vk.com
 vki.im
 vnc.dog
 voipstunt.com
+volcfcdndvs1.com
 volcgtm.com
 volcvideos.com
 vox.moe
@@ -605,6 +617,7 @@ wikipedia.org
 wisekey.com
 withgoogle.com
 workspace.org
+wsdvs.com
 wsimg.com
 wsot2022.com
 wuchucloud.cn
