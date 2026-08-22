@@ -1,4 +1,4 @@
-# generated-at: 1787377859
+# generated-at: 1787399954
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -67,6 +67,7 @@ applovin.com
 appraven.net
 appsflyer.com
 appsflyersdk.com
+apptentive.com
 archive.org
 archlinux.org
 arena.ai
@@ -75,9 +76,11 @@ asinx.io
 astro.build
 axon.ai
 ayepv6.com
+ayugram.one
 b-cdn.net
 bangumi.ca
 battle.net
+bbbbbb.eu.org
 bdcgslb.com
 bgm.tv
 bgp.gd
@@ -88,6 +91,7 @@ binance.info
 bing.com
 bingapis.com
 bitsflow.cloud
+bitwarden.com
 bjmxy.net
 bnbstatic.com
 bntrace.com
@@ -141,6 +145,7 @@ claude-code-best.win
 claude.ai
 claude.com
 cline.bot
+cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
 cloudflare.pay
@@ -191,6 +196,7 @@ digvps.com
 discord.gg
 discordapp.com
 discordapp.net
+disney.com
 disneyplus.com
 dmit.com
 dmit.io
@@ -220,6 +226,7 @@ example.com
 excathedra.co
 exchangerate-api.com
 exp-tas.com
+exteragram.app
 eyeota.net
 f1shyu.com
 facebook.com
@@ -241,6 +248,7 @@ forter.com
 fpjs.io
 frankfurter.dev
 fraudlabspro.com
+free-vps.org
 freebsd.org
 freshchat.com
 gatewaysentry.com
@@ -260,6 +268,7 @@ githubusercontent.com
 gitlab.com
 globalsign.com
 gnu.org
+go.com
 godaddy.com
 gomami.io
 google-analytics.com
@@ -272,6 +281,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
+googlezip.net
 gosquared.com
 gravatar.com
 grok.com
@@ -292,6 +302,7 @@ hgemby.qzz.io
 highendnetwork.com
 hinet.net
 hizinitestet.com
+hongkongdisneyland.com
 hostbrr.com
 hostvds.com
 hotjar.com
@@ -434,6 +445,7 @@ netflix.com
 neuro-id.com
 neuroid.cloud
 nextcloud.com
+nflxext.com
 nflximg.net
 nflxso.net
 ng-dex.com
@@ -455,12 +467,16 @@ ntp.org
 nxtrace.org
 oaistatic.com
 office.com
+office.net
 office365.com
 ogmua.cn
 okx.com
 one.one
 onedrive.com
 onedriveclucprodbn20025.blob.core.windows.net
+onedriveclucprodbn20027.blob.core.windows.net
+onedriveclucprodbn20029.blob.core.windows.net
+onedriveclucproddm20006.blob.core.windows.net
 onetrust.com
 onetrust.io
 online-metrix.net
@@ -517,6 +533,7 @@ rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 rtcxyz.com
 rubiconproject.com
 rudderlabs.com
+runaway.rip
 rust-lang.org
 ry.mk
 s-consumer-cloud.com
@@ -539,6 +556,7 @@ sentry.io
 servedby-buysellads.com
 serverspace.us
 servitro.com
+sfx.ms
 sharepoint.com
 shazam.com
 shields.io
@@ -567,6 +585,7 @@ ssl.com
 stackoverflow.com
 starchart.cc
 statuspage.io
+steamstatic.com
 steffann.nl
 strapiapp.com
 stripe-camo.global.ssl.fastly.net
@@ -574,6 +593,7 @@ stripe.com
 stripe.network
 stripecdn.com
 stunprotocol.org
+sub.store
 substackcdn.com
 surfsharkdns.com
 surge-activation.com
@@ -605,6 +625,7 @@ trustarc.com
 tunnelbroker.net
 turktelekom.com.tr
 tvtcable.com
+twdc.com
 twilio.com
 twimg.com
 twitter.com
@@ -629,6 +650,7 @@ v2ex.pro
 vanillicon.com
 vector.co
 vegslb.com
+vercel.app
 visa.com
 visualstudio.com
 visualwebsiteoptimizer.com
@@ -648,6 +670,7 @@ wanteasy.com.tw
 warpstorm.space
 wawo.wiki
 wdfl.co
+wdpromedia.com
 website-files.com
 weglot.com
 whitechun.xyz

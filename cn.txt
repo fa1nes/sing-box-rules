@@ -1,4 +1,4 @@
-# generated-at: 1787377859
+# generated-at: 1787399954
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -72,7 +72,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 autonavi.com
 b23.tv
@@ -159,6 +158,8 @@ cfca.com.cn
 cfogc.com
 changyanedu.cn
 chaoxing.com
+chelaile.net.cn
+chelaileapp.cn
 chengzijianzhan.com
 chinaunicom.cn
 chinaz.com
@@ -176,6 +177,7 @@ cnzz.com
 colorfulclouds.net
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -319,6 +321,7 @@ kc2.top
 kdocs.cn
 kimi.com
 ks-cdn.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -342,7 +345,9 @@ luckincoffeecdn.com
 maimemo.com
 maimemostatus.com
 make-w0rld-static.club
+maoyan.com
 max-c.com
+maxjia.com
 maxkb.cn
 meishesdk.com
 meituan.com
@@ -389,6 +394,7 @@ pglstatp-toutiao.com
 picui.cn
 pinduoduo.com
 pipi.cn
+pixpin.cn
 pkoplink.com
 plaso.cn
 plaso.com
@@ -457,12 +463,14 @@ sohu.com
 solseed.cn
 sov2ex.com
 staticfile.org
+szmedior.com
 talkingdata.com
 tanx.com
 taobao.com
 taopiaopiao.com
 tbcache.com
 tbcdn.cn
+tcdnlive.com
 tcdnos.com
 tctjzs.cn
 tdnslive1.cn
@@ -554,7 +562,10 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
+yg84.com
 yijielinli.com.cn
+yingt.fun
 yirujs.com
 yisou.com
 yksdks.com
