@@ -1,4 +1,4 @@
-# generated-at: 1787399954
+# generated-at: 1787421560
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -10,6 +10,7 @@
 187187.xyz
 196000.xyz
 1e100cdn.net
+1password.com
 22112211.xyz
 2ch0p.com
 333375.xyz
@@ -163,6 +164,7 @@ coc.li
 cock.li
 cococ.eu.org
 coinbase.com
+comodoca.com
 company-target.com
 compute-pipe.com
 contabo.net
@@ -203,6 +205,7 @@ dmit.io
 dmit.sh
 dmm.co.jp
 dns.google
+dns.sb
 dnse3.com
 dnse5.com
 dolonx.cn
@@ -275,6 +278,7 @@ google-analytics.com
 google.cn
 google.com
 google.com.hk
+google.ru
 googleadservices.com
 googleapis.com
 googlesyndication.com
@@ -284,6 +288,7 @@ googleusercontent.com
 googlezip.net
 gosquared.com
 gravatar.com
+greasyfork.org
 grok.com
 grouphelp.me
 gstatic.cn
@@ -348,6 +353,7 @@ intercom.io
 intercomassets.com
 intercomcdn.com
 internet-measurement.com
+internetdownloadmanager.com
 ip-api.com
 ip.sb
 ipify.org
@@ -476,7 +482,10 @@ onedrive.com
 onedriveclucprodbn20025.blob.core.windows.net
 onedriveclucprodbn20027.blob.core.windows.net
 onedriveclucprodbn20029.blob.core.windows.net
+onedriveclucprodbn20044.blob.core.windows.net
+onedriveclucproddm20001.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
+onedriveclucproddm20037.blob.core.windows.net
 onetrust.com
 onetrust.io
 online-metrix.net
@@ -485,6 +494,8 @@ ooklaserver.net
 openai.com
 openbsd.org
 openstreetmap.org
+oraios-software.de
+osdknw.com
 outbrain.com
 paypal.com
 paypalobjects.com
@@ -502,6 +513,7 @@ postimg.cc
 prezly.com
 protechts.net
 px-cloud.net
+pypi.org
 qtlcdn.com
 quad9.net
 qualcomm.cn
@@ -520,6 +532,7 @@ redhat.com
 redhatstatic.com
 redotpay.com
 redotpay.net
+registeridm.com
 remerge.io
 revenuecat.com
 rfchost.com
@@ -584,6 +597,7 @@ ss2.us
 ssl.com
 stackoverflow.com
 starchart.cc
+static.microsoft
 statuspage.io
 steamstatic.com
 steffann.nl
@@ -665,6 +679,7 @@ vox.moe
 vps.hosting
 vpshostingservice.co
 vscode-cdn.net
+vscode-unpkg.net
 vungle.com
 wanteasy.com.tw
 warpstorm.space
@@ -699,6 +714,7 @@ xteko.com
 xtom.chat
 xtom.com
 xwyue.com
+xycdn.com
 xykt.de
 yandex.net
 yandex.ru
