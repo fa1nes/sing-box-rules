@@ -1,4 +1,4 @@
-# generated-at: 1787355385
+# generated-at: 1787377859
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -23,10 +23,12 @@
 781108.xyz
 86gamestore.com
 89kb.com
+8n1.org
 990599.xyz
 99brands.com
 aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 aapq.net
+aarnet.net.au
 acgndog.com
 adjust.com
 adobedtm.com
@@ -72,6 +74,7 @@ arin.net
 asinx.io
 astro.build
 axon.ai
+ayepv6.com
 b-cdn.net
 bangumi.ca
 battle.net
@@ -83,6 +86,7 @@ bidswitch.net
 binance.com
 binance.info
 bing.com
+bingapis.com
 bitsflow.cloud
 bjmxy.net
 bnbstatic.com
@@ -123,6 +127,7 @@ catserver.ca
 cdn-api-weglot.com
 cdnboostcache.com
 cdnbuild.net
+cdnetworks.net
 cdninstagram.com
 cellrebel.com
 cfapi.net
@@ -130,6 +135,7 @@ chatgpt.com
 chatlingual.s3.amazonaws.com
 check.place
 chinesean.com
+cidercounty.org.uk
 clarity.ms
 claude-code-best.win
 claude.ai
@@ -148,11 +154,13 @@ clouvider.co.uk
 clouvider.com
 cncdn.cc
 cnima.de
+coc.li
 cock.li
 cococ.eu.org
 coinbase.com
 company-target.com
 compute-pipe.com
+contabo.net
 cookielaw.org
 coveo.com
 cpmmm.com
@@ -178,6 +186,7 @@ devin.ai
 dicebear.com
 digicert.cn
 digicert.com
+digimobil.es
 digvps.com
 discord.gg
 discordapp.com
@@ -206,8 +215,11 @@ eightcha.com
 embymv.link
 er-api.com
 esm.sh
+eurobilltracker.com
 example.com
+excathedra.co
 exchangerate-api.com
+exp-tas.com
 eyeota.net
 f1shyu.com
 facebook.com
@@ -328,13 +340,16 @@ internet-measurement.com
 ip-api.com
 ip.sb
 ipify.org
-iplark.com
 ipleak.net
+ipv4only.arpa
+ipv6.br
 ipwho.is
 isif.net
+isiline.it
 iubenda.com
 jable.tv
 jads.co
+jamieweb.net
 javbus.com
 javbus22.com
 javchu.com
@@ -342,6 +357,7 @@ javdb.com
 jivosite.com
 jkforum.net
 joinhoney.com
+joram.it
 jsdelivr.net
 jspm.io
 kali.download
@@ -358,6 +374,8 @@ kuaichedao.xyz
 lacnic.net
 ldstatic.com
 lencr.org
+lenovo.com
+lenovo.com.cn
 lfeeder.com
 licdn.cn
 licdn.com
@@ -365,6 +383,7 @@ link.com
 linkedin.com
 lion123.eu.org
 live.com
+live.net
 livechatinc.com
 loli.f5.si
 loli.net
@@ -383,6 +402,7 @@ metorik.com
 microsoft.com
 microsoftapp.net
 microsoftonline.com
+microsoftpersonalcontent.com
 mij.rip
 miji.bid
 misaka.one
@@ -399,11 +419,17 @@ moloco.com
 mozilla.com
 mozilla1.com
 mrhost.biz
+msftconnecttest.com
+msftncsi.com
+msn.cn
 msn.com
+mudgee.host
 mullvad.net
 namecrane.com
 nasa.gov
+nelreports.net
 net.coffee
+netflash.com.cy
 netflix.com
 neuro-id.com
 neuroid.cloud
@@ -424,6 +450,7 @@ notion.so
 npmjs.org
 ns1p-aws-backed.global.ssl.fastly.net
 ns1pcdn.net
+nsx.de
 ntp.org
 nxtrace.org
 oaistatic.com
@@ -432,6 +459,8 @@ office365.com
 ogmua.cn
 okx.com
 one.one
+onedrive.com
+onedriveclucprodbn20025.blob.core.windows.net
 onetrust.com
 onetrust.io
 online-metrix.net
@@ -448,7 +477,9 @@ perfprod.com
 perplexity.ai
 pexels.com
 pippio.com
+pki.goog
 plenest.com
+plusnet.com.tr
 po0.com
 pokeapi.co
 postimg.cc
@@ -493,6 +524,7 @@ s-ul.eu
 s3.ap-southeast-1.amazonaws.com
 saasexch.com
 sagernet.org
+salesianimestre.it
 sanity.io
 sardine.ai
 sb.sb
@@ -507,6 +539,7 @@ sentry.io
 servedby-buysellads.com
 serverspace.us
 servitro.com
+sharepoint.com
 shazam.com
 shields.io
 shopify.com
@@ -530,9 +563,11 @@ speedtest.net
 split.io
 split.map.fastly.net
 ss2.us
+ssl.com
 stackoverflow.com
 starchart.cc
 statuspage.io
+steffann.nl
 strapiapp.com
 stripe-camo.global.ssl.fastly.net
 stripe.com
@@ -554,6 +589,7 @@ telesco.pe
 tenor.com
 termius-session-logs.s3.amazonaws.com
 termius.com
+test-ipv6.com
 tgyes.com
 tiktokcdn.com
 tiktokpangle-b.us
@@ -566,7 +602,9 @@ tlfhost.com
 tolis.eu.org
 triple.app
 trustarc.com
+tunnelbroker.net
 turktelekom.com.tr
+tvtcable.com
 twilio.com
 twimg.com
 twitter.com
@@ -581,6 +619,7 @@ usefathom.com
 usemessages.com
 usertrust.com
 userway.org
+utoronto.ca
 uxcam.com
 v-cdn.net
 v.ps
@@ -591,6 +630,7 @@ vanillicon.com
 vector.co
 vegslb.com
 visa.com
+visualstudio.com
 visualwebsiteoptimizer.com
 vk.com
 vki.im
@@ -602,6 +642,7 @@ volcvideos.com
 vox.moe
 vps.hosting
 vpshostingservice.co
+vscode-cdn.net
 vungle.com
 wanteasy.com.tw
 warpstorm.space
@@ -615,6 +656,8 @@ whois.com
 why3s.com.tw
 wikimedia.org
 wikipedia.org
+windows.com
+windowsupdate.com
 wisekey.com
 withgoogle.com
 workspace.org
