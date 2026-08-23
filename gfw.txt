@@ -1,4 +1,4 @@
-# generated-at: 1787505309
+# generated-at: 1787527244
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -40,8 +40,10 @@ adsmoloco.com
 adsrvr.org
 adtidy.org
 adtrafficquality.google
+agilebits.com
 agora.io
 airwallex.com
+aka.ms
 akamai.com
 akamaized.net
 akkocloud.com
@@ -83,6 +85,7 @@ awsstatic.com
 axon.ai
 ayepv6.com
 ayugram.one
+azure.net
 azureedge.net
 b-cdn.net
 b3log.org
@@ -93,6 +96,7 @@ bdcgslb.com
 bgm.tv
 bgp.gd
 bgp.tools
+bgptools-agent-cf.com
 bidswitch.net
 binance.com
 binance.info
@@ -134,6 +138,7 @@ byspotify.com
 bytefcdn.com
 bytegslb.com
 caneis.com.tw
+canoe.im
 capjs.net
 carryz.net
 catpanel.net
@@ -317,6 +322,7 @@ grouphelp.me
 gstatic.cn
 gstatic.com
 gvt1.com
+gvt2.com
 hanime1.com
 hanime1.me
 hanimeone.me
@@ -528,12 +534,15 @@ one.one
 onedrive.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
+onedriveclucprodbn20009.blob.core.windows.net
+onedriveclucprodbn20017.blob.core.windows.net
 onedriveclucprodbn20018.blob.core.windows.net
 onedriveclucprodbn20025.blob.core.windows.net
 onedriveclucprodbn20027.blob.core.windows.net
 onedriveclucprodbn20028.blob.core.windows.net
 onedriveclucprodbn20029.blob.core.windows.net
 onedriveclucprodbn20037.blob.core.windows.net
+onedriveclucprodbn20039.blob.core.windows.net
 onedriveclucprodbn20044.blob.core.windows.net
 onedriveclucprodbn20045.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
@@ -544,6 +553,7 @@ onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
 onedriveclucproddm20042.blob.core.windows.net
+onedriveclucproddm20045.blob.core.windows.net
 onelink.me
 onetrust.com
 onetrust.io
@@ -736,6 +746,7 @@ twimg.com
 twitter.com
 typekit.net
 typicode.com
+u.sb
 unifyintent.com
 unisvg.com
 unpkg.com
@@ -753,6 +764,7 @@ v.ps
 v2ex.co
 v2ex.com
 v2ex.pro
+v2ray.com
 vanillicon.com
 vector.co
 vegslb.com
@@ -770,6 +782,8 @@ volcvideos.com
 vox.moe
 vps.hosting
 vpshostingservice.co
+vsblobprodscussu5shard37.blob.core.windows.net
+vsblobprodscussu5shard82.blob.core.windows.net
 vscode-cdn.net
 vscode-unpkg.net
 vungle.com

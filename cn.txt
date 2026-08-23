@@ -1,4 +1,4 @@
-# generated-at: 1787505309
+# generated-at: 1787527244
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -383,6 +383,7 @@ kdocs.cn
 kimi.com
 ks-cdn.com
 ksapisrv.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -452,6 +453,7 @@ nosec.org
 npmmirror.com
 nuomi.com
 oceanengine.com
+officeplus.cn
 onethingpcs.com
 onewsvod.com
 opdwz.cn
@@ -676,13 +678,12 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
-yebinnet.com
 yg84.com
 yhgfb-cn-static.com
 yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
-yingt.fun
+yingt.asia
 yirujs.com
 yisou.com
 yiyouliao.com
