@@ -1,4 +1,4 @@
-# generated-at: 1787461606
+# generated-at: 1787483239
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -53,6 +53,7 @@ amazontrust.com
 amd.com
 ampproject.org
 anthropic.com
+apdcdn.com
 api.aws
 apnic.net
 app-ads-services.com
@@ -80,6 +81,7 @@ ayepv6.com
 ayugram.one
 azureedge.net
 b-cdn.net
+b3log.org
 bangumi.ca
 battle.net
 bbbbbb.eu.org
@@ -127,6 +129,7 @@ byspotify.com
 bytefcdn.com
 bytegslb.com
 caneis.com.tw
+capjs.net
 carryz.net
 catpanel.net
 catserver.ca
@@ -154,6 +157,7 @@ cloudflare.pay
 cloudflareinsights.com
 cloudflaremirrors.com
 cloudflareperf.com
+cloudflarestorage.com
 cloudfront.net
 cloudinary.com
 cloudns.org
@@ -184,6 +188,7 @@ customer.io
 cxkikun.com
 dahhxxttxs.com
 danmuji.org
+datarecoverymoscow.ru
 datatables.net
 datawave.sh
 debian.org
@@ -270,6 +275,7 @@ githubcopilot.com
 githubstatus.com
 githubusercontent.com
 gitlab.com
+globalping.io
 globalsign.com
 gnu.org
 go.com
@@ -286,6 +292,7 @@ googlesyndication.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
+googlevideo.com
 googlezip.net
 gosquared.com
 gravatar.com
@@ -400,10 +407,12 @@ licdn.cn
 licdn.com
 link.com
 linkedin.com
+linux.do
 lion123.eu.org
 live.com
 live.net
 livechatinc.com
+lkjhgbc.com
 loli.f5.si
 loli.net
 loocc.com
@@ -447,6 +456,7 @@ mullvad.net
 namebig.io
 namecrane.com
 nasa.gov
+natchecker.com
 nelreports.net
 net.coffee
 netflash.com.cy
@@ -493,6 +503,9 @@ onedriveclucprodbn20044.blob.core.windows.net
 onedriveclucprodbn20045.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
+onedriveclucproddm20008.blob.core.windows.net
+onedriveclucproddm20016.blob.core.windows.net
+onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
 onetrust.com
 onetrust.io
@@ -501,8 +514,10 @@ onvanilla.net
 ooklaserver.net
 openai.com
 openbsd.org
+openfreemap.org
 openstreetmap.org
 oraios-software.de
+orangevps.com
 osdknw.com
 outbrain.com
 paypal.com
@@ -511,6 +526,7 @@ performaized.com
 perfprod.com
 perplexity.ai
 pexels.com
+ping.pe
 pippio.com
 pki.goog
 plenest.com
@@ -560,6 +576,7 @@ ry.mk
 s-consumer-cloud.com
 s-ul.eu
 s3.ap-southeast-1.amazonaws.com
+sa.net
 saasexch.com
 sagernet.org
 salesianimestre.it
@@ -570,6 +587,7 @@ scorecardresearch.com
 sectigo.com
 secureserver.net
 securitytools.net
+seecdn.net
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
@@ -634,6 +652,7 @@ termius-session-logs.s3.amazonaws.com
 termius.com
 test-ipv6.com
 tgyes.com
+theinspiredgroup.com
 tiktokcdn.com
 tiktokpangle-b.us
 tiktokpangle-cdn-us.com
@@ -697,6 +716,7 @@ wdfl.co
 wdpromedia.com
 website-files.com
 weglot.com
+whatismyip.com.tw
 whitechun.xyz
 who.is
 whois.com

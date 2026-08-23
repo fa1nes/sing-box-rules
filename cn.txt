@@ -1,4 +1,4 @@
-# generated-at: 1787461606
+# generated-at: 1787483239
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -76,8 +76,10 @@ apple.com.cn
 apptaxi.net
 askdiandian.com
 autonavi.com
+ax1x.com
 azure.cn
 b23.tv
+b3logfile.com
 baidu.com
 baidupcs.com
 baijiayun.com
