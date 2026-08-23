@@ -1,4 +1,4 @@
-# generated-at: 1787483239
+# generated-at: 1787505309
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -30,7 +30,9 @@
 aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
 aapq.net
 aarnet.net.au
+account.us-east-1.amazonaws.com
 acgndog.com
+acm.us-east-1.amazonaws.com
 adjust.com
 adobedtm.com
 adroll.com
@@ -55,6 +57,7 @@ ampproject.org
 anthropic.com
 apdcdn.com
 api.aws
+apigateway.us-east-1.amazonaws.com
 apnic.net
 app-ads-services.com
 app-analytics-services-att.com
@@ -76,6 +79,7 @@ arena.ai
 arin.net
 asinx.io
 astro.build
+awsstatic.com
 axon.ai
 ayepv6.com
 ayugram.one
@@ -114,6 +118,7 @@ bugsnag.com
 bugutv.org
 buysellads.com
 buysellads.net
+bwgss.org
 bwh81.net
 bwhstats.com
 byabcd.com
@@ -138,6 +143,7 @@ cdnboostcache.com
 cdnbuild.net
 cdnetworks.net
 cdninstagram.com
+ce.us-east-1.amazonaws.com
 cellrebel.com
 cfapi.net
 chatgpt.com
@@ -146,6 +152,8 @@ check.place
 chinesean.com
 cidercounty.org.uk
 clarity.ms
+clashnew.com
+clashofclans.com
 claude-code-best.win
 claude.ai
 claude.com
@@ -174,6 +182,7 @@ company-target.com
 compute-pipe.com
 contabo.net
 cookielaw.org
+cost-optimization-hub.us-east-1.amazonaws.com
 coveo.com
 cpmmm.com
 cr-relay.com
@@ -222,11 +231,14 @@ downdetectorapi.com
 dpdns.org
 drand.sh
 duyaoss.com
+dynamodb.us-east-1.amazonaws.com
 e-hentai.org
 easytomessage.com
+ec2.us-east-1.amazonaws.com
 ecombdpage.com
 eidoso.com
 eightcha.com
+elasticloadbalancing.us-east-1.amazonaws.com
 embymv.link
 er-api.com
 esm.sh
@@ -249,6 +261,7 @@ fc-use1-00-pics-bkt-00.s3.amazonaws.com
 feria.eu.org
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
+findladders.com
 fivecdm.com
 fkli.cc
 flagcdn.com
@@ -263,6 +276,7 @@ freshchat.com
 gatewaysentry.com
 gccdn.net
 gemini.com
+getsingbox.com
 ggpht.com
 giphy.com
 github-cloud.s3.amazonaws.com
@@ -287,6 +301,7 @@ google.com
 google.com.hk
 google.ru
 googleadservices.com
+googleapis.cn
 googleapis.com
 googlesyndication.com
 googletagmanager.com
@@ -301,6 +316,7 @@ grok.com
 grouphelp.me
 gstatic.cn
 gstatic.com
+gvt1.com
 hanime1.com
 hanime1.me
 hanimeone.me
@@ -309,8 +325,11 @@ hcaptcha.com
 hdhive.org
 hdker.com
 he.net
+health.us-east-1.amazonaws.com
 hedbor.org
 heisi.org
+heytapimg.com
+heytapmobile.com
 hgemby.qzz.io
 highendnetwork.com
 hinet.net
@@ -335,6 +354,7 @@ i-meto.com
 iaclouds.com
 ibb.co
 ibsgss.uk
+ibyteimg.com
 icanhazip.com
 iconify.design
 idcflare.com
@@ -350,6 +370,7 @@ imgflip.com
 imgur.com
 immersivetranslate.cn
 immersivetranslate.com
+immortalwrt.org
 indream.app
 informaten.com
 inmobi.com
@@ -372,6 +393,7 @@ ipv6.br
 ipwho.is
 isif.net
 isiline.it
+isnssdk.com
 iubenda.com
 jable.tv
 jads.co
@@ -385,6 +407,7 @@ jkforum.net
 joinhoney.com
 joram.it
 jsdelivr.net
+jsonsilo.com
 jspm.io
 kali.download
 kapa.ai
@@ -397,6 +420,7 @@ keyplay.io
 klaviyo.com
 komari.vip
 kuaichedao.xyz
+kwai.com
 lacnic.net
 ldstatic.com
 lencr.org
@@ -405,6 +429,7 @@ lenovo.com.cn
 lfeeder.com
 licdn.cn
 licdn.com
+lightsail.us-east-1.amazonaws.com
 link.com
 linkedin.com
 linux.do
@@ -413,6 +438,7 @@ live.com
 live.net
 livechatinc.com
 lkjhgbc.com
+logs.us-east-1.amazonaws.com
 loli.f5.si
 loli.net
 loocc.com
@@ -422,6 +448,10 @@ manlaxycloud.com
 mapbox.com
 marketo.net
 media-amazon.com
+mediapackage.us-east-1.amazonaws.com
+mediapackagev2.us-east-1.amazonaws.com
+mediastore.us-east-1.amazonaws.com
+mediatek.com
 medium.com
 meowimg.com
 meta.com
@@ -431,6 +461,7 @@ microsoft.com
 microsoftapp.net
 microsoftonline.com
 microsoftpersonalcontent.com
+mihomoclash.com
 mij.rip
 miji.bid
 misaka.one
@@ -444,6 +475,7 @@ mktoresp.com
 mktoutil.com
 ml314.com
 moloco.com
+monitoring.us-east-1.amazonaws.com
 mozilla.com
 mozilla1.com
 mrhost.biz
@@ -468,6 +500,7 @@ nflxext.com
 nflximg.net
 nflxso.net
 ng-dex.com
+nodecats.com
 nodeget.li
 nodeget.vip
 nodeimage.com
@@ -477,6 +510,7 @@ nodeseek.com
 nolimitcloud.eu
 nolimithost.cc
 nosla.cloud
+notifications.us-east-1.amazonaws.com
 notion.so
 npmjs.org
 ns1p-aws-backed.global.ssl.fastly.net
@@ -494,6 +528,7 @@ one.one
 onedrive.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
+onedriveclucprodbn20018.blob.core.windows.net
 onedriveclucprodbn20025.blob.core.windows.net
 onedriveclucprodbn20027.blob.core.windows.net
 onedriveclucprodbn20028.blob.core.windows.net
@@ -506,7 +541,10 @@ onedriveclucproddm20006.blob.core.windows.net
 onedriveclucproddm20008.blob.core.windows.net
 onedriveclucproddm20016.blob.core.windows.net
 onedriveclucproddm20027.blob.core.windows.net
+onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
+onedriveclucproddm20042.blob.core.windows.net
+onelink.me
 onetrust.com
 onetrust.io
 online-metrix.net
@@ -528,6 +566,7 @@ perplexity.ai
 pexels.com
 ping.pe
 pippio.com
+pitaya-clientai.com
 pki.goog
 plenest.com
 plusnet.com.tr
@@ -549,7 +588,9 @@ rapidssl.com
 rc-backup.com
 recaptcha.net
 red-3t5nvttg.com
+redd.it
 reddit.com
+redditmedia.com
 redditstatic.com
 redeemgpt.com
 redhat.com
@@ -565,6 +606,7 @@ riotgames.com
 ripe.net
 rlcdn.com
 romanrm.net
+route53domains.us-east-1.amazonaws.com
 router-for.me
 rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 rtcxyz.com
@@ -576,10 +618,12 @@ ry.mk
 s-consumer-cloud.com
 s-ul.eu
 s3.ap-southeast-1.amazonaws.com
+s3.us-east-1.amazonaws.com
 sa.net
 saasexch.com
 sagernet.org
 salesianimestre.it
+sandai.net
 sanity.io
 sardine.ai
 sb.sb
@@ -598,11 +642,15 @@ servitro.com
 sfx.ms
 sharepoint.com
 shazam.com
+shield.us-east-1.amazonaws.com
 shields.io
+shlshfm.com
 shopify.com
 shopifycdn.com
 shopifysvc.com
+shortdramaop.com
 shutterstock.com
+signin.aws
 sing-box.app
 singular.net
 sintral.me
@@ -613,6 +661,7 @@ smartlook.cloud
 smogflycloud.com
 smokyhosts.com
 smooch.io
+snapkit.com
 solidvps.com
 songxwn.com
 sora.com
@@ -623,6 +672,7 @@ ss2.us
 ssl.com
 stackoverflow.com
 starchart.cc
+stardock.net
 static.microsoft
 statuspage.io
 steamstatic.com
@@ -633,10 +683,13 @@ stripe.com
 stripe.network
 stripecdn.com
 stunprotocol.org
+stvidtest.net
 sub.store
 substackcdn.com
+supercell.com
 surfsharkdns.com
 surge-activation.com
+t.co
 t.me
 tailscale.com
 tailwindcss.com
@@ -653,10 +706,19 @@ termius.com
 test-ipv6.com
 tgyes.com
 theinspiredgroup.com
+tiktok-minis.com
+tiktok-row.net
+tiktok.com
+tiktokcdn-eu.com
+tiktokcdn-us.com
 tiktokcdn.com
+tiktokglobalshopv.com
 tiktokpangle-b.us
 tiktokpangle-cdn-us.com
 tiktokpangle.us
+tiktokv.com
+tiktokv.us
+tiktokw.us
 timon-s3-storage-public.s3.eu-central-1.amazonaws.com
 timon.cards
 tiwubh.com
@@ -664,6 +726,7 @@ tlfhost.com
 tolis.eu.org
 triple.app
 trustarc.com
+ttwstatic.com
 tunnelbroker.net
 turktelekom.com.tr
 tvtcable.com
@@ -680,6 +743,7 @@ upload.cc
 us-central1.run.app
 usefathom.com
 usemessages.com
+usercentrics.eu
 usertrust.com
 userway.org
 utoronto.ca
@@ -709,14 +773,17 @@ vpshostingservice.co
 vscode-cdn.net
 vscode-unpkg.net
 vungle.com
+wafv2.us-east-1.amazonaws.com
 wanteasy.com.tw
 warpstorm.space
 wawo.wiki
+wbd.ms
 wdfl.co
 wdpromedia.com
 website-files.com
 weglot.com
 whatismyip.com.tw
+whiteboard.ms
 whitechun.xyz
 who.is
 whois.com
@@ -739,9 +806,11 @@ x.com
 x3puair.de
 xjj.sh
 xmsl.org
+xn--ngstr-lra8j.com
 xteko.com
 xtom.chat
 xtom.com
+xunlei.com
 xwyue.com
 xycdn.com
 xykt.de
