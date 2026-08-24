@@ -1,4 +1,4 @@
-# generated-at: 1787549378
+# generated-at: 1787571499
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -80,6 +80,7 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
+apptaxi.net
 askdiandian.com
 autonavi.com
 avlyun.com
@@ -254,6 +255,7 @@ douyinvod.com
 douyucdn.cn
 dpfile.com
 dpm.org.cn
+duoweisoft.com
 dusays.com
 dutils.com
 easemob.com
@@ -293,6 +295,7 @@ gepush.com
 getui.cn
 getui.com
 getui.net
+ggyx666.com
 gifshow.com
 go2yd.com
 goofish.com
@@ -302,6 +305,7 @@ gtimg.cn
 gtimg.com
 guangdongyunchen.com
 gz-tencentclb.com
+hanbaocheng.cn
 hc-cdn.cn
 hc-cdn.com
 hdslb.com
@@ -316,6 +320,7 @@ hicaspian.com
 hicloud.com
 hitokoto.cn
 hitv.com
+hnftcdn2.cn
 hnkzy.com
 holiland.com
 hostbuf.com
@@ -328,6 +333,7 @@ hubcloud.com.cn
 huoshanimg.com
 hzshudian.com
 hzyoka.com
+i4.cn
 ibruce.info
 ibytedapm.com
 icloud-content.com.cn
@@ -343,7 +349,6 @@ ilife798.com
 imdada.cn
 imgdd.cc
 imgs.ovh
-imtmp.net
 infi.cn
 inkuai.com
 ip.cn
@@ -359,6 +364,7 @@ ishangtong.com
 itc.cn
 itdog.cn
 ithome.com
+jcloud-cdn.com
 jd.com
 jdcloud-oss.com
 jdpay.com
@@ -377,11 +383,13 @@ k-dyn.com
 kaco.cc
 kaixinkan.com.cn
 kaoyan365.vip
+kaoyanvip.cn
 kc2.top
 kdocs.cn
 kimi.com
 ks-cdn.com
 ksapisrv.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -414,6 +422,7 @@ maoyan.com
 max-c.com
 maxjia.com
 maxkb.cn
+mcd.cn
 meishesdk.com
 meituan.com
 meituan.net
@@ -562,6 +571,7 @@ staticfile.org
 szmedior.com
 talkingdata.com
 tanx.com
+tao.co
 taobao.com
 taopiaopiao.com
 tbcache.com
@@ -677,7 +687,6 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
-yebinnet.com
 yg84.com
 yhgfb-cn-static.com
 yidianzixun.com
@@ -710,5 +719,6 @@ zijieapi.com
 zimgs.cn
 zjcdn.com
 zstatic.net
+zui.com
 zxart.cn
 zztfly.com

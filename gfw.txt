@@ -1,4 +1,4 @@
-# generated-at: 1787549378
+# generated-at: 1787571499
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -47,6 +47,7 @@ aka.ms
 akamai.com
 akamaized.net
 akkocloud.com
+algolia.net
 alien666.de5.net
 alikunlun.com
 aliyun-inc.com
@@ -81,6 +82,7 @@ arena.ai
 arin.net
 asinx.io
 astro.build
+atl-paas.net
 awsstatic.com
 axon.ai
 ayepv6.com
@@ -95,7 +97,6 @@ bbbbbb.eu.org
 bdcgslb.com
 bgm.tv
 bgp.gd
-bgp.tools
 bgptools-agent-cf.com
 bidswitch.net
 binance.com
@@ -195,6 +196,8 @@ craft.do
 craft.me
 crashlytics.com
 crisp.chat
+criteo.com
+criteo.net
 crunchyroll.com
 ctfassets.net
 culturedcode.com
@@ -296,6 +299,7 @@ githubusercontent.com
 gitlab.com
 globalping.io
 globalsign.com
+globalsign.net
 gnu.org
 go.com
 godaddy.com
@@ -392,6 +396,7 @@ internetdownloadmanager.com
 ip-api.com
 ip.sb
 ipify.org
+ipinfo.io
 iplark.com
 ipleak.net
 ipv4only.arpa
@@ -412,6 +417,7 @@ jivosite.com
 jkforum.net
 joinhoney.com
 joram.it
+jsdelivr.com
 jsdelivr.net
 jsonsilo.com
 jspm.io
@@ -502,6 +508,7 @@ netflix.com
 neuro-id.com
 neuroid.cloud
 nextcloud.com
+nezha.wiki
 nflxext.com
 nflximg.net
 nflxso.net
@@ -513,6 +520,7 @@ nodeimage.com
 nodejs.org
 nodequality.com
 nodeseek.com
+nodeseek.org
 nolimitcloud.eu
 nolimithost.cc
 nosla.cloud
@@ -537,6 +545,7 @@ onedriveclucprodbn20004.blob.core.windows.net
 onedriveclucprodbn20009.blob.core.windows.net
 onedriveclucprodbn20017.blob.core.windows.net
 onedriveclucprodbn20018.blob.core.windows.net
+onedriveclucprodbn20021.blob.core.windows.net
 onedriveclucprodbn20025.blob.core.windows.net
 onedriveclucprodbn20027.blob.core.windows.net
 onedriveclucprodbn20028.blob.core.windows.net
@@ -609,6 +618,7 @@ redotpay.com
 redotpay.net
 registeridm.com
 remerge.io
+repology.org
 revenuecat.com
 rfchost.com
 rfchost.net
@@ -626,6 +636,7 @@ runaway.rip
 rust-lang.org
 ry.mk
 s-consumer-cloud.com
+s-microsoft.com
 s-ul.eu
 s3.ap-southeast-1.amazonaws.com
 s3.us-east-1.amazonaws.com
@@ -683,6 +694,7 @@ ssl.com
 stackoverflow.com
 starchart.cc
 stardock.net
+startisback.com
 static.microsoft
 statuspage.io
 steamstatic.com
@@ -699,6 +711,8 @@ substackcdn.com
 supercell.com
 surfsharkdns.com
 surge-activation.com
+symcb.com
+symcd.com
 t.co
 t.me
 tailscale.com
@@ -769,6 +783,7 @@ vanillicon.com
 vector.co
 vegslb.com
 vercel.app
+verisign.com
 visa.com
 visualstudio.com
 visualwebsiteoptimizer.com
@@ -782,6 +797,7 @@ volcvideos.com
 vox.moe
 vps.hosting
 vpshostingservice.co
+vsassets.io
 vsblobprodscussu5shard37.blob.core.windows.net
 vsblobprodscussu5shard82.blob.core.windows.net
 vscode-cdn.net
@@ -839,4 +855,5 @@ zendesk.com
 zeroclover.io
 zhexin.org
 zhz.moe
+zjnu.eu.org
 zouter.io
