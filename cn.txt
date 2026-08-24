@@ -1,4 +1,4 @@
-# generated-at: 1787571499
+# generated-at: 1787593912
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -53,6 +53,7 @@ alibaba-inc.com
 alibaba.com
 alibabachengdun.com
 alibabachengdun.net
+alibabacloud.com
 alibabadns.com
 alibabausercontent.com
 alicdn.com
@@ -190,12 +191,14 @@ chitus.com
 cibntv.net
 ciweiyunyin.com
 cjjd14.com
+cl2009.com
 cldisk.com
 cloudpnr.com
 cmbimg.cn
 cmbimg.com
 cmecloud.cn
 cmpassport.com
+cnklog.com
 cnspeedtest.cn
 cnzz.com
 colorfulclouds.net
@@ -347,8 +350,8 @@ iggrowth.cn
 ihuoshanlive.com
 ilife798.com
 imdada.cn
-imgdd.cc
 imgs.ovh
+imtmp.net
 infi.cn
 inkuai.com
 ip.cn
@@ -365,7 +368,9 @@ itc.cn
 itdog.cn
 ithome.com
 jcloud-cdn.com
+jcloudimg.com
 jd.com
+jdcdn.com
 jdcloud-oss.com
 jdpay.com
 jegotrip.com.cn
@@ -389,7 +394,6 @@ kdocs.cn
 kimi.com
 ks-cdn.com
 ksapisrv.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -419,6 +423,7 @@ maimemo.com
 maimemostatus.com
 make-w0rld-static.club
 maoyan.com
+marmot-cloud.com
 max-c.com
 maxjia.com
 maxkb.cn
@@ -549,6 +554,7 @@ sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
 shinet.cn
+shouqianba.com
 shujupie.com
 shuqireader.com
 shuzilm.cn
@@ -637,6 +643,7 @@ vlion.cn
 voiceads.cn
 volccdn.com
 volceapplog.com
+volcengineapi.com
 volces.com
 volcfcdndvs.com
 volcvideo.com
@@ -659,6 +666,8 @@ wjx.cn
 wjx.com
 wnluo.com
 wo.cn
+wosai.cn
+wosaimg.com
 wosms.cn
 wostore.cn
 wps.cn

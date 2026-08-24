@@ -1,4 +1,4 @@
-# generated-at: 1787571499
+# generated-at: 1787593912
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -95,8 +95,10 @@ bangumi.ca
 battle.net
 bbbbbb.eu.org
 bdcgslb.com
+bestvm.cloud
 bgm.tv
 bgp.gd
+bgp.tools
 bgptools-agent-cf.com
 bidswitch.net
 binance.com
@@ -187,6 +189,7 @@ comodoca.com
 company-target.com
 compute-pipe.com
 contabo.net
+context7.com
 cookielaw.org
 cost-optimization-hub.us-east-1.amazonaws.com
 coveo.com
@@ -375,6 +378,7 @@ im.ge
 imagekit.io
 imetyou.top
 img.pub
+imgdd.cc
 imgdd.com
 imgflip.com
 imgur.com
@@ -536,12 +540,14 @@ oaistatic.com
 office.com
 office.net
 office365.com
+officeppe.com
 ogmua.cn
 okx.com
 one.one
 onedrive.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
+onedriveclucprodbn20008.blob.core.windows.net
 onedriveclucprodbn20009.blob.core.windows.net
 onedriveclucprodbn20017.blob.core.windows.net
 onedriveclucprodbn20018.blob.core.windows.net
@@ -563,6 +569,7 @@ onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
 onedriveclucproddm20042.blob.core.windows.net
 onedriveclucproddm20045.blob.core.windows.net
+onedriveclucproddm20050.blob.core.windows.net
 onelink.me
 onetrust.com
 onetrust.io
@@ -760,6 +767,7 @@ twimg.com
 twitter.com
 typekit.net
 typicode.com
+typora.io
 u.sb
 unifyintent.com
 unisvg.com
