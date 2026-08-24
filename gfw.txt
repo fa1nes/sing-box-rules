@@ -1,4 +1,4 @@
-# generated-at: 1787593912
+# generated-at: 1787615690
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -185,6 +185,7 @@ coc.li
 cock.li
 cococ.eu.org
 coinbase.com
+commander1.com
 comodoca.com
 company-target.com
 compute-pipe.com
@@ -276,6 +277,7 @@ findladders.com
 fivecdm.com
 fkli.cc
 flagcdn.com
+fontawesome.com
 fontshare.com
 forter.com
 fpjs.io
@@ -306,6 +308,7 @@ globalsign.net
 gnu.org
 go.com
 godaddy.com
+godedicated.com
 gomami.io
 google-analytics.com
 google.cn
@@ -341,6 +344,8 @@ he.net
 health.us-east-1.amazonaws.com
 hedbor.org
 heisi.org
+hetzner.cloud
+hetzner.com
 heytapimg.com
 heytapmobile.com
 hgemby.qzz.io
@@ -349,6 +354,7 @@ hinet.net
 hizinitestet.com
 hongkongdisneyland.com
 hostbrr.com
+hosthatch.com
 hostvds.com
 hotjar.com
 hotjar.io
@@ -358,6 +364,7 @@ hs-scripts.com
 hsadspixel.net
 hscollectedforms.net
 hsforms.com
+hsforms.net
 huawei.dog
 hubapi.com
 hubspot.com
@@ -382,7 +389,6 @@ imgdd.cc
 imgdd.com
 imgflip.com
 imgur.com
-immersivetranslate.cn
 immersivetranslate.com
 immortalwrt.org
 indream.app
@@ -439,6 +445,7 @@ kuaichedao.xyz
 kwai.com
 lacnic.net
 ldstatic.com
+leaseweb.com
 lencr.org
 lenovo.com
 lenovo.com.cn
@@ -553,9 +560,11 @@ onedriveclucprodbn20017.blob.core.windows.net
 onedriveclucprodbn20018.blob.core.windows.net
 onedriveclucprodbn20021.blob.core.windows.net
 onedriveclucprodbn20025.blob.core.windows.net
+onedriveclucprodbn20026.blob.core.windows.net
 onedriveclucprodbn20027.blob.core.windows.net
 onedriveclucprodbn20028.blob.core.windows.net
 onedriveclucprodbn20029.blob.core.windows.net
+onedriveclucprodbn20030.blob.core.windows.net
 onedriveclucprodbn20037.blob.core.windows.net
 onedriveclucprodbn20039.blob.core.windows.net
 onedriveclucprodbn20044.blob.core.windows.net
@@ -584,6 +593,9 @@ oraios-software.de
 orangevps.com
 osdknw.com
 outbrain.com
+ovh.com
+ovh.ie
+ovhcloud.com
 paypal.com
 paypalobjects.com
 performaized.com
@@ -605,12 +617,12 @@ px-cloud.net
 pypi.org
 qtlcdn.com
 quad9.net
-qualcomm.cn
 qualtrics.com
 queniuak.com
 queniubl.com
 quotes.com
 rapidssl.com
+raptor.digital
 rc-backup.com
 recaptcha.net
 red-3t5nvttg.com
@@ -660,6 +672,7 @@ sectigo.com
 secureserver.net
 securitytools.net
 seecdn.net
+seek.li
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
@@ -672,6 +685,7 @@ sharepoint.com
 shazam.com
 shield.us-east-1.amazonaws.com
 shields.io
+shlii.io
 shlshfm.com
 shopify.com
 shopifycdn.com
@@ -684,11 +698,13 @@ singular.net
 sintral.me
 skk.moe
 skype.com
+slgnt.eu
 small-point.com
 smartlook.cloud
 smogflycloud.com
 smokyhosts.com
 smooch.io
+snapengage.com
 snapkit.com
 solidvps.com
 songxwn.com
@@ -757,6 +773,7 @@ tlfhost.com
 tolis.eu.org
 triple.app
 trustarc.com
+trustcommander.net
 ttwstatic.com
 tunnelbroker.net
 turktelekom.com.tr
@@ -836,12 +853,12 @@ workspace.org
 wsdvs.com
 wsimg.com
 wsot2022.com
-wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net
 x.com
 x3puair.de
+xiti.com
 xjj.sh
 xmsl.org
 xn--ngstr-lra8j.com

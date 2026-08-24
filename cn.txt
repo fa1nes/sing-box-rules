@@ -1,4 +1,4 @@
-# generated-at: 1787593912
+# generated-at: 1787615690
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -178,6 +178,7 @@ cdnhwczba04.com
 cdntips.net
 cfca.com.cn
 cfogc.com
+chaitin.cn
 changyanedu.cn
 chaoxing.com
 chelaile.net.cn
@@ -321,14 +322,11 @@ heytapmobi.com
 hiaiabc.com
 hicaspian.com
 hicloud.com
-hitokoto.cn
 hitv.com
-hnftcdn2.cn
 hnkzy.com
 holiland.com
 hostbuf.com
 hpplay.cn
-huasheng.cn
 huatongcloud.com
 huawei.com
 huaweicloud.com
@@ -394,6 +392,7 @@ kdocs.cn
 kimi.com
 ks-cdn.com
 ksapisrv.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -458,7 +457,6 @@ neea.edu.cn
 neixin.cn
 netease.com
 netease.im
-nexitech.cn
 nfcos.cn
 nmc.cn
 nocode.com
@@ -476,7 +474,6 @@ pangolin-dsp-toutiao.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
-paperol.cn
 pddpic.com
 pddugc.com
 pdnews.cn
@@ -494,7 +491,6 @@ poizon.com
 pp918.com
 pstatp.com
 puata.info
-qchannel01.cn
 qchannel03.cn
 qcloud.com
 qcloudcdn.com
@@ -531,7 +527,6 @@ qy.net
 rantron.cn
 rauqa.cn
 rauqa.net
-reachmax.cn
 rtbasia.com
 ruanmei.com
 rumt-zh.com
@@ -546,7 +541,6 @@ searchstatic.com
 sectigochina.com
 seedvault.cn
 senmuse.com
-sensorsdata.cn
 servicewechat.com
 sf-express.com
 sgshero.com
@@ -591,7 +585,6 @@ tdnsv5.com
 tdnsv6.com
 tdnsvod1.cn
 tec73.com
-telecome.cn
 tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
@@ -659,7 +652,6 @@ weiyun.com
 whecb.com
 whongtec.com
 whxinna.com
-willcdn.cn
 wincheers.com
 wincheers.net
 wjx.cn
@@ -696,12 +688,12 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
 yg84.com
 yhgfb-cn-static.com
 yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
-yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
