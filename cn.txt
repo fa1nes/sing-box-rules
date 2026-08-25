@@ -1,4 +1,4 @@
-# generated-at: 1787615690
+# generated-at: 1787638484
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -83,6 +83,7 @@ apple-dns.cn
 apple.com.cn
 apptaxi.net
 askdiandian.com
+assrt.net
 autonavi.com
 avlyun.com
 ax1x.com
@@ -209,7 +210,6 @@ conac.cn
 convection.cn
 crlocsp.cn
 csdn.net
-csdnimg.cn
 css.sd
 ctdns.cn
 ctecdn.cn
@@ -275,7 +275,6 @@ ele.me
 elemecdn.com
 etoote.com
 fancy.cc
-feelgood.cn
 feichong.net
 feishu.cn
 fengkongcloud.com
@@ -309,7 +308,6 @@ gtimg.cn
 gtimg.com
 guangdongyunchen.com
 gz-tencentclb.com
-hanbaocheng.cn
 hc-cdn.cn
 hc-cdn.com
 hdslb.com
@@ -322,11 +320,14 @@ heytapmobi.com
 hiaiabc.com
 hicaspian.com
 hicloud.com
+hitokoto.cn
 hitv.com
+hnftcdn2.cn
 hnkzy.com
 holiland.com
 hostbuf.com
 hpplay.cn
+huasheng.cn
 huatongcloud.com
 huawei.com
 huaweicloud.com
@@ -344,7 +345,6 @@ id6.me
 idouyinvod.com
 idqqimg.com
 igexin.com
-iggrowth.cn
 ihuoshanlive.com
 ilife798.com
 imdada.cn
@@ -392,7 +392,6 @@ kdocs.cn
 kimi.com
 ks-cdn.com
 ksapisrv.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -440,7 +439,6 @@ miui.com
 miwifi.com
 mmstat.com
 mob.com
-mobileservice.cn
 moe.edu.cn
 moonshot.cn
 my-imcloud.com
@@ -457,6 +455,7 @@ neea.edu.cn
 neixin.cn
 netease.com
 netease.im
+nexitech.cn
 nfcos.cn
 nmc.cn
 nocode.com
@@ -464,7 +463,6 @@ nosec.org
 npmmirror.com
 nuomi.com
 oceanengine.com
-officeplus.cn
 onethingpcs.com
 onewsvod.com
 opdwz.cn
@@ -474,9 +472,9 @@ pangolin-dsp-toutiao.com
 pangolin-sdk-toutiao-b.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
+paperol.cn
 pddpic.com
 pddugc.com
-pdnews.cn
 peer.as
 peopleapp.com
 pglstatp-toutiao.com
@@ -491,7 +489,7 @@ poizon.com
 pp918.com
 pstatp.com
 puata.info
-qchannel03.cn
+qchannel01.cn
 qcloud.com
 qcloudcdn.com
 qianwen.com
@@ -527,6 +525,7 @@ qy.net
 rantron.cn
 rauqa.cn
 rauqa.net
+reachmax.cn
 rtbasia.com
 ruanmei.com
 rumt-zh.com
@@ -541,6 +540,7 @@ searchstatic.com
 sectigochina.com
 seedvault.cn
 senmuse.com
+sensorsdata.cn
 servicewechat.com
 sf-express.com
 sgshero.com
@@ -552,7 +552,6 @@ shouqianba.com
 shujupie.com
 shuqireader.com
 shuzilm.cn
-siliconflow.cn
 sina.cn
 sina.com.cn
 sinaimg.cn
@@ -563,7 +562,6 @@ snssdk.com
 so.com
 sogou.com
 sohu.com
-solseed.cn
 soulapp.cn
 sov2ex.com
 starrydyn.com
@@ -580,7 +578,6 @@ tcdnlive.com
 tcdnos.com
 tctjzs.cn
 tdnslive1.cn
-tdnsstic1.cn
 tdnsv5.com
 tdnsv6.com
 tdnsvod1.cn
@@ -627,7 +624,6 @@ umsns.com
 unicompayment.com
 ustc.edu.cn
 uyunad.com
-vidcube.cn
 vip.com
 vivo.com
 vivo.com.cn
@@ -675,7 +671,6 @@ wxlivecdn.com
 wyjianzhan.com
 xdrtc.com
 xhscdn.com
-xiaoheihe.cn
 xiaohongshu.com
 xiaojukeji.com
 xiaomi.com
@@ -694,6 +689,7 @@ yhgfb-cn-static.com
 yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
+yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
@@ -710,7 +706,6 @@ yzcdn.cn
 yzt.com.cn
 z1cdn.com
 zaodian.com
-zhangyuyidong.cn
 zhihu.com
 zhimg.com
 zhizhuma.com

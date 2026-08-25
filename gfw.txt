@@ -1,4 +1,4 @@
-# generated-at: 1787615690
+# generated-at: 1787638484
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -98,7 +98,6 @@ bdcgslb.com
 bestvm.cloud
 bgm.tv
 bgp.gd
-bgp.tools
 bgptools-agent-cf.com
 bidswitch.net
 binance.com
@@ -316,7 +315,6 @@ google.com
 google.com.hk
 google.ru
 googleadservices.com
-googleapis.cn
 googleapis.com
 googlesyndication.com
 googletagmanager.com
@@ -329,7 +327,6 @@ gravatar.com
 greasyfork.org
 grok.com
 grouphelp.me
-gstatic.cn
 gstatic.com
 gvt1.com
 gvt2.com
@@ -389,6 +386,7 @@ imgdd.cc
 imgdd.com
 imgflip.com
 imgur.com
+immersivetranslate.cn
 immersivetranslate.com
 immortalwrt.org
 indream.app
@@ -589,6 +587,7 @@ openai.com
 openbsd.org
 openfreemap.org
 openstreetmap.org
+opensubtitles.com
 oraios-software.de
 orangevps.com
 osdknw.com
@@ -615,8 +614,10 @@ prezly.com
 protechts.net
 px-cloud.net
 pypi.org
+pythonhosted.org
 qtlcdn.com
 quad9.net
+qualcomm.cn
 qualtrics.com
 queniuak.com
 queniubl.com
@@ -853,6 +854,7 @@ workspace.org
 wsdvs.com
 wsimg.com
 wsot2022.com
+wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net
