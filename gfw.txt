@@ -1,4 +1,4 @@
-# generated-at: 1787638484
+# generated-at: 1787661138
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -98,6 +98,7 @@ bdcgslb.com
 bestvm.cloud
 bgm.tv
 bgp.gd
+bgp.tools
 bgptools-agent-cf.com
 bidswitch.net
 binance.com
@@ -211,6 +212,7 @@ danmuji.org
 datarecoverymoscow.ru
 datatables.net
 datawave.sh
+dbankcdn.com
 debian.org
 deepwiki.com
 deli.pp.ua
@@ -221,6 +223,7 @@ digicert.cn
 digicert.com
 digimobil.es
 digvps.com
+discord.com
 discord.gg
 discordapp.com
 discordapp.net
@@ -307,7 +310,9 @@ globalsign.net
 gnu.org
 go.com
 godaddy.com
+godaxiom.com
 godedicated.com
+goldstarline.com
 gomami.io
 google-analytics.com
 google.cn
@@ -442,8 +447,10 @@ komari.vip
 kuaichedao.xyz
 kwai.com
 lacnic.net
+lazycat.wiki
 ldstatic.com
 leaseweb.com
+legend.moe
 lencr.org
 lenovo.com
 lenovo.com.cn
@@ -535,6 +542,7 @@ nolimithost.cc
 nosla.cloud
 notifications.us-east-1.amazonaws.com
 notion.so
+npmjs.com
 npmjs.org
 ns1p-aws-backed.global.ssl.fastly.net
 ns1pcdn.net
@@ -570,11 +578,15 @@ onedriveclucprodbn20045.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
 onedriveclucproddm20008.blob.core.windows.net
+onedriveclucproddm20012.blob.core.windows.net
+onedriveclucproddm20013.blob.core.windows.net
 onedriveclucproddm20016.blob.core.windows.net
 onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
+onedriveclucproddm20038.blob.core.windows.net
 onedriveclucproddm20042.blob.core.windows.net
+onedriveclucproddm20044.blob.core.windows.net
 onedriveclucproddm20045.blob.core.windows.net
 onedriveclucproddm20050.blob.core.windows.net
 onelink.me
@@ -854,7 +866,6 @@ workspace.org
 wsdvs.com
 wsimg.com
 wsot2022.com
-wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net

@@ -1,4 +1,4 @@
-# generated-at: 1787638484
+# generated-at: 1787661138
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -75,6 +75,7 @@ alyasset.com
 amap.com
 amazonaws.com.cn
 amemv.com
+ameow.xyz
 anticheatexpert.com
 antpcdn.com
 apinode.ltd
@@ -138,6 +139,7 @@ bookln.cn
 bscdnweb.com
 bsfit.com.cn
 bsgslb.cn
+btstu.cn
 bv2008.cn
 bvfcdn.com
 bvmlt.top
@@ -180,7 +182,6 @@ cdntips.net
 cfca.com.cn
 cfogc.com
 chaitin.cn
-changyanedu.cn
 chaoxing.com
 chelaile.net.cn
 chelaileapp.cn
@@ -201,7 +202,6 @@ cmbimg.com
 cmecloud.cn
 cmpassport.com
 cnklog.com
-cnspeedtest.cn
 cnzz.com
 colorfulclouds.net
 coloros.com
@@ -210,6 +210,7 @@ conac.cn
 convection.cn
 crlocsp.cn
 csdn.net
+csdnimg.cn
 css.sd
 ctdns.cn
 ctecdn.cn
@@ -223,8 +224,6 @@ cz88.net
 dailygn.com
 damai.cn
 datahubtrack.com
-dbankcdn.cn
-dbankcdn.com
 dcloud.net.cn
 dcloudlive.com
 dcloudstc.com
@@ -275,13 +274,13 @@ ele.me
 elemecdn.com
 etoote.com
 fancy.cc
+feelgood.cn
 feichong.net
 feishu.cn
 fengkongcloud.com
 fenxianglife.com
 finzfin.com
 fit2cloud.com
-flysleep.cn
 fofa.info
 fqnovel.com
 fqnovelpic.com
@@ -308,6 +307,7 @@ gtimg.cn
 gtimg.com
 guangdongyunchen.com
 gz-tencentclb.com
+hanbaocheng.cn
 hc-cdn.cn
 hc-cdn.com
 hdslb.com
@@ -414,7 +414,6 @@ ldhy.click
 lenovomm.cn
 lenovomm.com
 lepudding.com
-livehwc3.cn
 lnk0.com
 luckincoffeecdn.com
 maimemo.com
@@ -455,7 +454,6 @@ neea.edu.cn
 neixin.cn
 netease.com
 netease.im
-nexitech.cn
 nfcos.cn
 nmc.cn
 nocode.com
@@ -475,6 +473,7 @@ pangolin-sdk-toutiao1.com
 paperol.cn
 pddpic.com
 pddugc.com
+pdnews.cn
 peer.as
 peopleapp.com
 pglstatp-toutiao.com
@@ -525,7 +524,6 @@ qy.net
 rantron.cn
 rauqa.cn
 rauqa.net
-reachmax.cn
 rtbasia.com
 ruanmei.com
 rumt-zh.com
@@ -562,7 +560,6 @@ snssdk.com
 so.com
 sogou.com
 sohu.com
-soulapp.cn
 sov2ex.com
 starrydyn.com
 staticfile.org
@@ -578,9 +575,9 @@ tcdnlive.com
 tcdnos.com
 tctjzs.cn
 tdnslive1.cn
+tdnsstic1.cn
 tdnsv5.com
 tdnsv6.com
-tdnsvod1.cn
 tec73.com
 tencent-cloud.cn
 tencent-cloud.com
@@ -624,6 +621,7 @@ umsns.com
 unicompayment.com
 ustc.edu.cn
 uyunad.com
+vidcube.cn
 vip.com
 vivo.com
 vivo.com.cn
@@ -648,6 +646,7 @@ weiyun.com
 whecb.com
 whongtec.com
 whxinna.com
+willcdn.cn
 wincheers.com
 wincheers.net
 wjx.cn
@@ -681,7 +680,6 @@ xunyou.mobi
 xxpkg.com
 xzxpay.com.cn
 yangkeduo.com
-yangshipin.cn
 ydycdn.com
 yebinnet.com
 yg84.com
