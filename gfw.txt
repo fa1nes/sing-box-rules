@@ -1,4 +1,4 @@
-# generated-at: 1787689068
+# generated-at: 1787710810
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -333,6 +333,7 @@ gravatar.com
 greasyfork.org
 grok.com
 grouphelp.me
+gstatic.cn
 gstatic.com
 gvt1.com
 gvt2.com
@@ -392,7 +393,6 @@ imgdd.cc
 imgdd.com
 imgflip.com
 imgur.com
-immersivetranslate.cn
 immersivetranslate.com
 immortalwrt.org
 indream.app
@@ -875,6 +875,7 @@ workspace.org
 wsdvs.com
 wsimg.com
 wsot2022.com
+wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net
