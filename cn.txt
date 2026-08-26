@@ -1,4 +1,4 @@
-# generated-at: 1787732419
+# generated-at: 1787755032
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -187,7 +187,6 @@ chaoxing.com
 chelaile.net.cn
 chelaileapp.cn
 chengzijianzhan.com
-chinacloudsites.cn
 chinanetcenter.com
 chinaunicom.cn
 chinaz.com
@@ -200,7 +199,6 @@ cldisk.com
 cloudpnr.com
 cmbimg.cn
 cmbimg.com
-cmecloud.cn
 cmpassport.com
 cnklog.com
 cnspeedtest.cn
@@ -326,12 +324,14 @@ heytapmobi.com
 hiaiabc.com
 hicaspian.com
 hicloud.com
+hitokoto.cn
 hitv.com
 hnftcdn2.cn
 hnkzy.com
 holiland.com
 hostbuf.com
 hpplay.cn
+huasheng.cn
 huatongcloud.com
 huawei.com
 huaweicloud.com
@@ -397,9 +397,11 @@ kaoyanvip.cn
 kc2.top
 kdocs.cn
 kimi.com
+ks-cdn.com
 ksapisrv.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 ktvme.cn
 ktvme.com
 kuaishou.com
@@ -419,6 +421,7 @@ ldhy.click
 lenovomm.cn
 lenovomm.com
 lepudding.com
+livehwc3.cn
 lnk0.com
 luckincoffeecdn.com
 maimemo.com
@@ -532,8 +535,10 @@ qunar.com
 qweather.com
 qwps.cn
 qy.net
+rantron.cn
 rauqa.cn
 rauqa.net
+reachmax.cn
 rtbasia.com
 ruanmei.com
 rumt-zh.com
@@ -548,7 +553,6 @@ searchstatic.com
 sectigochina.com
 seedvault.cn
 senmuse.com
-sensorsdata.cn
 servicewechat.com
 sf-express.com
 sgshero.com
@@ -593,6 +597,7 @@ tdnsv5.com
 tdnsv6.com
 tdnsvod1.cn
 tec73.com
+telecome.cn
 tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
@@ -651,6 +656,7 @@ volces.com
 volcfcdndvs.com
 volcvideo.com
 vzuu.com
+walmartmobile.cn
 wasu.tv
 weavatar.com
 websaas.cn
@@ -705,6 +711,7 @@ yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
 yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
