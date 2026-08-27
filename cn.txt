@@ -1,4 +1,4 @@
-# generated-at: 1787844347
+# generated-at: 1787866104
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -41,6 +41,7 @@
 93book.com
 95516.com
 95526.mobi
+acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
@@ -404,14 +405,17 @@ kdocs.cn
 kfc.com.cn
 kfcapp.cn
 kimi.com
+ks-cdn.com
 ksapisrv.com
 ksord.com
 ksosoft.com
 ksyun.com
+ksyuncdn.com
 ktvme.cn
 ktvme.com
 kuaishou.com
 kuaishouzt.com
+kugou.com
 kuiniuca.com
 kunluncan.com
 kunlunno.com
@@ -471,6 +475,7 @@ netease.com
 netease.im
 nexitech.cn
 nfcos.cn
+nmc.cn
 nocode.com
 nosec.org
 npmmirror.com
@@ -722,7 +727,6 @@ yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
 yingt.asia
-yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
