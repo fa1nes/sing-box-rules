@@ -1,4 +1,4 @@
-# generated-at: 1787822258
+# generated-at: 1787844347
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -484,6 +484,7 @@ mediapackagev2.us-east-1.amazonaws.com
 mediastore.us-east-1.amazonaws.com
 mediatek.com
 medium.com
+meee.com.tw
 meowimg.com
 meta.com
 metacubex.one
