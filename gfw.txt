@@ -1,4 +1,4 @@
-# generated-at: 1787911161
+# generated-at: 1787933376
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -417,7 +417,6 @@ iplark.com
 ipleak.net
 ipv4only.arpa
 ipv6.br
-ipw.cn
 ipwho.is
 isif.net
 isiline.it
