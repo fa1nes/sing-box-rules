@@ -1,4 +1,4 @@
-# generated-at: 1787866104
+# generated-at: 1787888655
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -27,7 +27,6 @@
 360buyimg.com
 365yg.com
 3edc.cn
-51.la
 52pojie.cn
 5eplay.com
 66mobi.com
@@ -41,7 +40,6 @@
 93book.com
 95516.com
 95526.mobi
-acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
@@ -84,7 +82,6 @@ apinode.ltd
 apitd.net
 apple-dns.cn
 apple.com.cn
-apptaxi.net
 askdiandian.com
 assrt.net
 autonavi.com
@@ -212,7 +209,6 @@ coloros.com
 comfylink.com
 conac.cn
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -405,9 +401,7 @@ kdocs.cn
 kfc.com.cn
 kfcapp.cn
 kimi.com
-ks-cdn.com
 ksapisrv.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -446,6 +440,7 @@ meishesdk.com
 meituan.com
 meituan.net
 mentamob.com
+mi.com
 miaozhen.com
 micu.hk
 mihoyo.com
@@ -721,12 +716,14 @@ xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
 ydycdn.com
+yebinnet.com
 yg84.com
 yhgfb-cn-static.com
 yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
 yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
