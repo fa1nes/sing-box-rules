@@ -1,10 +1,11 @@
-# generated-at: 1787977751
+# generated-at: 1788000453
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
 100222.xyz
 1008.site
 105888.xyz
+111660.xyz
 111666.best
 12o2.com
 187187.xyz
@@ -88,6 +89,7 @@ awsstatic.com
 axon.ai
 ayepv6.com
 ayugram.one
+azure.com
 azure.net
 azureedge.net
 b-cdn.net
@@ -289,6 +291,7 @@ fraudlabspro.com
 free-vps.org
 freebsd.org
 freshchat.com
+fuckip.me
 gatewaysentry.com
 gccdn.net
 gemini.com
@@ -417,6 +420,7 @@ iplark.com
 ipleak.net
 ipv4only.arpa
 ipv6.br
+ipw.cn
 ipwho.is
 isif.net
 isiline.it
@@ -581,6 +585,7 @@ onedriveclucprodbn20029.blob.core.windows.net
 onedriveclucprodbn20030.blob.core.windows.net
 onedriveclucprodbn20037.blob.core.windows.net
 onedriveclucprodbn20039.blob.core.windows.net
+onedriveclucprodbn20041.blob.core.windows.net
 onedriveclucprodbn20044.blob.core.windows.net
 onedriveclucprodbn20045.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
@@ -615,6 +620,7 @@ outbrain.com
 ovh.com
 ovh.ie
 ovhcloud.com
+pages.dev
 paypal.com
 paypalobjects.com
 performaized.com
@@ -691,7 +697,6 @@ sb.sb
 scorecardresearch.com
 sectigo.com
 secureserver.net
-securitytools.net
 seecdn.net
 seek.li
 seeusercontent.com
@@ -886,6 +891,7 @@ wuchuyun.com
 wuchuyun.net
 x.com
 x3puair.de
+xboxservices.com
 xiti.com
 xjj.sh
 xmsl.org
