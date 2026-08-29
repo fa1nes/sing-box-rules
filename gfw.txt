@@ -1,4 +1,4 @@
-# generated-at: 1788022401
+# generated-at: 1788044680
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -22,15 +22,19 @@
 51huajiyun.xyz
 578910.xyz
 64clouds.com
+674542.xyz
 67696769.xyz
 687511.xyz
 781108.xyz
 86gamestore.com
+8866n.cn
 89kb.com
 8n1.org
 990599.xyz
 99brands.com
+a2z.com
 aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
+aaplimg.com
 aapq.net
 aarnet.net.au
 account.us-east-1.amazonaws.com
@@ -45,20 +49,26 @@ adtidy.org
 adtrafficquality.google
 agilebits.com
 agora.io
+airbnb.com
 airwallex.com
 aka.ms
+akadns.net
 akamai.com
+akamai.net
+akamaiedge.net
+akamaihd.net
 akamaized.net
+akaquill.net
 akkocloud.com
 algolia.net
 alien666.de5.net
-alikunlun.com
-aliyun-inc.com
-aliyun.com
-aliyuncs.com
 alphavps.com
+amazon-adsystem.com
+amazon.com
+amazonaws.com
 amazontrust.com
 amd.com
+ampaeservices.com
 ampproject.org
 anthropic.com
 apdcdn.com
@@ -72,7 +82,11 @@ app-measurement.com
 appcenter.ms
 appcloudcdn.com
 applanga.com
+apple-dns.net
 apple-studies.com
+apple.cn
+apple.com
+apple.com.cn
 apple.map.fastly.net
 applovin.com
 appraven.net
@@ -84,6 +98,7 @@ archlinux.org
 arena.ai
 arin.net
 asinx.io
+assettype.com
 astro.build
 atl-paas.net
 attio.com
@@ -145,8 +160,6 @@ bycsi.com
 byd3c3.com
 bynbc.com
 byspotify.com
-bytefcdn.com
-bytegslb.com
 caneis.com.tw
 canoe.im
 capjs.net
@@ -154,9 +167,10 @@ carryz.net
 catpanel.net
 catserver.ca
 cdn-api-weglot.com
+cdn-apple.com
 cdnboostcache.com
-cdnbuild.net
 cdnetworks.net
+cdnhwczba04.com
 cdninstagram.com
 ce.us-east-1.amazonaws.com
 cellrebel.com
@@ -241,21 +255,19 @@ dmit.sh
 dmm.co.jp
 dns.google
 dns.sb
-dnse3.com
-dnse5.com
+dnsmeasure.top
 dolonx.cn
 dooo.ng
-doubaocdn.com
 doubleclick.net
 downdetectorapi.com
 dpdns.org
 drand.sh
+drugs.com
 duyaoss.com
 dynamodb.us-east-1.amazonaws.com
 e-hentai.org
 easytomessage.com
 ec2.us-east-1.amazonaws.com
-ecombdpage.com
 eidoso.com
 eightcha.com
 elasticloadbalancing.us-east-1.amazonaws.com
@@ -263,6 +275,7 @@ embymv.link
 er-api.com
 esm.sh
 eurobilltracker.com
+evangelion.jp
 example.com
 excathedra.co
 exchangerate-api.com
@@ -286,7 +299,9 @@ fivecdm.com
 fkli.cc
 flagcdn.com
 fontawesome.com
+fontplus.jp
 fontshare.com
+footprintdns.com
 forter.com
 fpjs.io
 frankfurter.dev
@@ -387,6 +402,10 @@ ibb.co
 ibsgss.uk
 ibyteimg.com
 icanhazip.com
+icloud-content.com
+icloud-content.com.cn
+icloud.com
+icloud.com.cn
 iconify.design
 idcflare.com
 ident.me
@@ -429,6 +448,8 @@ ipwho.is
 isif.net
 isiline.it
 isnssdk.com
+itunes-nocookie.com
+itunes.com
 iubenda.com
 jable.tv
 jads.co
@@ -454,6 +475,7 @@ kernel.org
 ketchcdn.com
 ketchjs.com
 keyplay.io
+kfcloud.net
 klaviyo.com
 komari.vip
 kuaichedao.xyz
@@ -491,7 +513,6 @@ media-amazon.com
 mediapackage.us-east-1.amazonaws.com
 mediapackagev2.us-east-1.amazonaws.com
 mediastore.us-east-1.amazonaws.com
-mediatek.com
 medium.com
 meee.com.tw
 meowimg.com
@@ -528,7 +549,10 @@ msn.cn
 msn.com
 mudgee.host
 mullvad.net
+muscache.com
+musta.ch
 myip.com
+mzstatic.com
 namebig.io
 namecrane.com
 nasa.gov
@@ -606,6 +630,7 @@ onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
 onedriveclucproddm20038.blob.core.windows.net
+onedriveclucproddm20040.blob.core.windows.net
 onedriveclucproddm20042.blob.core.windows.net
 onedriveclucproddm20044.blob.core.windows.net
 onedriveclucproddm20045.blob.core.windows.net
@@ -615,12 +640,14 @@ onetrust.com
 onetrust.io
 online-metrix.net
 onvanilla.net
+ookla.com
 ooklaserver.net
 openai.com
 openbsd.org
 openfreemap.org
 openstreetmap.org
 opensubtitles.com
+oraclecloud.com
 oraios-software.de
 orangevps.com
 osdknw.com
@@ -629,12 +656,14 @@ ovh.com
 ovh.ie
 ovhcloud.com
 pages.dev
+pastebin.com
 paypal.com
 paypalobjects.com
 performaized.com
 perfprod.com
 perplexity.ai
 pexels.com
+ping.pe
 pippio.com
 pitaya-clientai.com
 pki.goog
@@ -652,8 +681,6 @@ qtlcdn.com
 quad9.net
 qualcomm.cn
 qualtrics.com
-queniuak.com
-queniubl.com
 quotes.com
 rapidssl.com
 raptor.digital
@@ -682,7 +709,6 @@ romanrm.net
 route53domains.us-east-1.amazonaws.com
 router-for.me
 rp-static-apne1.s3.ap-northeast-1.amazonaws.com
-rtcxyz.com
 rubiconproject.com
 rudderlabs.com
 runaway.rip
@@ -695,16 +721,17 @@ s3.ap-southeast-1.amazonaws.com
 s3.us-east-1.amazonaws.com
 sa.net
 saasexch.com
+safebrowsing.apple
 sagernet.org
 salesianimestre.it
 saltyfish.io
-sandai.net
 sanity.io
 sardine.ai
 sb.sb
 scorecardresearch.com
 sectigo.com
 secureserver.net
+securitytools.net
 seecdn.net
 seek.li
 seeusercontent.com
@@ -726,7 +753,6 @@ shlshfm.com
 shopify.com
 shopifycdn.com
 shopifysvc.com
-shortdramaop.com
 shutterstock.com
 signin.aws
 sing-box.app
@@ -845,7 +871,6 @@ v2ex.pro
 v2ray.com
 vanillicon.com
 vector.co
-vegslb.com
 vercel.app
 verisign.com
 visa.com
@@ -855,8 +880,6 @@ vk.com
 vki.im
 vnc.dog
 voipstunt.com
-volcfcdndvs1.com
-volcgtm.com
 volcvideos.com
 vox.moe
 vps.hosting
@@ -888,6 +911,7 @@ windows.com
 windowsupdate.com
 wisekey.com
 withgoogle.com
+wmlabs.net
 workers.dev
 workspace.org
 wsdvs.com
@@ -899,6 +923,7 @@ wuchuyun.com
 wuchuyun.net
 x.com
 x3puair.de
+xboxlive.com
 xboxservices.com
 xiti.com
 xjj.sh
@@ -907,13 +932,12 @@ xn--ngstr-lra8j.com
 xteko.com
 xtom.chat
 xtom.com
-xunlei.com
 xwyue.com
-xycdn.com
 xykt.de
 yandex.net
 yandex.ru
 yimg.com
+youtu.be
 youtube.com
 ytimg.com
 yuanlu.qzz.io

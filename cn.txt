@@ -1,9 +1,11 @@
-# generated-at: 1788022401
+# generated-at: 1788044680
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
 03k.org
+10010.cn
 10010.com
+10086.cn
 11222.cn
 115.com
 115cdn.net
@@ -13,6 +15,7 @@
 127.net
 16163.com
 163.com
+163jiasu.com
 163yun.com
 1688.com
 189.cn
@@ -25,8 +28,10 @@
 3322.net
 360.cn
 360buyimg.com
+360kuai.com
 365yg.com
 3edc.cn
+51.la
 52pojie.cn
 5eplay.com
 66mobi.com
@@ -60,6 +65,7 @@ alibabausercontent.com
 alicdn.com
 alidns.com
 aligames.com
+alikunlun.com
 alikunlun.net
 alimebot.com
 alipan.com
@@ -68,6 +74,9 @@ alipay.com
 alipay.com.cn
 alipaydns.com
 alipayobjects.com
+aliyun-inc.com
+aliyun.com
+aliyuncs.com
 aliyuncsslb.com
 allawntech.com
 alllook.tv
@@ -82,7 +91,6 @@ antpcdn.com
 apinode.ltd
 apitd.net
 apple-dns.cn
-apple.com.cn
 apptaxi.net
 askdiandian.com
 assrt.net
@@ -145,6 +153,7 @@ bv2008.cn
 bvfcdn.com
 bvmlt.top
 byte-test.com
+byte008.com
 bytecdn.com
 bytecdntp.com
 byted-static.com
@@ -154,9 +163,11 @@ bytedanceapi.com
 bytednsdoc.com
 byteeffecttos.com
 bytefae.com
+bytefcdn.com
 bytegecko.com
 bytegeckoext.com
 bytegoofy.com
+bytegslb.com
 bytehwm.com
 byteimg.com
 bytemaimg.com
@@ -175,11 +186,11 @@ cdky.vip
 cdkyvip360.cn
 cdn-go.cn
 cdn1.vip
+cdnbuild.net
 cdngslb.com
 cdnhwc2.com
 cdnhwc3.com
 cdnhwcjog12.com
-cdnhwczba04.com
 cdntips.net
 cfca.com.cn
 cfogc.com
@@ -194,12 +205,14 @@ chinanetcenter.com
 chinaunicom.cn
 chinaz.com
 chitus.com
-cibntv.net
+citicsf.com
 ciweiyunyin.com
 cjjd14.com
 cl2009.com
 cldisk.com
 cloudpnr.com
+cmbchina.cn
+cmbchina.com
 cmbimg.cn
 cmbimg.com
 cmecloud.cn
@@ -236,6 +249,7 @@ dcloudstc.com
 deepinstall.com
 deepseek.com
 dewu.com
+dewucdn.com
 dgsltx.com
 dianping.com
 didi.cn
@@ -247,6 +261,8 @@ dizgslb.com
 dnse0.cn
 dnse1.com
 dnse2.com
+dnse3.com
+dnse5.com
 dnslab.cn
 dnspod.cn
 dnspod.net
@@ -256,6 +272,9 @@ doh.pub
 domob.cn
 dongfou.com
 dot.pub
+doubao-dev.com
+doubao.com
+doubaocdn.com
 doupay.com
 douyin.com
 douyincdn.com
@@ -274,6 +293,7 @@ eastmoney.com
 easyar.com
 ecombdapi.com
 ecombdimg.com
+ecombdpage.com
 ecombdstatic.com
 ecukwai.com
 edge-byted.com
@@ -295,6 +315,7 @@ fqnovel.com
 fqnovelpic.com
 free2walk.cn
 fxltsbl.com
+gaokao.cn
 gcloudcs.com
 gcloudgbs.com
 gcloudsdk.com
@@ -348,14 +369,13 @@ huaweicloud.com
 hubcloud.com.cn
 hujiang.com
 huoshanimg.com
+huoshanlive.com
 hwwt8.com
 hzshudian.com
 hzyoka.com
 i4.cn
 ibruce.info
 ibytedapm.com
-icloud-content.com.cn
-icloud.com.cn
 icloudnative.io
 id6.me
 idouyinvod.com
@@ -383,6 +403,7 @@ ishangtong.com
 itc.cn
 itdog.cn
 ithome.com
+ixigua.com
 jcloud-cdn.com
 jcloudimg.com
 jd.com
@@ -414,11 +435,13 @@ kimi.com
 kjykcdn.com
 ks-cdn.com
 ksapisrv.com
+ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
 ktvme.cn
 ktvme.com
+kuaishou.cn
 kuaishou.com
 kuaishouzt.com
 kugou.com
@@ -449,6 +472,7 @@ max-c.com
 maxjia.com
 maxkb.cn
 mcd.cn
+mediatek.com
 meishesdk.com
 meituan.com
 meituan.net
@@ -475,6 +499,7 @@ myip.la
 myqcloud.com
 myquark.cn
 ndcimgs.com
+ndcjl.com
 ndcpp.com
 nearme.com.cn
 neea.cn
@@ -489,6 +514,7 @@ nocode.com
 nosec.org
 npmmirror.com
 nuomi.com
+obriccloud.com
 oceanengine.com
 officeplus.cn
 onethingpcs.com
@@ -525,12 +551,14 @@ qchannel01.cn
 qchannel03.cn
 qcloud.com
 qcloudcdn.com
+qcloudimg.com
 qianwen.com
 qianxun.com
 qidian.com
 qiezibenpao.com
 qimiaoyuanfen.com
 qiniuapi.com
+qishui.com
 qiyukf.com
 qiyukf.net
 qjsalia.com
@@ -543,8 +571,10 @@ qqmail.com
 qrstuvwxyzab.com
 qtaeixd.com
 quark.cn
+queniuak.com
 queniubg.com
 queniubh.com
+queniubl.com
 queniucf.com
 queniuiq.com
 queniukw.com
@@ -561,8 +591,10 @@ rauqa.cn
 rauqa.net
 reachmax.cn
 rtbasia.com
+rtcxyz.com
 ruanmei.com
 rumt-zh.com
+sandai.net
 sangfor.com
 sangfor.com.cn
 sanguosha.cn
@@ -582,6 +614,7 @@ sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
 shinet.cn
+shortdramaop.com
 shouqianba.com
 shujupie.com
 shuqireader.com
@@ -597,6 +630,7 @@ snssdk.com
 so.com
 sogou.com
 sohu.com
+solar-engine.com
 solseed.cn
 soulapp.cn
 sov2ex.com
@@ -647,6 +681,7 @@ toutiaocloud.com
 toutiaocloud.net
 toutiaoimg.com
 tratao.com
+trtcube-license.cn
 trustdecision.com
 ttwebview.com
 tumukaoyan.com
@@ -670,7 +705,9 @@ unifycarbon.com
 upqzfile.com
 ustc.edu.cn
 uyunad.com
+vegslb.com
 vidcube.cn
+videoplus.cc
 vip.com
 vivo.com
 vivo.com.cn
@@ -683,6 +720,8 @@ volceapplog.com
 volcengineapi.com
 volces.com
 volcfcdndvs.com
+volcfcdndvs1.com
+volcgtm.com
 volcvideo.com
 vzuu.com
 walmartmobile.cn
@@ -704,6 +743,7 @@ wincheers.net
 wjx.cn
 wjx.com
 wkanx.com
+wkbrowser.com
 wnluo.com
 wo.cn
 woa.com
@@ -731,8 +771,10 @@ xiaomi.com
 xinhuaxmt.com
 xinqiucc.com
 xrbk.cn
+xunlei.com
 xunyou.mobi
 xxpkg.com
+xycdn.com
 xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
@@ -745,17 +787,20 @@ yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
 yingt.asia
+yingt.fun
 yirujs.com
 yisou.com
 yiyouliao.com
 yksdks.com
 yokagames.com
 youku.com
+youpengw.com
 youzanyun.com
 yst.com.cn
 yuansfer.com
 yuanshen.com
 yuewen.com
+yugew.com
 yumchina.com
 yunxish.com
 yximgs.com
