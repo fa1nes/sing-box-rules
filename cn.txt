@@ -1,4 +1,4 @@
-# generated-at: 1788000453
+# generated-at: 1788022401
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -27,7 +27,6 @@
 360buyimg.com
 365yg.com
 3edc.cn
-51.la
 52pojie.cn
 5eplay.com
 66mobi.com
@@ -171,6 +170,7 @@ caiyuncdn.com
 callmekeji.com
 cayfpay.cn
 ccpf-cn.com
+cctalk.com
 cdky.vip
 cdkyvip360.cn
 cdn-go.cn
@@ -255,6 +255,7 @@ dobest.cn
 doh.pub
 domob.cn
 dongfou.com
+dot.pub
 doupay.com
 douyin.com
 douyincdn.com
@@ -321,6 +322,7 @@ hanhuish.cn
 hc-cdn.cn
 hc-cdn.com
 hdslb.com
+hekouxin.com
 helloimg.com
 heytap.com
 heytapcs.com
@@ -332,6 +334,8 @@ hicaspian.com
 hicloud.com
 hitokoto.cn
 hitv.com
+hjapi.com
+hjfile.cn
 hnftcdn2.cn
 hnkzy.com
 holiland.com
@@ -342,6 +346,7 @@ huatongcloud.com
 huawei.com
 huaweicloud.com
 hubcloud.com.cn
+hujiang.com
 huoshanimg.com
 hwwt8.com
 hzshudian.com
@@ -361,12 +366,14 @@ ihuoshanlive.com
 ilife798.com
 imdada.cn
 imgs.ovh
+imtmp.net
 infi.cn
 inkuai.com
 ip.cn
 ip138.com
 ipchk.cn
 ipip.net
+ipw.cn
 iqiyi.com
 iqiyipic.com
 irisdt.cn
@@ -407,7 +414,6 @@ kimi.com
 kjykcdn.com
 ks-cdn.com
 ksapisrv.com
-ksord.com
 ksosoft.com
 ksyun.com
 ksyuncdn.com
@@ -686,6 +692,7 @@ websaas.cn
 wechat.com
 wechatpay.cn
 weibo.cn
+weixin.com
 weixinbridge.com
 weiyun.com
 whecb.com
@@ -731,6 +738,7 @@ yangkeduo.com
 yangshipin.cn
 ydycdn.com
 yebinnet.com
+yeshj.com
 yg84.com
 yhgfb-cn-static.com
 yidianzixun.com
@@ -744,6 +752,7 @@ yksdks.com
 yokagames.com
 youku.com
 youzanyun.com
+yst.com.cn
 yuansfer.com
 yuanshen.com
 yuewen.com

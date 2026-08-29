@@ -1,4 +1,4 @@
-# generated-at: 1788000453
+# generated-at: 1788022401
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -19,6 +19,7 @@
 3gppnetwork.org
 3lift.com
 4ksj.com
+51huajiyun.xyz
 578910.xyz
 64clouds.com
 67696769.xyz
@@ -85,6 +86,7 @@ arin.net
 asinx.io
 astro.build
 atl-paas.net
+attio.com
 awsstatic.com
 axon.ai
 ayepv6.com
@@ -108,6 +110,7 @@ bidswitch.net
 binance.com
 binance.info
 bing.com
+bing.net
 bingapis.com
 bitsflow.cloud
 bitwarden.com
@@ -386,6 +389,7 @@ ibyteimg.com
 icanhazip.com
 iconify.design
 idcflare.com
+ident.me
 iframely.net
 iimg.pp.ua
 ikuuu.org
@@ -414,13 +418,13 @@ internet-measurement.com
 internetdownloadmanager.com
 ip-api.com
 ip.sb
+ipapi.co
 ipify.org
 ipinfo.io
 iplark.com
 ipleak.net
 ipv4only.arpa
 ipv6.br
-ipw.cn
 ipwho.is
 isif.net
 isiline.it
@@ -517,12 +521,14 @@ mozambiquehe.re
 mozilla.com
 mozilla1.com
 mrhost.biz
+msedge.net
 msftconnecttest.com
 msftncsi.com
 msn.cn
 msn.com
 mudgee.host
 mullvad.net
+myip.com
 namebig.io
 namecrane.com
 nasa.gov
@@ -574,6 +580,7 @@ onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
 onedriveclucprodbn20008.blob.core.windows.net
 onedriveclucprodbn20009.blob.core.windows.net
+onedriveclucprodbn20010.blob.core.windows.net
 onedriveclucprodbn20017.blob.core.windows.net
 onedriveclucprodbn20018.blob.core.windows.net
 onedriveclucprodbn20021.blob.core.windows.net
@@ -594,6 +601,7 @@ onedriveclucproddm20008.blob.core.windows.net
 onedriveclucproddm20012.blob.core.windows.net
 onedriveclucproddm20013.blob.core.windows.net
 onedriveclucproddm20016.blob.core.windows.net
+onedriveclucproddm20021.blob.core.windows.net
 onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
 onedriveclucproddm20037.blob.core.windows.net
@@ -627,7 +635,6 @@ performaized.com
 perfprod.com
 perplexity.ai
 pexels.com
-ping.pe
 pippio.com
 pitaya-clientai.com
 pki.goog
@@ -690,6 +697,7 @@ sa.net
 saasexch.com
 sagernet.org
 salesianimestre.it
+saltyfish.io
 sandai.net
 sanity.io
 sardine.ai
