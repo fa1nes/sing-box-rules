@@ -1,4 +1,4 @@
-# generated-at: 1788067370
+# generated-at: 1788089554
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -43,12 +43,14 @@ acm.us-east-1.amazonaws.com
 adjust.com
 adobedtm.com
 adroll.com
+ads-twitter.com
 adsmoloco.com
 adsrvr.org
 adtidy.org
 adtrafficquality.google
 agilebits.com
 agora.io
+aiprice.net
 airbnb.com
 airwallex.com
 aka.ms
@@ -112,7 +114,9 @@ azureedge.net
 b-cdn.net
 b3log.org
 bangumi.ca
+barboramottlova.com
 battle.net
+bayimg.com
 bbbbbb.eu.org
 bdcgslb.com
 bero-host.de
@@ -137,6 +141,7 @@ brandfetch.io
 braze.com
 brea.cloud
 breadcloud.io
+brightspotcdn.com
 browser-intake-datadoghq.com
 browser-intake-us3-datadoghq.com
 browser-intake-us5-datadoghq.com
@@ -167,11 +172,11 @@ capjs.net
 carryz.net
 catpanel.net
 catserver.ca
+ccswitch.io
 cdn-api-weglot.com
 cdn-apple.com
 cdnboostcache.com
 cdnetworks.net
-cdnhwczba04.com
 cdninstagram.com
 ce.us-east-1.amazonaws.com
 cellrebel.com
@@ -245,6 +250,7 @@ digicert.cn
 digicert.com
 digimobil.es
 digvps.com
+dimthink.com
 discord.com
 discord.gg
 discordapp.com
@@ -263,6 +269,7 @@ dooo.ng
 doubleclick.net
 downdetectorapi.com
 dpdns.org
+dragon3api.com
 drand.sh
 drugs.com
 duyaoss.com
@@ -296,6 +303,7 @@ fc-use1-00-pics-bkt-00.s3.amazonaws.com
 feria.eu.org
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
+findbesthosts.com
 findladders.com
 fivecdm.com
 fkli.cc
@@ -359,6 +367,7 @@ grok.com
 grouphelp.me
 gstatic.cn
 gstatic.com
+guards.re
 gvt1.com
 gvt2.com
 hanime1.com
@@ -381,8 +390,11 @@ highendnetwork.com
 hinet.net
 hizinitestet.com
 hongkongdisneyland.com
+hostadvice.com
 hostbrr.com
 hosthatch.com
+hostsailor.com
+hostsearch.com
 hostvds.com
 hotjar.com
 hotjar.io
@@ -407,7 +419,6 @@ icanhazip.com
 icloud-content.com
 icloud-content.com.cn
 icloud.com
-icloud.com.cn
 iconify.design
 idcflare.com
 ident.me
@@ -464,6 +475,7 @@ jivosite.com
 jkforum.net
 joinhoney.com
 joram.it
+jpg.dog
 jquery.com
 jsdelivr.com
 jsdelivr.net
@@ -494,6 +506,7 @@ lfeeder.com
 licdn.cn
 licdn.com
 lightsail.us-east-1.amazonaws.com
+linearicons.com
 link.com
 linkedin.com
 linux.do
@@ -573,6 +586,7 @@ nflximg.net
 nflxso.net
 ng-dex.com
 nintendo.net
+niuproxy.com
 nodecats.com
 nodeget.li
 nodeget.vip
@@ -604,6 +618,7 @@ one.one
 onedrive.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
+onedriveclucprodbn20007.blob.core.windows.net
 onedriveclucprodbn20008.blob.core.windows.net
 onedriveclucprodbn20009.blob.core.windows.net
 onedriveclucprodbn20010.blob.core.windows.net
@@ -621,6 +636,7 @@ onedriveclucprodbn20039.blob.core.windows.net
 onedriveclucprodbn20041.blob.core.windows.net
 onedriveclucprodbn20044.blob.core.windows.net
 onedriveclucprodbn20045.blob.core.windows.net
+onedriveclucprodbn20048.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
 onedriveclucproddm20002.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
@@ -676,6 +692,7 @@ po0.com
 pokeapi.co
 postimg.cc
 prezly.com
+priceai.cc
 protechts.net
 px-cloud.net
 pypi.org
@@ -874,6 +891,8 @@ v2ex.pro
 v2ray.com
 vanillicon.com
 vector.co
+venlacy.com
+venlacy.top
 vercel.app
 verisign.com
 visa.com
@@ -924,6 +943,7 @@ wuchucloud.cn
 wuchucloud.net
 wuchuyun.com
 wuchuyun.net
+wuyun.cloud
 x.com
 x3puair.de
 xboxlive.com
