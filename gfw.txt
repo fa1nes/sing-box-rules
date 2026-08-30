@@ -1,4 +1,4 @@
-# generated-at: 1788089554
+# generated-at: 1788112152
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -166,8 +166,10 @@ bycsi.com
 byd3c3.com
 bynbc.com
 byspotify.com
+cachefly.net
 caneis.com.tw
 canoe.im
+canva.com
 capjs.net
 carryz.net
 catpanel.net
@@ -177,6 +179,7 @@ cdn-api-weglot.com
 cdn-apple.com
 cdnboostcache.com
 cdnetworks.net
+cdnhwczba04.com
 cdninstagram.com
 ce.us-east-1.amazonaws.com
 cellrebel.com
@@ -271,12 +274,14 @@ downdetectorapi.com
 dpdns.org
 dragon3api.com
 drand.sh
+dreamskin.cc
 drugs.com
 duyaoss.com
 dynamodb.us-east-1.amazonaws.com
 e-hentai.org
 easytomessage.com
 ec2.us-east-1.amazonaws.com
+edgesuite.net
 eidoso.com
 eightcha.com
 elasticloadbalancing.us-east-1.amazonaws.com
@@ -396,6 +401,7 @@ hosthatch.com
 hostsailor.com
 hostsearch.com
 hostvds.com
+hostwild.com
 hotjar.com
 hotjar.io
 hs-analytics.net
@@ -419,6 +425,7 @@ icanhazip.com
 icloud-content.com
 icloud-content.com.cn
 icloud.com
+icloud.com.cn
 iconify.design
 idcflare.com
 ident.me
@@ -643,7 +650,9 @@ onedriveclucproddm20006.blob.core.windows.net
 onedriveclucproddm20008.blob.core.windows.net
 onedriveclucproddm20012.blob.core.windows.net
 onedriveclucproddm20013.blob.core.windows.net
+onedriveclucproddm20014.blob.core.windows.net
 onedriveclucproddm20016.blob.core.windows.net
+onedriveclucproddm20019.blob.core.windows.net
 onedriveclucproddm20021.blob.core.windows.net
 onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
@@ -725,6 +734,7 @@ rfchost.net
 riotgames.com
 ripe.net
 rlcdn.com
+robovps.biz
 romanrm.net
 route53domains.us-east-1.amazonaws.com
 router-for.me
@@ -798,6 +808,7 @@ ss2.us
 ssl.com
 stackoverflow.com
 starchart.cc
+stardock.com
 stardock.net
 startisback.com
 static.microsoft
@@ -814,6 +825,8 @@ stunprotocol.org
 stvidtest.net
 sub.store
 substackcdn.com
+supabase.co
+supabase.com
 supercell.com
 surfsharkdns.com
 surge-activation.com
@@ -893,7 +906,9 @@ vanillicon.com
 vector.co
 venlacy.com
 venlacy.top
+vercel-storage.com
 vercel.app
+vercel.com
 verisign.com
 visa.com
 visualstudio.com

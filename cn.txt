@@ -1,4 +1,4 @@
-# generated-at: 1788089554
+# generated-at: 1788112152
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -191,7 +191,6 @@ cdngslb.com
 cdnhwc2.com
 cdnhwc3.com
 cdnhwcjog12.com
-cdnhwczba04.com
 cdntips.net
 cfca.com.cn
 cfogc.com
@@ -227,6 +226,7 @@ coloros.com
 comfylink.com
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -378,7 +378,6 @@ hzyoka.com
 i4.cn
 ibruce.info
 ibytedapm.com
-icloud.com.cn
 icloudnative.io
 id6.me
 idouyinvod.com
@@ -434,6 +433,7 @@ kc2.top
 kdocs.cn
 kfc.com.cn
 kfcapp.cn
+kimi.ai
 kimi.com
 kjykcdn.com
 ks-cdn.com
