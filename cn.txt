@@ -1,4 +1,4 @@
-# generated-at: 1788044680
+# generated-at: 1788067370
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -205,6 +205,7 @@ chinanetcenter.com
 chinaunicom.cn
 chinaz.com
 chitus.com
+cibntv.net
 citicsf.com
 ciweiyunyin.com
 cjjd14.com
@@ -225,7 +226,6 @@ coloros.com
 comfylink.com
 conac.cn
 convection.cn
-crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd

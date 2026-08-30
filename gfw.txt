@@ -1,4 +1,4 @@
-# generated-at: 1788044680
+# generated-at: 1788067370
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -135,6 +135,7 @@ bntrace.com
 bootstrapcdn.com
 brandfetch.io
 braze.com
+brea.cloud
 breadcloud.io
 browser-intake-datadoghq.com
 browser-intake-us3-datadoghq.com
@@ -201,6 +202,7 @@ cloudns.org
 clouvider.co.uk
 clouvider.com
 cncdn.cc
+cnfaster.com
 cnima.de
 coc.li
 cock.li
@@ -620,6 +622,7 @@ onedriveclucprodbn20041.blob.core.windows.net
 onedriveclucprodbn20044.blob.core.windows.net
 onedriveclucprodbn20045.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
+onedriveclucproddm20002.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
 onedriveclucproddm20008.blob.core.windows.net
 onedriveclucproddm20012.blob.core.windows.net
