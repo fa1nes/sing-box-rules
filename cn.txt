@@ -1,4 +1,4 @@
-# generated-at: 1788157296
+# generated-at: 1788178986
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -191,6 +191,7 @@ cdngslb.com
 cdnhwc2.com
 cdnhwc3.com
 cdnhwcjog12.com
+cdnhwczba04.com
 cdntips.net
 cfca.com.cn
 cfogc.com
@@ -205,6 +206,7 @@ chinanetcenter.com
 chinaunicom.cn
 chinaz.com
 chitus.com
+cibntv.net
 citicsf.com
 ciweiyunyin.com
 cjjd14.com
@@ -547,6 +549,7 @@ pkoplink.com
 plaso.cn
 plaso.com
 poizon.com
+polyv.net
 portal101.cn
 pp918.com
 pstatp.com
@@ -800,6 +803,7 @@ yokagames.com
 youku.com
 youpengw.com
 youzanyun.com
+yqslmall.com
 yst.com.cn
 yuansfer.com
 yuanshen.com
