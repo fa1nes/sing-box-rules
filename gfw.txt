@@ -1,4 +1,4 @@
-# generated-at: 1788223797
+# generated-at: 1788245659
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -233,7 +233,6 @@ crashlytics.com
 crisp.chat
 criteo.com
 criteo.net
-crlocsp.cn
 crunchyroll.com
 ctfassets.net
 culturedcode.com
