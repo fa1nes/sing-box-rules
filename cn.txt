@@ -1,4 +1,4 @@
-# generated-at: 1788334215
+# generated-at: 1788356749
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -12,6 +12,7 @@
 115cdn.net
 116cd.cn
 122.gov.cn
+123clouddrive.net
 126.net
 127.net
 16163.com
@@ -46,6 +47,7 @@
 93book.com
 95516.com
 95526.mobi
+95fenapp.com
 acgvideo.com
 ad-scope.com.cn
 adkwai.com
@@ -228,6 +230,7 @@ coloros.com
 comfylink.com
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -464,6 +467,7 @@ ldhy.click
 lenovomm.cn
 lenovomm.com
 lepudding.com
+lightmake.studio
 livehwc3.cn
 lnk0.com
 luckincoffeecdn.com
@@ -543,6 +547,7 @@ peopleapp.com
 pglstatp-toutiao.com
 picui.cn
 pinduoduo.com
+pinduoduo.net
 pipi.cn
 pixpin.cn
 pkoplink.com
@@ -700,6 +705,7 @@ uc.cn
 ucweb.com
 uczzd.cn
 udache.com
+ufileos.com
 ugcimg.cn
 ugdtimg.com
 ugsdk.cn
@@ -771,6 +777,7 @@ wxlivecdn.com
 wyjianzhan.com
 xdrtc.com
 xhscdn.com
+xhslink.com
 xiaoheihe.cn
 xiaohongshu.com
 xiaojukeji.com
