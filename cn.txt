@@ -1,4 +1,4 @@
-# generated-at: 1788289480
+# generated-at: 1788311561
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -219,6 +219,7 @@ cmbimg.cn
 cmbimg.com
 cmecloud.cn
 cmpassport.com
+cncdn.cc
 cnklog.com
 cnspeedtest.cn
 cnzz.com
