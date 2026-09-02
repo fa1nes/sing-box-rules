@@ -1,4 +1,4 @@
-# generated-at: 1788356749
+# generated-at: 1788378544
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -81,6 +81,7 @@ aliyun-inc.com
 aliyun.com
 aliyuncs.com
 aliyuncsslb.com
+aliyunpds.com
 allawntech.com
 alllook.tv
 alookweb.com
@@ -208,7 +209,6 @@ chinanetcenter.com
 chinaunicom.cn
 chinaz.com
 chitus.com
-cibntv.net
 citicsf.com
 ciweiyunyin.com
 cjjd14.com
@@ -280,6 +280,7 @@ dot.pub
 doubao-dev.com
 doubao.com
 doubaocdn.com
+douding.cn
 doupay.com
 douyin.com
 douyincdn.com
@@ -344,6 +345,7 @@ gtimg.com
 guangdongyunchen.com
 gz-tencentclb.com
 hanbaocheng.cn
+handebook.com
 hanhuish.cn
 hc-cdn.cn
 hc-cdn.com
