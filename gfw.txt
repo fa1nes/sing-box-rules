@@ -1,4 +1,4 @@
-# generated-at: 1788413141
+# generated-at: 1788457398
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -792,6 +792,7 @@ sing-box.app
 singular.net
 sintral.me
 skk.moe
+skyimg.net
 skype.com
 slgnt.eu
 small-point.com
