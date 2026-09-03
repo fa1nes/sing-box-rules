@@ -1,4 +1,4 @@
-# generated-at: 1788457398
+# generated-at: 1788479461
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -48,7 +48,6 @@
 95516.com
 95526.mobi
 95fenapp.com
-acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
@@ -395,6 +394,7 @@ ihuoshanlive.com
 ilife798.com
 imdada.cn
 imgs.ovh
+imtmp.net
 infi.cn
 inkuai.com
 ip.cn
