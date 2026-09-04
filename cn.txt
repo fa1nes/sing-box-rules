@@ -1,4 +1,4 @@
-# generated-at: 1788524142
+# generated-at: 1788546032
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -200,7 +200,6 @@ cfca.com.cn
 cfogc.com
 chaitin.cn
 changyanedu.cn
-chaoxing.com
 chelaile.net.cn
 chelaileapp.cn
 chengzijianzhan.com
@@ -209,7 +208,6 @@ chinanetcenter.com
 chinaunicom.cn
 chinaz.com
 chitus.com
-cibntv.net
 citicsf.com
 ciweiyunyin.com
 cjjd14.com
