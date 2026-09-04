@@ -1,4 +1,4 @@
-# generated-at: 1788501536
+# generated-at: 1788524142
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -188,6 +188,7 @@ ccpf-cn.com
 cctalk.com
 cdky.vip
 cdkyvip360.cn
+cdn-go.cn
 cdn1.vip
 cdnbuild.net
 cdngslb.com
@@ -230,6 +231,7 @@ coloros.com
 comfylink.com
 conac.cn
 convection.cn
+crlocsp.cn
 csdn.net
 csdnimg.cn
 css.sd
@@ -421,6 +423,7 @@ jdpay.com
 jegotrip.com.cn
 jiguang.cn
 jikeiot.cloud
+jinritemai.com
 jomodns.com
 jomoxc.com
 jpush.cn
@@ -442,6 +445,7 @@ kfcapp.cn
 kimi.ai
 kimi.com
 kjykcdn.com
+koubei.com
 ks-cdn.com
 ksapisrv.com
 ksord.com
@@ -627,6 +631,7 @@ sgshero.com
 sh-tencentclb.cloud
 shaanxi.gov.cn
 shifen.com
+shihuo.cn
 shinet.cn
 shortdramaop.com
 shouqianba.com
