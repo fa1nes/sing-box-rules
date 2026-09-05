@@ -1,4 +1,4 @@
-# generated-at: 1788590793
+# generated-at: 1788613338
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -48,7 +48,6 @@
 95516.com
 95526.mobi
 95fenapp.com
-acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
@@ -164,6 +163,7 @@ byted-static.com
 byted.org
 bytedance.com
 bytedanceapi.com
+bytedns1.com
 bytednsdoc.com
 byteeffecttos.com
 bytefae.com
@@ -188,10 +188,10 @@ ccpf-cn.com
 cctalk.com
 cdky.vip
 cdkyvip360.cn
-cdn-go.cn
 cdn1.vip
 cdnbuild.net
 cdngslb.com
+cdnhwc1.com
 cdnhwc2.com
 cdnhwc3.com
 cdnhwcjog12.com
@@ -215,6 +215,7 @@ ciweiyunyin.com
 cjjd14.com
 cl2009.com
 cldisk.com
+cloudcachetci.com
 cloudpnr.com
 cmbchina.cn
 cmbchina.com
@@ -448,6 +449,7 @@ kimi.com
 kjykcdn.com
 koubei.com
 ks-cdn.com
+ks-live.com
 ksapisrv.com
 ksord.com
 ksosoft.com
@@ -474,6 +476,7 @@ lenovomm.cn
 lenovomm.com
 lepudding.com
 lightmake.studio
+lightvela.com
 livehwc3.cn
 lnk0.com
 luckincoffeecdn.com
@@ -525,7 +528,6 @@ netease.com
 netease.im
 nexitech.cn
 nfcos.cn
-nmc.cn
 nocode.com
 nosec.org
 npmmirror.com
@@ -535,6 +537,7 @@ oceanengine.com
 officeplus.cn
 onethingpcs.com
 onewsvod.com
+onezapp.com
 opdwz.cn
 openinstall.com
 openinstall.io
@@ -685,6 +688,7 @@ tencentclb.com
 tencentcloudapi.com
 tencentcos.cn
 tencentcs.cn
+tencentcs.com
 tencentmusic.com
 tenpay.com
 tfogc.com
@@ -695,6 +699,7 @@ tliveapp.com
 tlivecdn.com
 tlivedns.com
 tlivemcdn.com
+tliveplay.com
 tlivesource.com
 tmall.com
 toutiao.com
@@ -779,6 +784,7 @@ wpscdn.cn
 wshoho.cn
 wskwai.com
 wsukwai.com
+wswebcdn.com
 wwads.cn
 wwstat.com
 wxamedia.com

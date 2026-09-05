@@ -1,4 +1,4 @@
-# generated-at: 1788590793
+# generated-at: 1788613338
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -111,6 +111,7 @@ ayugram.one
 azure.com
 azure.net
 azureedge.net
+azurefd.net
 b-cdn.net
 b3log.org
 bangumi.ca
@@ -128,6 +129,7 @@ bgptools-agent-cf.com
 bidswitch.net
 binance.com
 binance.info
+binance.me
 bing.com
 bing.net
 bingapis.com
@@ -170,6 +172,7 @@ cachefly.net
 caneis.com.tw
 canoe.im
 canva.com
+caonimabi.de
 capjs.net
 carryz.net
 catpanel.net
@@ -195,6 +198,7 @@ clashofclans.com
 claude-code-best.win
 claude.ai
 claude.com
+clavulin.com
 cline.bot
 cloud.microsoft
 cloudflare-dns.com
@@ -444,6 +448,7 @@ imgur.com
 immersivetranslate.cn
 immersivetranslate.com
 immortalwrt.org
+impartchat.com
 indream.app
 informaten.com
 inmobi.com
@@ -608,12 +613,14 @@ nolimithost.cc
 nosla.cloud
 notifications.us-east-1.amazonaws.com
 notion.so
+nousresearch.com
 npmjs.com
 npmjs.org
 ns1p-aws-backed.global.ssl.fastly.net
 ns1pcdn.net
 nsx.de
 ntp.org
+nvidia.com
 nxtrace.org
 oaistatic.com
 office.com
@@ -624,46 +631,6 @@ ogmua.cn
 okx.com
 one.one
 onedrive.com
-onedriveclucprodbn20001.blob.core.windows.net
-onedriveclucprodbn20004.blob.core.windows.net
-onedriveclucprodbn20007.blob.core.windows.net
-onedriveclucprodbn20008.blob.core.windows.net
-onedriveclucprodbn20009.blob.core.windows.net
-onedriveclucprodbn20010.blob.core.windows.net
-onedriveclucprodbn20017.blob.core.windows.net
-onedriveclucprodbn20018.blob.core.windows.net
-onedriveclucprodbn20021.blob.core.windows.net
-onedriveclucprodbn20025.blob.core.windows.net
-onedriveclucprodbn20026.blob.core.windows.net
-onedriveclucprodbn20027.blob.core.windows.net
-onedriveclucprodbn20028.blob.core.windows.net
-onedriveclucprodbn20029.blob.core.windows.net
-onedriveclucprodbn20030.blob.core.windows.net
-onedriveclucprodbn20037.blob.core.windows.net
-onedriveclucprodbn20039.blob.core.windows.net
-onedriveclucprodbn20041.blob.core.windows.net
-onedriveclucprodbn20044.blob.core.windows.net
-onedriveclucprodbn20045.blob.core.windows.net
-onedriveclucprodbn20048.blob.core.windows.net
-onedriveclucproddm20001.blob.core.windows.net
-onedriveclucproddm20002.blob.core.windows.net
-onedriveclucproddm20006.blob.core.windows.net
-onedriveclucproddm20008.blob.core.windows.net
-onedriveclucproddm20012.blob.core.windows.net
-onedriveclucproddm20013.blob.core.windows.net
-onedriveclucproddm20014.blob.core.windows.net
-onedriveclucproddm20016.blob.core.windows.net
-onedriveclucproddm20019.blob.core.windows.net
-onedriveclucproddm20021.blob.core.windows.net
-onedriveclucproddm20027.blob.core.windows.net
-onedriveclucproddm20036.blob.core.windows.net
-onedriveclucproddm20037.blob.core.windows.net
-onedriveclucproddm20038.blob.core.windows.net
-onedriveclucproddm20040.blob.core.windows.net
-onedriveclucproddm20042.blob.core.windows.net
-onedriveclucproddm20044.blob.core.windows.net
-onedriveclucproddm20045.blob.core.windows.net
-onedriveclucproddm20050.blob.core.windows.net
 onelink.me
 onetrust.com
 onetrust.io
@@ -705,6 +672,7 @@ postimg.cc
 prezly.com
 priceai.cc
 protechts.net
+pwnedpasswords.com
 px-cloud.net
 pypi.org
 pythonhosted.org
@@ -886,6 +854,7 @@ typekit.net
 typicode.com
 typora.io
 u.sb
+u1.pw
 unifyintent.com
 unisvg.com
 unpkg.com
@@ -929,8 +898,6 @@ vox.moe
 vps.hosting
 vpshostingservice.co
 vsassets.io
-vsblobprodscussu5shard37.blob.core.windows.net
-vsblobprodscussu5shard82.blob.core.windows.net
 vscode-cdn.net
 vscode-unpkg.net
 vungle.com
@@ -952,6 +919,7 @@ why3s.com.tw
 wikimedia.org
 wikipedia.org
 windows.com
+windows.net
 windowsupdate.com
 wisekey.com
 withgoogle.com
