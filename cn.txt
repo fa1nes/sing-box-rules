@@ -1,4 +1,4 @@
-# generated-at: 1788568248
+# generated-at: 1788590793
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -308,6 +308,7 @@ effirst.com
 ele.me
 elemecdn.com
 etoote.com
+everisker.com
 fancy.cc
 feelgood.cn
 feichong.net
@@ -612,6 +613,7 @@ rtbasia.com
 rtcxyz.com
 ruanmei.com
 rumt-zh.com
+ruubypay.com
 sandai.net
 sangfor.com
 sangfor.com.cn
@@ -647,6 +649,7 @@ sm.cn
 smartont.net
 snssdk.com
 so.com
+sogaha.cn
 sogou.com
 sohu.com
 solar-engine.com
@@ -824,6 +827,7 @@ yuanshen.com
 yuewen.com
 yugew.com
 yumchina.com
+yunxinfw.com
 yunxish.com
 yximgs.com
 yzcdn.cn
