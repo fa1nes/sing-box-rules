@@ -1,4 +1,4 @@
-# generated-at: 1788613338
+# generated-at: 1788656777
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 023168.xyz
@@ -23,6 +23,7 @@
 189.cn
 1900m.com
 1b1tech.com
+1panel.cn
 1rtb.com
 1rtb.net
 3.cn
@@ -48,6 +49,7 @@
 95516.com
 95526.mobi
 95fenapp.com
+acgvideo.com
 ad-scope.com.cn
 adkwai.com
 adn-plus.com.cn
@@ -56,6 +58,7 @@ adukwai.com
 advlion.com
 adwangmai.com
 aichaoxing.com
+aigei.com
 aliapp.org
 alibaba-inc.com
 alibaba.com
@@ -63,6 +66,7 @@ alibabachengdun.com
 alibabachengdun.net
 alibabacloud.com
 alibabadns.com
+alibabagroup.com
 alibabausercontent.com
 alicdn.com
 alidns.com
@@ -188,6 +192,7 @@ ccpf-cn.com
 cctalk.com
 cdky.vip
 cdkyvip360.cn
+cdn-go.cn
 cdn1.vip
 cdnbuild.net
 cdngslb.com
@@ -205,6 +210,7 @@ chelaile.net.cn
 chelaileapp.cn
 chengzijianzhan.com
 chinacloudsites.cn
+chinamobile.com
 chinanetcenter.com
 chinaunicom.cn
 chinaz.com
@@ -215,6 +221,7 @@ ciweiyunyin.com
 cjjd14.com
 cl2009.com
 cldisk.com
+clickwifi.net
 cloudcachetci.com
 cloudpnr.com
 cmbchina.cn
@@ -447,6 +454,7 @@ kfcapp.cn
 kimi.ai
 kimi.com
 kjykcdn.com
+komect.com
 koubei.com
 ks-cdn.com
 ks-live.com
@@ -528,6 +536,7 @@ netease.com
 netease.im
 nexitech.cn
 nfcos.cn
+nmc.cn
 nocode.com
 nosec.org
 npmmirror.com
@@ -583,6 +592,7 @@ qishui.com
 qiyukf.com
 qiyukf.net
 qjsalia.com
+qjsalib.com
 qlivecdn.com
 qlogo.cn
 qnqcdn.net
@@ -808,6 +818,7 @@ xycdn.com
 xzxpay.com.cn
 yangkeduo.com
 yangshipin.cn
+ydcloudcmp.cn
 ydycdn.com
 yebinnet.com
 yeshj.com
@@ -838,8 +849,10 @@ yunxish.com
 yximgs.com
 yzcdn.cn
 yzt.com.cn
+z.ai
 z1cdn.com
 zaodian.com
+zeruns.com
 zhangyuyidong.cn
 zhihu.com
 zhimg.com
@@ -849,6 +862,7 @@ zhuanzhuan.com
 zijieapi.com
 zimgs.cn
 zjcdn.com
+zqdialup.cn
 zstatic.net
 zui.com
 zxart.cn

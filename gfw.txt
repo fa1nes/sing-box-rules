@@ -1,4 +1,4 @@
-# generated-at: 1788613338
+# generated-at: 1788656777
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 060418.xyz
@@ -76,6 +76,7 @@ anthropic.com
 apdcdn.com
 api.aws
 apigateway.us-east-1.amazonaws.com
+apikey.fun
 apnic.net
 app-ads-services.com
 app-analytics-services-att.com
@@ -105,6 +106,7 @@ astro.build
 atl-paas.net
 attio.com
 awsstatic.com
+awswaf.com
 axon.ai
 ayepv6.com
 ayugram.one
@@ -112,6 +114,7 @@ azure.com
 azure.net
 azureedge.net
 azurefd.net
+azurefd.us
 b-cdn.net
 b3log.org
 bangumi.ca
@@ -121,6 +124,7 @@ bayimg.com
 bbbbbb.eu.org
 bdcgslb.com
 bero-host.de
+bestproxy.com
 bestvm.cloud
 bgm.tv
 bgp.gd
@@ -136,6 +140,7 @@ bingapis.com
 bitsflow.cloud
 bitwarden.com
 bjmxy.net
+bnappweb.black
 bnbstatic.com
 bntrace.com
 bootstrapcdn.com
@@ -246,7 +251,9 @@ danmuji.org
 datarecoverymoscow.ru
 datatables.net
 datawave.sh
+dddddd.eu.org
 debian.org
+deepflood.com
 deepwiki.com
 deli.pp.ua
 demandbase.com
@@ -353,6 +360,7 @@ go.com
 godaddy.com
 godaxiom.com
 godedicated.com
+golang.org
 goldstarline.com
 gomami.io
 google-analytics.com
@@ -643,6 +651,7 @@ openbsd.org
 openfreemap.org
 openstreetmap.org
 opensubtitles.com
+optimizely.com
 oraclecloud.com
 oraios-software.de
 orangevps.com
@@ -738,6 +747,7 @@ seek.li
 seeusercontent.com
 sekai.icu
 sennheiser-hearing.com
+sentry-cdn.com
 sentry.io
 servedby-buysellads.com
 serverspace.us
@@ -865,6 +875,8 @@ us-ore-00001.s3.dualstack.us-west-2.amazonaws.com
 usefathom.com
 usemessages.com
 usercentrics.eu
+userled.io
+userledclient.io
 usertrust.com
 userway.org
 utoronto.ca
@@ -902,6 +914,7 @@ vscode-cdn.net
 vscode-unpkg.net
 vungle.com
 wafv2.us-east-1.amazonaws.com
+walletconnect.org
 wanteasy.com.tw
 warpstorm.space
 wawo.wiki
@@ -911,6 +924,7 @@ wdpromedia.com
 website-files.com
 weglot.com
 whatismyip.com.tw
+whecloud.com
 whiteboard.ms
 whitechun.xyz
 who.is
@@ -922,6 +936,7 @@ windows.com
 windows.net
 windowsupdate.com
 wisekey.com
+wistia.net
 withgoogle.com
 wmlabs.net
 workers.dev
