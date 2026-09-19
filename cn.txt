@@ -1,9 +1,10 @@
-# generated-at: 1789388599
+# generated-at: 1789805267
 # bundle-mode: standard
 # 由 dns-stack 分类器自动生成，请勿手工编辑
 03k.org
 10010.com
 10086.cn
+100ycdn.com
 10jqka.com.cn
 11222.cn
 115.com
@@ -32,6 +33,7 @@
 51.la
 52pojie.cn
 5eplay.com
+5gnewcall.cn
 6711img.com
 68.gd.cn
 91kami.com
@@ -41,13 +43,13 @@ acgvideo.com
 ad-scope.com.cn
 adn-plus.com.cn
 advlion.com
+adzhp.cc
 aigei.com
 alibaba-inc.com
 alibaba.com
 alibabachengdun.com
 alibabachengdun.net
 alibabausercontent.com
-alidns.com
 aligames.com
 alikunlun.net
 alipan.com
@@ -87,6 +89,7 @@ biyingniao.com
 bjmantis.net
 bjtu.edu.cn
 bjut.edu.cn
+bjzbb.com
 blibee.com
 bookln.cn
 bsgslb.cn
@@ -106,7 +109,6 @@ chaitin.cn
 changyanedu.cn
 chaoxing.com
 chelaile.net.cn
-chengzijianzhan.com
 chinamobile.com
 chinaunicom.cn
 chinaz.com
@@ -116,18 +118,21 @@ cibntv.net
 citicsf.com
 ciweiyunyin.com
 cl2009.com
+cl2m.cn
 cldisk.com
 cmbchina.cn
 cmbchina.com
 cmbimg.com
 cmecloud.cn
 cmpassport.com
+cmpay.com
 cnpub.com.cn
 cnspeedtest.cn
 cnzz.com
 coloros.com
 comfylink.com
 conac.cn
+crlocsp.cn
 csdn.net
 ctrmi.cn
 cup.com.cn
@@ -153,7 +158,7 @@ doh.pub
 domob.cn
 dongfou.com
 dot.pub
-doubao.com
+doubao-dev.com
 douding.cn
 douyin.com
 duoweisoft.com
@@ -164,10 +169,11 @@ ecitic.com
 ele.me
 elemecdn.com
 ems.com.cn
+eol.cn
+esign.cn
 etoote.com
 everisker.com
 fancy.cc
-feelgood.cn
 feichong.net
 feishu.cn
 fengchuanba.com
@@ -185,9 +191,12 @@ getui.com
 getui.net
 ggyx666.com
 gifshow.com
+giocdn.com
+gk100.com
 goofish.com
 gpowersoft.com
 gravity-engine.com
+growingio.com
 hanbaocheng.cn
 healthjd.com
 hekouxin.com
@@ -207,6 +216,7 @@ hubcloud.com.cn
 huizhek.com
 hujiang.com
 hypergryph.com
+hzyankean.com
 hzyoka.com
 icbc.com.cn
 id6.me
@@ -241,6 +251,7 @@ kaixinkan.com.cn
 kaoyan365.vip
 kaoyansou.cn
 kaoyanvip.cn
+kaoyanvip.com
 kc2.top
 kfcapp.cn
 kimi.com
@@ -264,12 +275,15 @@ kwimgs.com
 kxtrl.cn
 laiqukankan.com
 ldhy.click
+ldmnq.com
 lenovomm.com
 lepudding.com
 lightmake.studio
+linkqiu.com
 lnk0.com
 maimemo.com
 maimemostatus.com
+maiyizhi.cn
 maoyan.com
 max-c.com
 maxjia.com
@@ -304,7 +318,6 @@ nocode.com
 nosec.org
 npmmirror.com
 nuomi.com
-oceanengine.com
 officeplus.cn
 onethingpcs.com
 opdwz.cn
@@ -333,6 +346,7 @@ qpic.cn
 qq.com
 qrstuvwxyzab.com
 quark.cn
+qun100.com
 qunar.com
 qweather.com
 qwps.cn
@@ -348,6 +362,7 @@ sanguosha.com
 sankuai.com
 sensorsdata.cn
 sgshero.com
+shanbay.com
 shifen.com
 shihuo.cn
 shinet.cn
@@ -366,6 +381,7 @@ soulapp.cn
 sov2ex.com
 starrydyn.com
 staybrowser.com
+sui.com
 szmedior.com
 talkingdata.com
 tanx.com
@@ -380,6 +396,7 @@ tencent.com
 tianwenca.com
 time.edu.cn
 tingyun.com
+tjjt360.com
 tmall.com
 toutiao.com
 toutiaocloud.net
@@ -390,12 +407,12 @@ ubeethiesemo.com
 uc.cn
 uczzd.cn
 udache.com
-ugurl.cn
 umeng.com
 unifycarbon.com
 ustc.edu.cn
 uyunad.com
 vidcube.cn
+videocc.net
 videoplus.cc
 vip.com
 vivo.com
@@ -444,6 +461,7 @@ yidianzixun.com
 yijielinli.com.cn
 yilanvaas.com
 yiyouliao.com
+ymzy.cn
 yokagames.com
 youku.com
 youpengw.com
@@ -461,6 +479,7 @@ zhizhuma.com
 zhuanzfx.com
 zhuanzhuan.com
 zimgs.cn
+zjzw.cn
 zqdialup.cn
 zstatic.net
 zt-express.com
